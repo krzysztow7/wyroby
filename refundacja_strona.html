@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Wyroby medyczne na zlecenie – wyszukiwarka</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f4f6f8;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 800px;
+      margin: 4em auto;
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      padding: 2em;
+    }
+    h1 {
+      font-size: 1.8em;
+      color: #2c3e50;
+      text-align: center;
+    }
+    label {
+      display: block;
+      margin: 1em 0 0.5em;
+      font-weight: bold;
+      color: #34495e;
+    }
+    input[type="text"] {
+      width: 100%;
+      padding: 0.7em;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      font-size: 1em;
+      background: #fff;
+    }
+    datalist option {
+      font-size: 1em;
+    }
+    #wynik {
+      margin-top: 2em;
+      background: #ecf0f1;
+      padding: 1.5em;
+      border-radius: 12px;
+      color: #2c3e50;
+    }
+    #wynik h2 {
+      margin-top: 0;
+      color: #2980b9;
+    }
+    #wynik p {
+      line-height: 1.6em;
+    }
+  </style>
+  <script>
+    const data = {};
+
+    fetch('https://krzysztofdomka.github.io/wyroby-medyczne-nfz/wyroby.json')
+      .then(response => response.json())
+      .then(json => {
+        Object.assign(data, json);
+        const datalist = document.getElementById("wyroby");
+        for (const key in data) {
+          const option = document.createElement("option");
+          option.value = data[key].nazwa;
+          datalist.appendChild(option);
+        }
+      });
+
+    function showInfo() {
+      const input = document.getElementById("wybor").value.toLowerCase();
+      const kod = Object.keys(data).find(k => data[k].nazwa.toLowerCase().includes(input));
+      const info = data[kod];
+      document.getElementById("wynik").innerHTML = info ? `
+        <h2>${info.nazwa}</h2>
+        <p><strong>Osoby uprawnione:</strong> ${info.osoby}</p>
+        <p><strong>Limit finansowania:</strong> ${info.limit}</p>
+        <p><strong>Udział własny:</strong> ${info.udzial}</p>
+        <p><strong>Kryteria przyznania:</strong> ${info.kryteria}</p>
+      ` : '';
+    }
+  </script>
+</head>
+<body>
+  <div class="container">
+    <h1>Refundacja wyrobów medycznych na zlecenie (NFZ)</h1>
+    <label for="wybor">Wpisz lub wybierz wyrób medyczny:</label>
+    <input list="wyroby" id="wybor" oninput="showInfo()" placeholder="np. INR, pieluchy, proteza">
+    <datalist id="wyroby"></datalist>
+    <div id="wynik"></div>
+  </div>
+  <footer style="text-align:center; font-size:0.9em; color:#7f8c8d; padding:2em 1em;">
+    Dane na podstawie: Rozporządzenie Ministra Zdrowia z dnia 13 października 2023 r. (Dz.U. 2023 poz. 2461)
+  </footer>
+</body>
+</html>
