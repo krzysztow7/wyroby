@@ -37,7 +37,7 @@
     "osoby": "niniejszego rozporządzenia zgodnie z dotychczasowymi przepisami, użytkowanego po tym dniu, stosuje się przepisy rozpo-",
     "limit": "",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, nie muszą spełniać wymagania pozwalającego na dawkowanie insuliny na podstawie odczytów. § 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r. Minister Zdrowia: K. Sójka Dziennik Ustaw – 7 – Poz. 2461 Załącznik do rozporządzenia Ministra Zdrowia z dnia 13 października 2023 r.  (Dz. U. poz....) WYKAZ WYROBÓW MEDYCZNYCH WYDAWANYCH NA ZLECENIE Kod Wyroby medyczne Osoby uprawnione do wystawiania zlecenia na zaopatrzenie w wyroby medyczne1) Limit finansowania ze środków publicznych Wysokość udziału własnego świadczeniobiorcy w limicie finansowania ze środków publicznych2) Kryteria przyznawania Okres użytkowania3) Limit cen napraw Grupa A – Wyroby medyczne wykonywane na zamówienie po amputacji lub w przypadku wrodzonego braku w obrębie stopy"
   },
   {
     "kod": "A.01.01",
@@ -1036,8 +1036,8 @@
     "nazwa": "raz na 6 miesięcy",
     "osoby": "0 zł",
     "limit": "",
-    "udzial": "",
-    "kryteria": ""
+    "udzial": "10%",
+    "kryteria": "dzieci do ukończenia 18. roku życia 30% dorośli"
   },
   {
     "kod": "N.05.01",
@@ -1061,7 +1061,7 @@
     "osoby": "0 zł",
     "limit": "",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "– 40 – Poz. 2461 – 34 –"
   },
   {
     "kod": "N.07.01",
@@ -1141,7 +1141,7 @@
     "osoby": "0 zł",
     "limit": "120 zł",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "mmHg 120 zł za parę klasa ucisku od 34 mmHg"
   },
   {
     "kod": "N.14.02",
@@ -1188,16 +1188,16 @@
     "nazwa": "Soczewka okularowa",
     "osoby": "korekcyjna do bliży",
     "limit": "0 zł",
-    "udzial": "30%",
-    "kryteria": "dorośli raz na 2 lata 100 zł 0% dzieci do ukończenia 18. roku życia wady wzroku wymagające korekcji sfera od + 6,25 dptr i cylinder od 0,00 dptr; sfera do + 6,00 dptr i cylinder od ± 2,25 dptr, w tym soczewka z mocą pryzmatyczną według wskazań medycznych, nie częściej niż raz na 6 miesięcy 10% dorośli raz na 2 lata Dziennik Ustaw – 45 – Poz. 2461 – 39 – 350 zł 0% dzieci do ukończenia 18. roku życia wady wzroku wymagające korekcji sfera od + 10,00 dptr i cylinder od 0,00 dptr, w tym soczewka z mocą pryzmatyczną według wskazań medycznych, nie częściej niż raz na 6 miesięcy 10% dorośli raz na 2 lata"
+    "udzial": "0%",
+    "kryteria": "dzieci do ukończenia 18. roku życia wady wzroku wymagające korekcji sfera do + 6,00 dptr i cylinder do ± 2,00 dptr, w tym soczewka z mocą pryzmatyczną według wskazań medycznych, nie częściej niż raz na 6 miesięcy 0 zł 30% dorośli raz na 2 lata 100 zł 0% dzieci do ukończenia 18. roku życia wady wzroku wymagające korekcji sfera od + 6,25 dptr i cylinder od 0,00 dptr; sfera do + 6,00 dptr i cylinder od ± 2,25 dptr, w tym soczewka z mocą pryzmatyczną według wskazań medycznych, nie częściej niż raz na 6 miesięcy 10% dorośli raz na 2 lata Dziennik Ustaw – 45 – Poz. 2461 – 39 – 350 zł 0% dzieci do ukończenia 18. roku życia wady wzroku wymagające korekcji sfera od + 10,00 dptr i cylinder od 0,00 dptr, w tym soczewka z mocą pryzmatyczną według wskazań medycznych, nie częściej niż raz na 6 miesięcy 10% dorośli raz na 2 lata"
   },
   {
     "kod": "O.01.02",
     "nazwa": "Soczewka okularowa",
     "osoby": "korekcyjna do dali",
     "limit": "0 zł",
-    "udzial": "30%",
-    "kryteria": "dorośli raz na 2 lata 100 zł 0% dzieci do ukończenia 18. roku życia wady wzroku wymagające korekcji sfera od - 6,25 dptr i cylinder od 0,00 dptr; sfera do - 6,00 dptr i cylinder od ± 2,25 dptr, w tym soczewka z mocą pryzmatyczną według wskazań medycznych, nie częściej niż raz na 6 miesięcy 10% dorośli raz na 2 lata 350 zł 0% dzieci do ukończenia 18. roku życia wady wzroku wymagające korekcji sfera od - 10,00 dptr i cylinder od 0,00 dptr, w tym soczewka z mocą pryzmatyczną według wskazań medycznych, nie częściej niż raz na 6 miesięcy 10% dorośli raz na 2 lata"
+    "udzial": "0%",
+    "kryteria": "dzieci do ukończenia 18. roku życia wady wzroku wymagające korekcji sfera do - 6,00 dptr i cylinder do ± 2,00 dptr, w tym soczewka z mocą pryzmatyczną według wskazań medycznych, nie częściej niż raz na 6 miesięcy 0 zł 30% dorośli raz na 2 lata 100 zł 0% dzieci do ukończenia 18. roku życia wady wzroku wymagające korekcji sfera od - 6,25 dptr i cylinder od 0,00 dptr; sfera do - 6,00 dptr i cylinder od ± 2,25 dptr, w tym soczewka z mocą pryzmatyczną według wskazań medycznych, nie częściej niż raz na 6 miesięcy 10% dorośli raz na 2 lata 350 zł 0% dzieci do ukończenia 18. roku życia wady wzroku wymagające korekcji sfera od - 10,00 dptr i cylinder od 0,00 dptr, w tym soczewka z mocą pryzmatyczną według wskazań medycznych, nie częściej niż raz na 6 miesięcy 10% dorośli raz na 2 lata"
   },
   {
     "kod": "O.02.01",
@@ -1212,8 +1212,8 @@
     "nazwa": "Soczewka kontaktowa",
     "osoby": "miękka",
     "limit": "0 zł",
-    "udzial": "",
-    "kryteria": ""
+    "udzial": "10%",
+    "kryteria": "stożek rogówki; anizometropia powyżej 4 dptr; afakia raz na rok 0 zł"
   },
   {
     "kod": "O.04.01",
@@ -1221,7 +1221,7 @@
     "osoby": "OKU",
     "limit": "0 zł",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "zmiany wielkości i kształtu gałki ocznej wymagające uzupełnienia epiprotezą dzieci do ukończenia 18. roku życia według wskazań medycznych 0 zł dorośli raz na 5 lat"
   },
   {
     "kod": "O.05.01",
@@ -1229,7 +1229,7 @@
     "osoby": "OKU",
     "limit": "0 zł",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "brak gałki ocznej dzieci do ukończenia 18. roku życia według wskazań medycznych 0 zł dorośli raz na 5 lat Dziennik Ustaw – 46 – Poz. 2461 – 40 –"
   },
   {
     "kod": "O.06.01",
@@ -1237,7 +1237,7 @@
     "osoby": "OKU",
     "limit": "0 zł",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "umożliwienie obserwacji jednoocznej lub dwuocznej przedmiotów bliskich i dalekich osobom niedowidzącym przy chorobach siatkówki lub osobom niedowidzącym, gdy ostrość wzroku po korekcji w lepszym oku nie przekracza Vis 0,3 raz na 3 lata 0 zł"
   },
   {
     "kod": "O.07.01",
@@ -1245,7 +1245,7 @@
     "osoby": "OKU",
     "limit": "0 zł",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "umożliwienie obserwacji jednoocznej lub dwuocznej przedmiotów bliskich i dalekich osobom niedowidzącym przy chorobach siatkówki lub osobom niedowidzącym, gdy ostrość wzroku po korekcji w lepszym oku nie przekracza Vis 0,3 raz na 5 lat 0 zł"
   },
   {
     "kod": "O.08.01",
@@ -1253,15 +1253,15 @@
     "osoby": "OKU",
     "limit": "0 zł",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "umożliwienie obserwacji jednoocznej lub dwuocznej przedmiotów bliskich i dalekich osobom niedowidzącym przy chorobach siatkówki lub osobom niedowidzącym, gdy ostrość wzroku po korekcji w lepszym oku nie przekracza Vis 0,3 raz na 5 lat 0 zł"
   },
   {
     "kod": "O.09.01",
     "nazwa": "Okulary lornetkowe do",
     "osoby": "bliży lub do dali",
     "limit": "0 zł",
-    "udzial": "",
-    "kryteria": ""
+    "udzial": "0%",
+    "kryteria": "umożliwienie obserwacji jednoocznej lub dwuocznej przedmiotów bliskich i dalekich osobom niedowidzącym przy chorobach siatkówki lub osobom niedowidzącym, gdy ostrość wzroku po korekcji w lepszym oku nie przekracza Vis 0,3 raz na 5 lat 0 zł"
   },
   {
     "kod": "O.10.01",
@@ -1308,8 +1308,8 @@
     "nazwa": "raz na 3 miesiące",
     "osoby": "0 zł",
     "limit": "",
-    "udzial": "",
-    "kryteria": ""
+    "udzial": "30%",
+    "kryteria": "pacjenci po ukończeniu 26. roku życia z: 1) cukrzycą typu 1 lub 3 wymagający intensywnej insulinoterapii, z nieświadomością hipoglikemii (brak objawów prodromalnych hipoglikemii, wykluczenie hipoglikemii poalkoholowej) albo 2) glikogenozą, 3) hiperinsulinizmem wrodzonym – z wyłączeniem jednoczesnego zaopatrzenia w R.03.03 lub R.04.02, lub"
   },
   {
     "kod": "R.05.02",
@@ -1325,7 +1325,7 @@
     "osoby": "0 zł",
     "limit": "",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "intensywnej insulinoterapii, z nieświadomością hipoglikemii (brak objawów prodromalnych, hipoglikemii, wykluczenie hipoglikemii poalkoholowej) albo 2) glikogenozą, albo 3) hiperinsulinizmem wrodzonym – z wyłączeniem jednoczesnego zaopatrzenia w R.04.01 lub R.05.01, lub"
   },
   {
     "kod": "R.05.02",
@@ -1349,7 +1349,7 @@
     "osoby": "pachwinowy obustronny",
     "limit": "",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "przepuklina pachwinowa obustronna u pacjentów z przepukliną i przeciwwskazaniem do leczenia operacyjnego lub po zabiegu operacyjnym w celu zmniejszenia dolegliwości bólowych albo ryzyka wystąpienia przepukliny pooperacyjnej; z wyłączeniem jednoczesnego zaopatrzenia w S.01.01 lub"
   },
   {
     "kod": "S.01.03",
@@ -1365,7 +1365,7 @@
     "osoby": "100 zł",
     "limit": "0 zł",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "braku przeciwwskazań do stosowania pasa brzusznego raz na rok 0 zł Dziennik Ustaw – 58 – Poz. 2461 – 52 –"
   },
   {
     "kod": "S.05.01",
@@ -1380,8 +1380,8 @@
     "nazwa": "Kula łokciowa z",
     "osoby": "podparciem na",
     "limit": "0 zł",
-    "udzial": "",
-    "kryteria": ""
+    "udzial": "30%",
+    "kryteria": "trwała dysfunkcja chodu i zaburzenia czynności chwytnej ręki raz na 3 lata 0 zł"
   },
   {
     "kod": "S.05.03",
@@ -1389,7 +1389,7 @@
     "osoby": "40 zł",
     "limit": "0 zł",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "raz na 3 lata 0 zł"
   },
   {
     "kod": "S.06.01",
@@ -1397,7 +1397,7 @@
     "osoby": "75 zł",
     "limit": "0 zł",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "raz na 3 lata 0 zł Dziennik Ustaw – 59 – Poz. 2461 – 53 –"
   },
   {
     "kod": "S.07.01",
@@ -1453,7 +1453,7 @@
     "osoby": "510 zł",
     "limit": "",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "Poz. 2461 – 55 –"
   },
   {
     "kod": "S.14.01",
@@ -1477,7 +1477,7 @@
     "osoby": "900 zł",
     "limit": "",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "o wadze do 16 kg"
   },
   {
     "kod": "S.15.02",
@@ -1493,7 +1493,7 @@
     "osoby": "900 zł",
     "limit": "",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "do 12 kg Dziennik Ustaw – 62 – Poz. 2461 – 56 –"
   },
   {
     "kod": "S.16.01",
@@ -1533,7 +1533,7 @@
     "osoby": "1500 zł",
     "limit": "",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "Poz. 2461 – 57 –"
   },
   {
     "kod": "S.20.01",
@@ -1581,7 +1581,7 @@
     "osoby": "0 zł",
     "limit": "",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "Poz. 2461 – 62 –"
   },
   {
     "kod": "W.01.02",
@@ -1589,7 +1589,7 @@
     "osoby": "raz na miesiąc",
     "limit": "530 zł",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "– 69 – Poz. 2461 – 63 – GERIA GIN ONKO MED RODZ ONKO HEMA DZI ONKO KLIN OTOLARYNGO OTOLARYNGO DZI PALI HOSP PEDIA PIEL POŁ POŁO GIN POZ REHA URO 530 zł stomia na układzie moczowym (urostomia); z wyłączeniem jednoczesnego zaopatrzenia w W.01.02 (dotyczy tej samej stomii lub przetoki)"
   },
   {
     "kod": "W.01.01",
@@ -1597,7 +1597,7 @@
     "osoby": "jednorazowo",
     "limit": "",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "nowo wyłoniona stomia na układzie moczowym (urostomia); zlecenie może być wystawione tylko raz – jako pierwsze zlecenie po operacji wyłonienia stomii; z wyłączeniem jednoczesnego zaopatrzenia w W.01.01 (dotyczy tej samej stomii lub przetoki) Dziennik Ustaw – 70 – Poz. 2461 – 64 –"
   },
   {
     "kod": "W.02.01",
@@ -1605,7 +1605,7 @@
     "osoby": "jednorazowo",
     "limit": "",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "Dziennik Ustaw – 71 – Poz. 2461 – 65 – Grupa Y – Wyroby medyczne produkowane seryjnie przy inkontynencji moczu"
   },
   {
     "kod": "Y.02.02",
@@ -1613,7 +1613,7 @@
     "osoby": "0 zł",
     "limit": "",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "silikonowego Dziennik Ustaw – 72 – Poz. 2461 – 66 –"
   },
   {
     "kod": "Y.02.01",
@@ -1621,7 +1621,7 @@
     "osoby": "0 zł",
     "limit": "",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "Poz. 2461 – 67 –"
   },
   {
     "kod": "Z.01.01",
