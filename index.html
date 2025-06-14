@@ -47,12 +47,14 @@
       border-radius: 12px;
       color: #2c3e50;
     }
-    #wynik h2 {
+    #wynik h3 {
       margin-top: 0;
       color: #2980b9;
+      font-size: 1.3em;
     }
     #wynik p {
       line-height: 1.6em;
+      margin: 0.4em 0;
     }
   </style>
   <script>
@@ -61,26 +63,34 @@
     fetch('https://krzysztow7.github.io/wyroby/wyroby.json')
       .then(response => response.json())
       .then(json => {
-        Object.assign(data, json);
+        json.forEach(entry => {
+          data[entry.kod] = entry;
+        });
         const datalist = document.getElementById("wyroby");
-        for (const key in data) {
+        for (const kod in data) {
           const option = document.createElement("option");
-          option.value = data[key].nazwa;
+          option.value = data[kod].nazwa;
           datalist.appendChild(option);
         }
       });
 
     function showInfo() {
       const input = document.getElementById("wybor").value.toLowerCase();
-      const kod = Object.keys(data).find(k => data[k].nazwa.toLowerCase().includes(input));
-      const info = data[kod];
-      document.getElementById("wynik").innerHTML = info ? `
-        <h2>${info.nazwa}</h2>
-        <p><strong>Osoby uprawnione:</strong> ${info.osoby}</p>
-        <p><strong>Limit finansowania:</strong> ${info.limit}</p>
-        <p><strong>Udział własny:</strong> ${info.udzial}</p>
-        <p><strong>Kryteria przyznania:</strong> ${info.kryteria}</p>
-      ` : '';
+      const match = Object.values(data).find(d => d.nazwa.toLowerCase().includes(input));
+      if (!match) {
+        document.getElementById("wynik").innerHTML = "";
+        return;
+      }
+      document.getElementById("wynik").innerHTML = `
+        <h3>${match.nazwa}</h3>
+        <p><strong>Kod:</strong> ${match.kod}</p>
+        <p><strong>Osoby uprawnione do wystawienia zlecenia:</strong> ${match.osoby}</p>
+        <p><strong>Limit finansowania:</strong> ${match.limit}</p>
+        <p><strong>Udział własny:</strong> ${match.udzial}</p>
+        <p><strong>Kryteria przyznania:</strong> ${match.kryteria}</p>
+        <p><strong>Okres użytkowania:</strong> ${match.okres || "–"}</p>
+        <p><strong>Limit cen napraw:</strong> ${match.naprawa || "–"}</p>
+      `;
     }
   </script>
 </head>
