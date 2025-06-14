@@ -5,7 +5,9 @@
     "osoby": "– 3 –",
     "limit": "",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.06.01",
@@ -13,7 +15,9 @@
     "osoby": "– 4 –",
     "limit": "",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "U.03.01",
@@ -21,7 +25,9 @@
     "osoby": "– 5 –",
     "limit": "",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.24.01",
@@ -29,7 +35,9 @@
     "osoby": "– 6 –",
     "limit": "",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "W.02.02",
@@ -37,7 +45,9 @@
     "osoby": "niniejszego rozporządzenia zgodnie z dotychczasowymi przepisami, użytkowanego po tym dniu, stosuje się przepisy rozpo-",
     "limit": "",
     "udzial": "",
-    "kryteria": "rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, nie muszą spełniać wymagania pozwalającego na dawkowanie insuliny na podstawie odczytów. § 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r. Minister Zdrowia: K. Sójka Dziennik Ustaw – 7 – Poz. 2461 Załącznik do rozporządzenia Ministra Zdrowia z dnia 13 października 2023 r.  (Dz. U. poz....) WYKAZ WYROBÓW MEDYCZNYCH WYDAWANYCH NA ZLECENIE Kod Wyroby medyczne Osoby uprawnione do wystawiania zlecenia na zaopatrzenie w wyroby medyczne1) Limit finansowania ze środków publicznych Wysokość udziału własnego świadczeniobiorcy w limicie finansowania ze środków publicznych2) Kryteria przyznawania Okres użytkowania3) Limit cen napraw Grupa A – Wyroby medyczne wykonywane na zamówienie po amputacji lub w przypadku wrodzonego braku w obrębie stopy"
+    "kryteria": "rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, nie muszą spełniać wymagania pozwalającego na dawkowanie insuliny na podstawie odczytów. § 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r. Minister Zdrowia: K. Sójka Dziennik Ustaw – 7 – Poz. 2461 Załącznik do rozporządzenia Ministra Zdrowia z dnia 13 października 2023 r.  (Dz. U. poz....) WYKAZ WYROBÓW MEDYCZNYCH WYDAWANYCH NA ZLECENIE Kod Wyroby medyczne Osoby uprawnione do wystawiania zlecenia na zaopatrzenie w wyroby medyczne1) Limit finansowania ze środków publicznych Wysokość udziału własnego świadczeniobiorcy w limicie finansowania ze środków publicznych2) Kryteria przyznawania Okres użytkowania3) Limit cen napraw Grupa A – Wyroby medyczne wykonywane na zamówienie po amputacji lub w przypadku wrodzonego braku w obrębie stopy",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "A.01.01",
@@ -45,7 +55,9 @@
     "osoby": "uzupełniająca stopę",
     "limit": "300 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak w obrębie stopy raz na 2 lata4) 0 zł"
+    "kryteria": "amputacja lub wrodzony brak w obrębie stopy raz na 2 lata4) 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "A.01.02",
@@ -53,7 +65,9 @@
     "osoby": "uzupełniająca stopę",
     "limit": "600 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak w obrębie stopy raz na 2 lata4) 0 zł"
+    "kryteria": "amputacja lub wrodzony brak w obrębie stopy raz na 2 lata4) 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "A.02.01",
@@ -61,7 +75,9 @@
     "osoby": "CHI DZI",
     "limit": "8000 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak w obrębie stopy raz na 2 lata4) 0 zł Załącznik do rozporządzenia Ministra Zdrowia z dnia 13 października 2023 r. (Dz. U. poz. 2461) WYKAZ WYROBÓW MEDYCZNYCH WYDAWANYCH NA ZLECENIE Dziennik Ustaw – 8 – Poz. 2461 – 2 –"
+    "kryteria": "amputacja lub wrodzony brak w obrębie stopy raz na 2 lata4) 0 zł Załącznik do rozporządzenia Ministra Zdrowia z dnia 13 października 2023 r. (Dz. U. poz. 2461) WYKAZ WYROBÓW MEDYCZNYCH WYDAWANYCH NA ZLECENIE Dziennik Ustaw – 8 – Poz. 2461 – 2 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "A.03.01",
@@ -69,7 +85,9 @@
     "osoby": "obrębie stawu skokowego z",
     "limit": "4000 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak w obrębie stopy raz na 3 lata4) 1300 zł"
+    "kryteria": "amputacja lub wrodzony brak w obrębie stopy raz na 3 lata4) 1300 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "A.03.02",
@@ -77,7 +95,9 @@
     "osoby": "obrębie stawu skokowego z",
     "limit": "7500 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak w obrębie stopy raz na 3 lata4) 2500 zł"
+    "kryteria": "amputacja lub wrodzony brak w obrębie stopy raz na 3 lata4) 2500 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "A.03.03",
@@ -85,7 +105,9 @@
     "osoby": "obrębie stawu skokowego z",
     "limit": "000 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak w obrębie stopy raz na 3 lata4) 3300 zł Grupa B – Protezy kończyn dolnych wykonywane na zamówienie, po amputacji lub w przypadku wrodzonego braku lub niedorozwoju w obrębie podudzia"
+    "kryteria": "amputacja lub wrodzony brak w obrębie stopy raz na 3 lata4) 3300 zł Grupa B – Protezy kończyn dolnych wykonywane na zamówienie, po amputacji lub w przypadku wrodzonego braku lub niedorozwoju w obrębie podudzia",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "B.01.01",
@@ -93,7 +115,9 @@
     "osoby": "podudzia przy mobilności",
     "limit": "4000 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak w obrębie podudzia jednorazowo przed zaopatrzeniem w protezę ostateczną 0 zł"
+    "kryteria": "amputacja lub wrodzony brak w obrębie podudzia jednorazowo przed zaopatrzeniem w protezę ostateczną 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "B.01.02",
@@ -101,7 +125,9 @@
     "osoby": "podudzia przy mobilności",
     "limit": "6000 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak w obrębie podudzia jednorazowo przed zaopatrzeniem w protezę ostateczną 0 zł Dziennik Ustaw – 9 – Poz. 2461 – 3 –"
+    "kryteria": "amputacja lub wrodzony brak w obrębie podudzia jednorazowo przed zaopatrzeniem w protezę ostateczną 0 zł Dziennik Ustaw – 9 – Poz. 2461 – 3 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "B.02.01",
@@ -109,7 +135,9 @@
     "osoby": "skorupowa podudzia",
     "limit": "5500 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak w obrębie podudzia raz na 3 lata4) 1800 zł"
+    "kryteria": "amputacja lub wrodzony brak w obrębie podudzia raz na 3 lata4) 1800 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "B.03.01",
@@ -117,7 +145,9 @@
     "osoby": "modularna podudzia przy",
     "limit": "5000 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak w obrębie podudzia raz na 3 lata4) 1600 zł"
+    "kryteria": "amputacja lub wrodzony brak w obrębie podudzia raz na 3 lata4) 1600 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "B.03.02",
@@ -125,7 +155,9 @@
     "osoby": "modularna podudzia przy",
     "limit": "7000 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak w obrębie podudzia raz na 3 lata4) 2300 zł"
+    "kryteria": "amputacja lub wrodzony brak w obrębie podudzia raz na 3 lata4) 2300 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "B.03.03",
@@ -133,7 +165,9 @@
     "osoby": "modularna podudzia przy",
     "limit": "000 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak w obrębie podudzia raz na 3 lata4) 5000 zł dzieci do ukończenia 18. roku życia 10 000 zł dorośli 3300 zł dorośli"
+    "kryteria": "amputacja lub wrodzony brak w obrębie podudzia raz na 3 lata4) 5000 zł dzieci do ukończenia 18. roku życia 10 000 zł dorośli 3300 zł dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "B.04.01",
@@ -141,7 +175,9 @@
     "osoby": "tymczasowej podudzia",
     "limit": "2000 zł",
     "udzial": "0%",
-    "kryteria": "zaopatrzenie w protezę tymczasową podudzia raz w okresie użytkowania protezy, potwierdzone wskazaniami medycznymi 0 zł Dziennik Ustaw – 10 – Poz. 2461 – 4 –"
+    "kryteria": "zaopatrzenie w protezę tymczasową podudzia raz w okresie użytkowania protezy, potwierdzone wskazaniami medycznymi 0 zł Dziennik Ustaw – 10 – Poz. 2461 – 4 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "B.05.01",
@@ -149,7 +185,9 @@
     "osoby": "ostatecznej podudzia",
     "limit": "2500 zł",
     "udzial": "0%",
-    "kryteria": "zaopatrzenie w protezę ostateczną podudzia raz na 3 lata4), potwierdzone wskazaniami medycznymi 0 zł"
+    "kryteria": "zaopatrzenie w protezę ostateczną podudzia raz na 3 lata4), potwierdzone wskazaniami medycznymi 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "B.06.01",
@@ -157,7 +195,9 @@
     "osoby": "skrócenia kończyny dolnej",
     "limit": "7000 zł",
     "udzial": "0%",
-    "kryteria": "niedorozwój kończyny raz na 3 lata4), u dorosłych przy skróceniu powyżej 9 cm, jeżeli nie można wyrównać obuwiem ortopedycznym 2300 zł"
+    "kryteria": "niedorozwój kończyny raz na 3 lata4), u dorosłych przy skróceniu powyżej 9 cm, jeżeli nie można wyrównać obuwiem ortopedycznym 2300 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "B.07.01",
@@ -165,7 +205,9 @@
     "osoby": "tymczasowej lub",
     "limit": "1500 zł",
     "udzial": "0%",
-    "kryteria": "zaopatrzenie w protezę tymczasową i ostateczną podudzia raz na rok4) 0 zł Grupa C – Protezy kończyn dolnych wykonywane na zamówienie, po amputacji lub w przypadku wrodzonego braku lub niedorozwoju w obrębie uda"
+    "kryteria": "zaopatrzenie w protezę tymczasową i ostateczną podudzia raz na rok4) 0 zł Grupa C – Protezy kończyn dolnych wykonywane na zamówienie, po amputacji lub w przypadku wrodzonego braku lub niedorozwoju w obrębie uda",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "C.01.01",
@@ -173,7 +215,9 @@
     "osoby": "obrębie uda przy",
     "limit": "5000 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak w obrębie uda jednorazowo przed zaopatrzeniem w protezę ostateczną 0 zł"
+    "kryteria": "amputacja lub wrodzony brak w obrębie uda jednorazowo przed zaopatrzeniem w protezę ostateczną 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "C.01.02",
@@ -181,7 +225,9 @@
     "osoby": "obrębie uda przy",
     "limit": "8000 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak w obrębie uda jednorazowo przed zaopatrzeniem w protezę ostateczną 0 zł Dziennik Ustaw – 11 – Poz. 2461 – 5 –"
+    "kryteria": "amputacja lub wrodzony brak w obrębie uda jednorazowo przed zaopatrzeniem w protezę ostateczną 0 zł Dziennik Ustaw – 11 – Poz. 2461 – 5 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "C.01.03",
@@ -189,7 +235,9 @@
     "osoby": "obrębie uda przy",
     "limit": "000 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak w obrębie uda jednorazowo przed zaopatrzeniem w protezę ostateczną 0 zł 8000 zł dorośli"
+    "kryteria": "amputacja lub wrodzony brak w obrębie uda jednorazowo przed zaopatrzeniem w protezę ostateczną 0 zł 8000 zł dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "C.02.01",
@@ -197,7 +245,9 @@
     "osoby": "skorupowa",
     "limit": "5500 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak w obrębie uda raz na 3 lata4) 1800 zł"
+    "kryteria": "amputacja lub wrodzony brak w obrębie uda raz na 3 lata4) 1800 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "C.03.01",
@@ -205,7 +255,9 @@
     "osoby": "modularna w obrębie uda",
     "limit": "9000 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak w obrębie uda raz na 3 lata4) 3000 zł"
+    "kryteria": "amputacja lub wrodzony brak w obrębie uda raz na 3 lata4) 3000 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "C.03.02",
@@ -213,7 +265,9 @@
     "osoby": "modularna w obrębie uda",
     "limit": "000 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak w obrębie uda raz na 3 lata4) 4600 zł"
+    "kryteria": "amputacja lub wrodzony brak w obrębie uda raz na 3 lata4) 4600 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "C.03.03",
@@ -221,7 +275,9 @@
     "osoby": "modularna w obrębie uda",
     "limit": "000 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak w obrębie uda raz na 3 lata4) 10 000 zł dzieci do ukończenia 18. roku życia 20 000 zł dorośli 6600 zł dorośli Dziennik Ustaw – 12 – Poz. 2461 – 6 –"
+    "kryteria": "amputacja lub wrodzony brak w obrębie uda raz na 3 lata4) 10 000 zł dzieci do ukończenia 18. roku życia 20 000 zł dorośli 6600 zł dorośli Dziennik Ustaw – 12 – Poz. 2461 – 6 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "C.04.01",
@@ -229,7 +285,9 @@
     "osoby": "skrócenia kończyny dolnej",
     "limit": "000 zł",
     "udzial": "0%",
-    "kryteria": "niedorozwój kończyny raz na 3 lata4) 5000 zł"
+    "kryteria": "niedorozwój kończyny raz na 3 lata4) 5000 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "C.05.01",
@@ -237,7 +295,9 @@
     "osoby": "tymczasowej uda",
     "limit": "2000 zł",
     "udzial": "0%",
-    "kryteria": "zaopatrzenie w protezę tymczasową uda raz w okresie użytkowania protezy, potwierdzone wskazaniami medycznymi 0 zł"
+    "kryteria": "zaopatrzenie w protezę tymczasową uda raz w okresie użytkowania protezy, potwierdzone wskazaniami medycznymi 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "C.06.01",
@@ -245,7 +305,9 @@
     "osoby": "ostatecznej uda",
     "limit": "3500 zł",
     "udzial": "0%",
-    "kryteria": "zaopatrzenie w protezę ostateczną uda raz na 3 lata4), potwierdzone wskazaniami medycznymi 0 zł"
+    "kryteria": "zaopatrzenie w protezę ostateczną uda raz na 3 lata4), potwierdzone wskazaniami medycznymi 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "C.07.01",
@@ -253,7 +315,9 @@
     "osoby": "tymczasowej lub",
     "limit": "2500 zł",
     "udzial": "0%",
-    "kryteria": "zaopatrzenie w protezę tymczasową i ostateczną uda raz na rok4) 0 zł Grupa D – Protezy kończyn dolnych wykonywane na zamówienie, po amputacji lub po wyłuszczeniu w stawie biodrowym, lub w przypadku wrodzonego braku lub niedorozwoju kończyny"
+    "kryteria": "zaopatrzenie w protezę tymczasową i ostateczną uda raz na rok4) 0 zł Grupa D – Protezy kończyn dolnych wykonywane na zamówienie, po amputacji lub po wyłuszczeniu w stawie biodrowym, lub w przypadku wrodzonego braku lub niedorozwoju kończyny",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "D.01.01",
@@ -261,7 +325,9 @@
     "osoby": "modularna po",
     "limit": "000 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wyłuszczenie w stawie biodrowym, lub wrodzony brak lub niedorozwój kończyny raz na 3 lata4) 4600 zł Dziennik Ustaw – 13 – Poz. 2461 – 7 –"
+    "kryteria": "amputacja lub wyłuszczenie w stawie biodrowym, lub wrodzony brak lub niedorozwój kończyny raz na 3 lata4) 4600 zł Dziennik Ustaw – 13 – Poz. 2461 – 7 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "D.01.02",
@@ -269,7 +335,9 @@
     "osoby": "modularna po",
     "limit": "000 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wyłuszczenie w stawie biodrowym, lub wrodzony brak lub niedorozwój kończyny raz na 3 lata4) 10 000 zł"
+    "kryteria": "amputacja lub wyłuszczenie w stawie biodrowym, lub wrodzony brak lub niedorozwój kończyny raz na 3 lata4) 10 000 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "D.01.03",
@@ -277,7 +345,9 @@
     "osoby": "modularna po",
     "limit": "000 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wyłuszczenie w stawie biodrowym, lub wrodzony brak lub niedorozwój kończyny raz na 3 lata4) 11 600 zł"
+    "kryteria": "amputacja lub wyłuszczenie w stawie biodrowym, lub wrodzony brak lub niedorozwój kończyny raz na 3 lata4) 11 600 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "D.02.01",
@@ -285,7 +355,9 @@
     "osoby": "biodrowego po",
     "limit": "4000 zł",
     "udzial": "0%",
-    "kryteria": "zaopatrzenie w protezę ostateczną z koszem biodrowym raz w okresie użytkowania, potwierdzone wskazaniami medycznymi4) 0 zł Grupa E – Protezy kończyn górnych wykonywane na zamówienie, po amputacji lub w przypadku wrodzonego braku lub niedorozwoju w obrębie ręki"
+    "kryteria": "zaopatrzenie w protezę ostateczną z koszem biodrowym raz w okresie użytkowania, potwierdzone wskazaniami medycznymi4) 0 zł Grupa E – Protezy kończyn górnych wykonywane na zamówienie, po amputacji lub w przypadku wrodzonego braku lub niedorozwoju w obrębie ręki",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "E.01.01",
@@ -293,7 +365,9 @@
     "osoby": "w obrębie ręki",
     "limit": "500 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak lub niedorozwój w obrębie ręki raz na 3 lata4) 0 zł Grupa F – Protezy kończyn górnych wykonywane na zamówienie, po amputacji lub w przypadku wrodzonego braku lub niedorozwoju w obrębie przedramienia lub ramienia, lub całej kończyny górnej"
+    "kryteria": "amputacja lub wrodzony brak lub niedorozwój w obrębie ręki raz na 3 lata4) 0 zł Grupa F – Protezy kończyn górnych wykonywane na zamówienie, po amputacji lub w przypadku wrodzonego braku lub niedorozwoju w obrębie przedramienia lub ramienia, lub całej kończyny górnej",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "F.01.01",
@@ -301,7 +375,9 @@
     "osoby": "w obrębie przedramienia",
     "limit": "4500 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak lub niedorozwój w obrębie przedramienia raz na 3 lata4) 0 zł Dziennik Ustaw – 14 – Poz. 2461 – 8 –"
+    "kryteria": "amputacja lub wrodzony brak lub niedorozwój w obrębie przedramienia raz na 3 lata4) 0 zł Dziennik Ustaw – 14 – Poz. 2461 – 8 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "F.02.01",
@@ -309,7 +385,9 @@
     "osoby": "końcówką roboczą w",
     "limit": "7500 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak lub niedorozwój w obrębie przedramienia raz na 3 lata4) 2500 zł"
+    "kryteria": "amputacja lub wrodzony brak lub niedorozwój w obrębie przedramienia raz na 3 lata4) 2500 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "F.03.01",
@@ -317,7 +395,9 @@
     "osoby": "przedramienia",
     "limit": "000 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak lub niedorozwój w obrębie przedramienia raz na 3 lata4) 7500 zł dzieci do ukończenia 18. roku życia 10 000 zł dorośli 5000 zł dorośli"
+    "kryteria": "amputacja lub wrodzony brak lub niedorozwój w obrębie przedramienia raz na 3 lata4) 7500 zł dzieci do ukończenia 18. roku życia 10 000 zł dorośli 5000 zł dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "F.04.01",
@@ -325,7 +405,9 @@
     "osoby": "w obrębie ramienia",
     "limit": "7500 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak lub niedorozwój w obrębie ramienia raz na 3 lata4) 2500 zł"
+    "kryteria": "amputacja lub wrodzony brak lub niedorozwój w obrębie ramienia raz na 3 lata4) 2500 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "F.05.01",
@@ -333,7 +415,9 @@
     "osoby": "końcówką roboczą w",
     "limit": "000 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak lub niedorozwój w obrębie ramienia raz na 3 lata4) 3300 zł"
+    "kryteria": "amputacja lub wrodzony brak lub niedorozwój w obrębie ramienia raz na 3 lata4) 3300 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "F.06.01",
@@ -341,7 +425,9 @@
     "osoby": "roboczą w obrębie ramienia",
     "limit": "500 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak lub niedorozwój w obrębie ramienia raz na 3 lata4) 4100 zł proteza czynna mechaniczna 20 000 zł inne protezy czynne dzieci do ukończenia 18. roku życia 6600 zł inne protezy czynne dzieci do ukończenia 18. roku życia Dziennik Ustaw – 15 – Poz. 2461 – 9 – 15 000 zł inne protezy czynne dorośli 5000 zł inne protezy czynne dorośli"
+    "kryteria": "amputacja lub wrodzony brak lub niedorozwój w obrębie ramienia raz na 3 lata4) 4100 zł proteza czynna mechaniczna 20 000 zł inne protezy czynne dzieci do ukończenia 18. roku życia 6600 zł inne protezy czynne dzieci do ukończenia 18. roku życia Dziennik Ustaw – 15 – Poz. 2461 – 9 – 15 000 zł inne protezy czynne dorośli 5000 zł inne protezy czynne dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "F.07.01",
@@ -349,7 +435,9 @@
     "osoby": "całej kończyny górnej po",
     "limit": "000 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak w obrębie całej kończyny górnej raz na 3 lata4) 3300 zł"
+    "kryteria": "amputacja lub wrodzony brak w obrębie całej kończyny górnej raz na 3 lata4) 3300 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "F.08.01",
@@ -357,7 +445,9 @@
     "osoby": "końcówką roboczą całej",
     "limit": "000 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak w obrębie całej kończyny górnej raz na 3 lata4) 4000 zł"
+    "kryteria": "amputacja lub wrodzony brak w obrębie całej kończyny górnej raz na 3 lata4) 4000 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "F.09.01",
@@ -365,7 +455,9 @@
     "osoby": "roboczą całej kończyny",
     "limit": "000 zł",
     "udzial": "0%",
-    "kryteria": "amputacja lub wrodzony brak w obrębie całej kończyny górnej raz na 3 lata4) 4600 zł proteza czynna mechaniczna 20 000 zł inne protezy czynne dzieci do ukończenia 18. roku życia 6600 zł inne protezy czynne dzieci do ukończenia 18. roku życia 15 000 zł inne protezy czynne dorośli 5000 zł inne protezy czynne dorośli"
+    "kryteria": "amputacja lub wrodzony brak w obrębie całej kończyny górnej raz na 3 lata4) 4600 zł proteza czynna mechaniczna 20 000 zł inne protezy czynne dzieci do ukończenia 18. roku życia 6600 zł inne protezy czynne dzieci do ukończenia 18. roku życia 15 000 zł inne protezy czynne dorośli 5000 zł inne protezy czynne dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "F.10.01",
@@ -373,7 +465,9 @@
     "osoby": "CHI DZI",
     "limit": "1500 zł",
     "udzial": "0%",
-    "kryteria": "zaopatrzenie w protezę czynną lub bierną przedramienia lub ramienia, lub całej kończyny górnej raz na rok 0 zł Dziennik Ustaw – 16 – Poz. 2461 – 10 –"
+    "kryteria": "zaopatrzenie w protezę czynną lub bierną przedramienia lub ramienia, lub całej kończyny górnej raz na rok 0 zł Dziennik Ustaw – 16 – Poz. 2461 – 10 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "F.11.01",
@@ -381,7 +475,9 @@
     "osoby": "CHI DZI",
     "limit": "1700 zł",
     "udzial": "0%",
-    "kryteria": "zaopatrzenie w protezę bierną przedramienia lub ramienia, lub całej kończyny górnej raz na rok 0 zł"
+    "kryteria": "zaopatrzenie w protezę bierną przedramienia lub ramienia, lub całej kończyny górnej raz na rok 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "F.12.01",
@@ -389,7 +485,9 @@
     "osoby": "robocza",
     "limit": "3000 zł",
     "udzial": "0%",
-    "kryteria": "zaopatrzenie w protezę bierną przedramienia lub ramienia, lub całej kończyny górnej raz na rok 0 zł"
+    "kryteria": "zaopatrzenie w protezę bierną przedramienia lub ramienia, lub całej kończyny górnej raz na rok 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "F.13.01",
@@ -397,7 +495,9 @@
     "osoby": "ramienia",
     "limit": "2500 zł",
     "udzial": "0%",
-    "kryteria": "zaopatrzenie w protezę przedramienia lub ramienia, lub całej kończyny górnej wykonaną w technologii z zastosowaniem linera raz na rok4) 0 zł"
+    "kryteria": "zaopatrzenie w protezę przedramienia lub ramienia, lub całej kończyny górnej wykonaną w technologii z zastosowaniem linera raz na rok4) 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "F.14.01",
@@ -405,7 +505,9 @@
     "osoby": "przedramienia lub ramienia",
     "limit": "4000 zł",
     "udzial": "0%",
-    "kryteria": "zaopatrzenie w protezę przedramienia lub ramienia raz na 3 lata4), potwierdzone wskazaniami medycznymi 0 zł"
+    "kryteria": "zaopatrzenie w protezę przedramienia lub ramienia raz na 3 lata4), potwierdzone wskazaniami medycznymi 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "F.15.01",
@@ -413,7 +515,9 @@
     "osoby": "całej protezie kończyny",
     "limit": "4500 zł",
     "udzial": "0%",
-    "kryteria": "zaopatrzenie w protezę całej kończyny górnej raz na 3 lata4), potwierdzone wskazaniami medycznymi 0 zł Dziennik Ustaw – 17 – Poz. 2461 – 11 –"
+    "kryteria": "zaopatrzenie w protezę całej kończyny górnej raz na 3 lata4), potwierdzone wskazaniami medycznymi 0 zł Dziennik Ustaw – 17 – Poz. 2461 – 11 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "F.16.01",
@@ -421,7 +525,9 @@
     "osoby": "protezy czynnej",
     "limit": "1000 zł",
     "udzial": "0%",
-    "kryteria": "zaopatrzenie w protezę czynną przedramienia raz na rok 0 zł"
+    "kryteria": "zaopatrzenie w protezę czynną przedramienia raz na rok 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "F.17.01",
@@ -429,7 +535,9 @@
     "osoby": "protezy czynnej ramienia",
     "limit": "2000 zł",
     "udzial": "0%",
-    "kryteria": "zaopatrzenie w protezę czynną ramienia raz na rok 0 zł Grupa G – Ortezy kończyn dolnych wykonywane na zamówienie"
+    "kryteria": "zaopatrzenie w protezę czynną ramienia raz na rok 0 zł Grupa G – Ortezy kończyn dolnych wykonywane na zamówienie",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "G.01.01",
@@ -437,7 +545,9 @@
     "osoby": "stopę typu AFO bez",
     "limit": "1000 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej raz na 3 lata4) 330 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej raz na 3 lata4) 330 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "G.01.02",
@@ -445,7 +555,9 @@
     "osoby": "stopę typu AFO z",
     "limit": "2200 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej raz na 3 lata4) 730 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej raz na 3 lata4) 730 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "G.02.01",
@@ -453,7 +565,9 @@
     "osoby": "Charcot-a lub po częściowej",
     "limit": "2000 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej raz na 3 lata4) 660 zł Dziennik Ustaw – 18 – Poz. 2461 – 12 – NEURO NEURO DZI ORTO TRAUMA REHA REUMA 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej raz na 3 lata4) 660 zł Dziennik Ustaw – 18 – Poz. 2461 – 12 – NEURO NEURO DZI ORTO TRAUMA REHA REUMA 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "G.03.01",
@@ -461,7 +575,9 @@
     "osoby": "zaburzenia osiowe w",
     "limit": "1250 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej raz na 3 lata4) 410 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej raz na 3 lata4) 410 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "G.03.02",
@@ -469,7 +585,9 @@
     "osoby": "zaburzenia osiowe w",
     "limit": "1500 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej raz na 3 lata4) 500 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej raz na 3 lata4) 500 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "G.03.03",
@@ -477,7 +595,9 @@
     "osoby": "przegubów",
     "limit": "1750 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej raz na 3 lata4) 580 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej raz na 3 lata4) 580 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "G.03.04",
@@ -485,7 +605,9 @@
     "osoby": "przegubami",
     "limit": "2500 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej raz na 3 lata4) 830 zł Dziennik Ustaw – 19 – Poz. 2461 – 13 – NEURO NEURO DZI ORTO TRAUMA REHA REUMA 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej raz na 3 lata4) 830 zł Dziennik Ustaw – 19 – Poz. 2461 – 13 – NEURO NEURO DZI ORTO TRAUMA REHA REUMA 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "G.04.01",
@@ -493,7 +615,9 @@
     "osoby": "goleni i stopy typu KAFO",
     "limit": "2000 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej raz na 3 lata4) 660 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej raz na 3 lata4) 660 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "G.04.02",
@@ -501,7 +625,9 @@
     "osoby": "goleni i stopy typu KAFO z",
     "limit": "5000 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej; z wyłączeniem jednoczesnego zaopatrzenia w G.04.03 raz na 3 lata4) 1660 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej; z wyłączeniem jednoczesnego zaopatrzenia w G.04.03 raz na 3 lata4) 1660 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "G.04.03",
@@ -509,7 +635,9 @@
     "osoby": "goleni i stopy typu KAFO z",
     "limit": "000 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej; z wyłączeniem jednoczesnego zaopatrzenia w G.04.02 raz na 3 lata4) 5000 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej; z wyłączeniem jednoczesnego zaopatrzenia w G.04.02 raz na 3 lata4) 5000 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "G.05.01",
@@ -517,7 +645,9 @@
     "osoby": "HKAFO obejmująca obręcz",
     "limit": "5000 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcje kończyn dolnych; z wyłączeniem jednoczesnego zaopatrzenia w G.05.02 lub G.05.03, lub G.07.01 raz na 3 lata4) 1660 zł Dziennik Ustaw – 20 – Poz. 2461 – 14 – NEURO NEURO DZI ORTO TRAUMA REHA REUMA 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcje kończyn dolnych; z wyłączeniem jednoczesnego zaopatrzenia w G.05.02 lub G.05.03, lub G.07.01 raz na 3 lata4) 1660 zł Dziennik Ustaw – 20 – Poz. 2461 – 14 – NEURO NEURO DZI ORTO TRAUMA REHA REUMA 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "G.05.02",
@@ -525,7 +655,9 @@
     "osoby": "HKAFO obejmująca obręcz",
     "limit": "000 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcje kończyn dolnych; z wyłączeniem jednoczesnego zaopatrzenia w G.05.01 lub G.05.03, lub G.07.01 raz na 3 lata4) 3300 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcje kończyn dolnych; z wyłączeniem jednoczesnego zaopatrzenia w G.05.01 lub G.05.03, lub G.07.01 raz na 3 lata4) 3300 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "G.05.03",
@@ -533,7 +665,9 @@
     "osoby": "HKAFO obejmująca obręcz",
     "limit": "000 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcje kończyn dolnych; z wyłączeniem jednoczesnego zaopatrzenia w G.05.01 lub G.05.02, lub G.07.01 raz na 3 lata4) 5000 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcje kończyn dolnych; z wyłączeniem jednoczesnego zaopatrzenia w G.05.01 lub G.05.02, lub G.07.01 raz na 3 lata4) 5000 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "G.06.01",
@@ -541,7 +675,9 @@
     "osoby": "kończynę dolną",
     "limit": "1500 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcje kończyny dolnej lub stawu biodrowego w przypadku braku możliwości doboru wyrobu seryjnego raz na 3 lata4) 500 zł 10% dorośli Dziennik Ustaw – 21 – Poz. 2461 – 15 –"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcje kończyny dolnej lub stawu biodrowego w przypadku braku możliwości doboru wyrobu seryjnego raz na 3 lata4) 500 zł 10% dorośli Dziennik Ustaw – 21 – Poz. 2461 – 15 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "G.07.01",
@@ -549,7 +685,9 @@
     "osoby": "(wspomagająca sprzężony",
     "limit": "000 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia z: 1) paraparezą wiotką lub 2) przepuklinami oponowo-rdzeniowymi z poziomem uszkodzenia od TH12 do L4, lub 3) rdzeniowym zanikiem mięśni, lub 4) dystrofią mięśniową – z zachowaną funkcją kończyn górnych możliwą do wykorzystania w celach podpórczych; z wyłączeniem jednoczesnego zaopatrzenia w G.05.01 lub"
+    "kryteria": "dzieci do ukończenia 18. roku życia z: 1) paraparezą wiotką lub 2) przepuklinami oponowo-rdzeniowymi z poziomem uszkodzenia od TH12 do L4, lub 3) rdzeniowym zanikiem mięśni, lub 4) dystrofią mięśniową – z zachowaną funkcją kończyn górnych możliwą do wykorzystania w celach podpórczych; z wyłączeniem jednoczesnego zaopatrzenia w G.05.01 lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "H.01.01",
@@ -557,7 +695,9 @@
     "osoby": "skokowy",
     "limit": "200 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej raz na 3 lata4) 0 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej raz na 3 lata4) 0 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "H.01.02",
@@ -565,7 +705,9 @@
     "osoby": "stopę z komorą",
     "limit": "300 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej raz na 3 lata4) 0 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej raz na 3 lata4) 0 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "H.01.03",
@@ -573,7 +715,9 @@
     "osoby": "stopę z minimum dwiema",
     "limit": "350 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej raz na 3 lata4) 0 zł Dziennik Ustaw – 22 – Poz. 2461 – 16 – pozycjonującymi staw skokowy FIZJO SPEC NEURO NEURO DZI ORTO TRAUMA REHA REUMA 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej raz na 3 lata4) 0 zł Dziennik Ustaw – 22 – Poz. 2461 – 16 – pozycjonującymi staw skokowy FIZJO SPEC NEURO NEURO DZI ORTO TRAUMA REHA REUMA 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "H.02.01",
@@ -581,7 +725,9 @@
     "osoby": "usztywnieniem",
     "limit": "250 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej wynikająca z osłabienia zgięcia grzbietowego stopy raz na 3 lata4) 0 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej wynikająca z osłabienia zgięcia grzbietowego stopy raz na 3 lata4) 0 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "H.02.02",
@@ -589,7 +735,9 @@
     "osoby": "opadającą stopę wykonana",
     "limit": "250 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej wymagająca podtrzymania stopy od strony podeszwowej raz na 3 lata4) 0 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej wymagająca podtrzymania stopy od strony podeszwowej raz na 3 lata4) 0 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "H.02.03",
@@ -597,7 +745,9 @@
     "osoby": "łuska na opadającą stopę",
     "limit": "1100 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia trwała dysfunkcja kończyny dolnej wymagająca podtrzymania stopy od strony podeszwowej raz na 3 lata4) 0 zł 20% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia trwała dysfunkcja kończyny dolnej wymagająca podtrzymania stopy od strony podeszwowej raz na 3 lata4) 0 zł 20% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "H.03.01",
@@ -605,7 +755,9 @@
     "osoby": "zawiasami",
     "limit": "250 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej związana z: 1) niestabilnością stawu kolanowego lub rzepki lub raz na 3 lata4) 0 zł Dziennik Ustaw – 23 – Poz. 2461 – 17 – FIZJO FIZJO SPEC NEURO NEURO DZI ORTO TRAUMA REHA REUMA 10% dorośli 2) łagodnymi urazami łąkotki czy wiązadeł, także po ich rekonstrukcji, lub 3) wczesnymi stadiami choroby zwyrodnieniowej, lub 4) urazami tkanek miękkich stawu kolanowego, lub 5) przeciążeniami stawu kolanowego i stanem zapalnym w jego obrębie – wymagająca zastosowania ortezy stawu kolanowego z zawiasami"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej związana z: 1) niestabilnością stawu kolanowego lub rzepki lub raz na 3 lata4) 0 zł Dziennik Ustaw – 23 – Poz. 2461 – 17 – FIZJO FIZJO SPEC NEURO NEURO DZI ORTO TRAUMA REHA REUMA 10% dorośli 2) łagodnymi urazami łąkotki czy wiązadeł, także po ich rekonstrukcji, lub 3) wczesnymi stadiami choroby zwyrodnieniowej, lub 4) urazami tkanek miękkich stawu kolanowego, lub 5) przeciążeniami stawu kolanowego i stanem zapalnym w jego obrębie – wymagająca zastosowania ortezy stawu kolanowego z zawiasami",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "H.03.02",
@@ -613,7 +765,9 @@
     "osoby": "ruchomym stawem",
     "limit": "350 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej wymagająca kontroli zakresu ruchów w stawie kolanowym raz na 3 lata4) 0 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej wymagająca kontroli zakresu ruchów w stawie kolanowym raz na 3 lata4) 0 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "H.03.03",
@@ -621,7 +775,9 @@
     "osoby": "(ROM) stawu kolanowego z",
     "limit": "500 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej związana z pooperacyjnym unieruchomieniem co najmniej ¾ długości kończyny dolnej, a następnie wprowadzeniem stopniowej mobilności dzięki zastosowaniu regulacji kąta zgięcia i wyprostu raz na 3 lata4) 0 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej związana z pooperacyjnym unieruchomieniem co najmniej ¾ długości kończyny dolnej, a następnie wprowadzeniem stopniowej mobilności dzięki zastosowaniu regulacji kąta zgięcia i wyprostu raz na 3 lata4) 0 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "H.03.04",
@@ -629,7 +785,9 @@
     "osoby": "kolanowego o konstrukcji",
     "limit": "1000 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia niestabilność kolana po przebytych urazach lub operacjach po odzyskaniu przez pacjenta pełnego zakresu ruchu, raz na 3 lata4) 0 zł Dziennik Ustaw – 24 – Poz. 2461 – 18 – ruchu zgięcia i wyprostu z regulacją FIZJO FIZJO SPEC NEURO NEURO DZI ORTO TRAUMA REHA REUMA 20% dorośli wymagająca funkcjonalnego i rehabilitacyjnego wsparcia"
+    "kryteria": "dzieci do ukończenia 18. roku życia niestabilność kolana po przebytych urazach lub operacjach po odzyskaniu przez pacjenta pełnego zakresu ruchu, raz na 3 lata4) 0 zł Dziennik Ustaw – 24 – Poz. 2461 – 18 – ruchu zgięcia i wyprostu z regulacją FIZJO FIZJO SPEC NEURO NEURO DZI ORTO TRAUMA REHA REUMA 20% dorośli wymagająca funkcjonalnego i rehabilitacyjnego wsparcia",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "H.03.05",
@@ -637,7 +795,9 @@
     "osoby": "kolanowy typu OA",
     "limit": "1000 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej związana z chorobą zwyrodnieniową stawów kolanowych, znacznie ograniczająca poruszanie się raz na 3 lata4) 0 zł 20% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej związana z chorobą zwyrodnieniową stawów kolanowych, znacznie ograniczająca poruszanie się raz na 3 lata4) 0 zł 20% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "H.04.01",
@@ -645,7 +805,9 @@
     "osoby": "stawu kolanowego",
     "limit": "150 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcje kolana wymagające unieruchomienia, w przypadku przeciwwskazań do zastosowania tutoru gipsowego lub oczekiwanych lepszych efektów terapeutycznych przy zastosowaniu tutoru raz na 3 lata4) 0 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcje kolana wymagające unieruchomienia, w przypadku przeciwwskazań do zastosowania tutoru gipsowego lub oczekiwanych lepszych efektów terapeutycznych przy zastosowaniu tutoru raz na 3 lata4) 0 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "H.05.01",
@@ -653,7 +815,9 @@
     "osoby": "ograniczająca odwodzenie",
     "limit": "1000 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcje w stawie biodrowym wymagające ograniczenia odwodzenia i przywodzenia w stawie biodrowym raz na 3 lata4) 0 zł 10% dorośli Dziennik Ustaw – 25 – Poz. 2461 – 19 –"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcje w stawie biodrowym wymagające ograniczenia odwodzenia i przywodzenia w stawie biodrowym raz na 3 lata4) 0 zł 10% dorośli Dziennik Ustaw – 25 – Poz. 2461 – 19 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "H.05.02",
@@ -661,7 +825,9 @@
     "osoby": "unieruchamiająca z",
     "limit": "1450 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcje w stawie biodrowym wymagające jego unieruchomienia raz na 3 lata4) 0 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcje w stawie biodrowym wymagające jego unieruchomienia raz na 3 lata4) 0 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "H.06.01",
@@ -669,7 +835,9 @@
     "osoby": "dolną z ujęciem stopy z",
     "limit": "800 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej w stawie kolanowym lub w obrębie stopy, lub stawu skokowego raz na 3 lata4) 0 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny dolnej w stawie kolanowym lub w obrębie stopy, lub stawu skokowego raz na 3 lata4) 0 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "H.07.01",
@@ -677,7 +845,9 @@
     "osoby": "inna szyna derotacyjna",
     "limit": "250 zł",
     "udzial": "0%",
-    "kryteria": "stopa końsko-szpotawa według wskazań medycznych dla dzieci do ukończenia 5. roku życia 0 zł Dziennik Ustaw – 26 – Poz. 2461 – 20 –"
+    "kryteria": "stopa końsko-szpotawa według wskazań medycznych dla dzieci do ukończenia 5. roku życia 0 zł Dziennik Ustaw – 26 – Poz. 2461 – 20 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "H.07.02",
@@ -685,7 +855,9 @@
     "osoby": "derotacyjnej",
     "limit": "350 zł",
     "udzial": "0%",
-    "kryteria": "stopa końsko-szpotawa według wskazań medycznych dla dzieci do ukończenia 5. roku życia 0 zł"
+    "kryteria": "stopa końsko-szpotawa według wskazań medycznych dla dzieci do ukończenia 5. roku życia 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "H.08.01",
@@ -693,7 +865,9 @@
     "osoby": "leczenia rozwojowej",
     "limit": "150 zł",
     "udzial": "0%",
-    "kryteria": "dysplazja stawu biodrowego według wskazań medycznych dla dzieci do ukończenia 2. roku życia 0 zł Grupa I – Ortezy kończyn górnych wykonywane na zamówienie"
+    "kryteria": "dysplazja stawu biodrowego według wskazań medycznych dla dzieci do ukończenia 2. roku życia 0 zł Grupa I – Ortezy kończyn górnych wykonywane na zamówienie",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "I.01.01",
@@ -701,7 +875,9 @@
     "osoby": "typu WHO bez przegubów",
     "limit": "750 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny górnej raz na 3 lata4) 250 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny górnej raz na 3 lata4) 250 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "I.01.02",
@@ -709,7 +885,9 @@
     "osoby": "typu WHO z przegubami",
     "limit": "1500 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny górnej raz na 3 lata4) 500 zł Dziennik Ustaw – 27 – Poz. 2461 – 21 – FIZJO SPEC NEURO NEURO DZI ORTO TRAUMA REHA REUMA 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny górnej raz na 3 lata4) 500 zł Dziennik Ustaw – 27 – Poz. 2461 – 21 – FIZJO SPEC NEURO NEURO DZI ORTO TRAUMA REHA REUMA 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "I.02.01",
@@ -717,7 +895,9 @@
     "osoby": "ramię z ujęciem ręki typu",
     "limit": "2250 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny górnej raz na 3 lata4) 750 zł 10% dorośli Grupa J – Ortezy kończyn górnych produkowane seryjnie – z wyłączeniem opasek elastycznych"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny górnej raz na 3 lata4) 750 zł 10% dorośli Grupa J – Ortezy kończyn górnych produkowane seryjnie – z wyłączeniem opasek elastycznych",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "J.01.01",
@@ -725,7 +905,9 @@
     "osoby": "korygująca; z wyłączeniem",
     "limit": "160 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja ręki raz na 3 lata4) 0 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja ręki raz na 3 lata4) 0 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "J.02.01",
@@ -733,7 +915,9 @@
     "osoby": "CHI DZI",
     "limit": "200 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny górnej raz na 3 lata4) 0 zł 10% dorośli Dziennik Ustaw – 28 – Poz. 2461 – 22 –"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny górnej raz na 3 lata4) 0 zł 10% dorośli Dziennik Ustaw – 28 – Poz. 2461 – 22 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "J.03.01",
@@ -741,7 +925,9 @@
     "osoby": "CHI DZI",
     "limit": "200 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja stawu łokciowego raz na 3 lata4) 0 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja stawu łokciowego raz na 3 lata4) 0 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "J.03.02",
@@ -749,7 +935,9 @@
     "osoby": "ujęciem ręki",
     "limit": "300 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja stawu łokciowego raz na 3 lata4) 0 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja stawu łokciowego raz na 3 lata4) 0 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "J.04.01",
@@ -757,7 +945,9 @@
     "osoby": "regulacją kąta zgięcia bez",
     "limit": "350 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja stawu łokciowego raz na 3 lata4) 0 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja stawu łokciowego raz na 3 lata4) 0 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "J.04.02",
@@ -765,7 +955,9 @@
     "osoby": "regulacją kąta zgięcia z",
     "limit": "500 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja stawu łokciowego raz na 3 lata4) 0 zł Dziennik Ustaw – 29 – Poz. 2461 – 23 – FIZJO FIZJO SPEC NEURO NEURO DZI ORTO TRAUMA REHA REUMA 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja stawu łokciowego raz na 3 lata4) 0 zł Dziennik Ustaw – 29 – Poz. 2461 – 23 – FIZJO FIZJO SPEC NEURO NEURO DZI ORTO TRAUMA REHA REUMA 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "J.05.01",
@@ -773,7 +965,9 @@
     "osoby": "wyłączeniem temblaków i",
     "limit": "250 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia stany pourazowe lub stany pooperacyjne stawu barkowego, lub zespoły bólowe barku raz na 3 lata4) 0 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia stany pourazowe lub stany pooperacyjne stawu barkowego, lub zespoły bólowe barku raz na 3 lata4) 0 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "J.06.01",
@@ -781,7 +975,9 @@
     "osoby": "Dessault",
     "limit": "130 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia stany pourazowe lub stany pooperacyjne stawu barkowego, lub zespoły bólowe barku raz na 3 lata4) 0 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia stany pourazowe lub stany pooperacyjne stawu barkowego, lub zespoły bólowe barku raz na 3 lata4) 0 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "J.07.01",
@@ -789,7 +985,9 @@
     "osoby": "barkowego",
     "limit": "400 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia stany pourazowe lub stany pooperacyjne stawu barkowego, lub zespoły bólowe barku raz na 3 lata4) 0 zł 10% dorośli Dziennik Ustaw – 30 – Poz. 2461 – 24 –"
+    "kryteria": "dzieci do ukończenia 18. roku życia stany pourazowe lub stany pooperacyjne stawu barkowego, lub zespoły bólowe barku raz na 3 lata4) 0 zł 10% dorośli Dziennik Ustaw – 30 – Poz. 2461 – 24 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "J.07.02",
@@ -797,7 +995,9 @@
     "osoby": "barkowego z regulacją kąta",
     "limit": "600 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia stany pourazowe lub stany pooperacyjne stawu barkowego, lub zespoły bólowe barku wymagające regulacji kąta odwiedzenia w zakresie minimum 60° oraz ustawienia kąta rotacji raz na 3 lata4) 0 zł 10% dorośli Grupa K – Gorsety i ortezy głowy wykonywane na zamówienie"
+    "kryteria": "dzieci do ukończenia 18. roku życia stany pourazowe lub stany pooperacyjne stawu barkowego, lub zespoły bólowe barku wymagające regulacji kąta odwiedzenia w zakresie minimum 60° oraz ustawienia kąta rotacji raz na 3 lata4) 0 zł 10% dorośli Grupa K – Gorsety i ortezy głowy wykonywane na zamówienie",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "K.01.01",
@@ -805,7 +1005,9 @@
     "osoby": "niepełne odciążenie i",
     "limit": "1000 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kręgosłupa lub klatki piersiowej, w przypadku braku możliwości doboru wyrobu seryjnego raz na 6 miesięcy 300 zł 10% dorośli dorośli raz na 3 lata4)"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kręgosłupa lub klatki piersiowej, w przypadku braku możliwości doboru wyrobu seryjnego raz na 6 miesięcy 300 zł 10% dorośli dorośli raz na 3 lata4)",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "K.01.02",
@@ -813,7 +1015,9 @@
     "osoby": "-stabilizujący, z",
     "limit": "1750 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kręgosłupa lub klatki piersiowej; choroby nerwowo-mięśniowe raz na 3 lata4) 580 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kręgosłupa lub klatki piersiowej; choroby nerwowo-mięśniowe raz na 3 lata4) 580 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "K.02.01",
@@ -821,7 +1025,9 @@
     "osoby": "kompresyjna typu SPIO",
     "limit": "2000 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia porażenie mózgowe, w przypadku braku możliwości doboru wyrobu seryjnego; z wyłączeniem jednoczesnego zaopatrzenia w L.04.01 raz na 3 lata4) 0 zł 10% dorośli Dziennik Ustaw – 31 – Poz. 2461 – 25 –"
+    "kryteria": "dzieci do ukończenia 18. roku życia porażenie mózgowe, w przypadku braku możliwości doboru wyrobu seryjnego; z wyłączeniem jednoczesnego zaopatrzenia w L.04.01 raz na 3 lata4) 0 zł 10% dorośli Dziennik Ustaw – 31 – Poz. 2461 – 25 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "K.03.01",
@@ -829,7 +1035,9 @@
     "osoby": "leczenia skolioz lub kyfoz z",
     "limit": "2800 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia 10% skolioza o kącie skrzywienia co najmniej 20° kąta Cobba; pogłębiona kyfoza odcinka piersiowego dzieci do ukończenia 18. roku życia nie częściej niż raz na 6 miesięcy4) 930 zł"
+    "kryteria": "dzieci do ukończenia 18. roku życia 10% skolioza o kącie skrzywienia co najmniej 20° kąta Cobba; pogłębiona kyfoza odcinka piersiowego dzieci do ukończenia 18. roku życia nie częściej niż raz na 6 miesięcy4) 930 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "K.04.01",
@@ -837,7 +1045,9 @@
     "osoby": "-krzyżowa",
     "limit": "1500 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kręgosłupa, w przypadku braku możliwości doboru wyrobu seryjnego raz na 3 lata4) 500 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kręgosłupa, w przypadku braku możliwości doboru wyrobu seryjnego raz na 3 lata4) 500 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "K.05.01",
@@ -845,7 +1055,9 @@
     "osoby": "wykonana na podstawie",
     "limit": "5000 zł",
     "udzial": "30%",
-    "kryteria": "jednorazowo dzieci od 4. do 12. miesiąca życia z ciężkim i bardzo ciężkim stopniem plagiocefalii lub brachycefalii, które mimo terapii fizjoterapeutycznej konwencjonalnej nie uzyskują zadowalających efektów terapeutycznych jednorazowo 0 zł Grupa L - Gorsety i ortezy ortopedyczne tułowia lub szyi produkowane seryjnie"
+    "kryteria": "jednorazowo dzieci od 4. do 12. miesiąca życia z ciężkim i bardzo ciężkim stopniem plagiocefalii lub brachycefalii, które mimo terapii fizjoterapeutycznej konwencjonalnej nie uzyskują zadowalających efektów terapeutycznych jednorazowo 0 zł Grupa L - Gorsety i ortezy ortopedyczne tułowia lub szyi produkowane seryjnie",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "L.01.01",
@@ -853,7 +1065,9 @@
     "osoby": "stabilizująco-",
     "limit": "300 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kręgosłupa w następstwie schorzeń i urazów raz na 3 lata4) 0 zł Dziennik Ustaw – 32 – Poz. 2461 – 26 – piersiowo-lędźwiowo- -krzyżowy typu Jewetta FIZJO FIZJO SPEC NEURO NEUROCHI NEURO DZI ONKO KLIN ONKO HEMA DZI ORTO TRAUMA PALI HOSP REHA REUMA 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kręgosłupa w następstwie schorzeń i urazów raz na 3 lata4) 0 zł Dziennik Ustaw – 32 – Poz. 2461 – 26 – piersiowo-lędźwiowo- -krzyżowy typu Jewetta FIZJO FIZJO SPEC NEURO NEUROCHI NEURO DZI ONKO KLIN ONKO HEMA DZI ORTO TRAUMA PALI HOSP REHA REUMA 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "L.01.02",
@@ -861,7 +1075,9 @@
     "osoby": "stabilizująco-",
     "limit": "450 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kręgosłupa w następstwie schorzeń i urazów raz na 3 lata4) 0 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kręgosłupa w następstwie schorzeń i urazów raz na 3 lata4) 0 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "L.02.01",
@@ -869,7 +1085,9 @@
     "osoby": "lędźwiowo-krzyżowy lub",
     "limit": "100 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia zespoły bólowe kręgosłupa lędźwiowo- -krzyżowego, rozejście spojenia łonowego raz na 3 lata4) 0 zł 10% dorośli Dziennik Ustaw – 33 – Poz. 2461 – 27 –"
+    "kryteria": "dzieci do ukończenia 18. roku życia zespoły bólowe kręgosłupa lędźwiowo- -krzyżowego, rozejście spojenia łonowego raz na 3 lata4) 0 zł 10% dorośli Dziennik Ustaw – 33 – Poz. 2461 – 27 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "L.03.01",
@@ -877,7 +1095,9 @@
     "osoby": "-krzyżowa, ze stalkami lub",
     "limit": "200 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja obejmująca odcinek L-S kręgosłupa (zespoły bólowe w odcinku lędźwiowym) raz na 3 lata4) 0 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja obejmująca odcinek L-S kręgosłupa (zespoły bólowe w odcinku lędźwiowym) raz na 3 lata4) 0 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "L.03.02",
@@ -885,7 +1105,9 @@
     "osoby": "-krzyżowo-piersiowa, ze",
     "limit": "300 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja obejmująca odcinek L-S kręgosłupa oraz co najmniej kręgi Th11 i Th12 kręgosłupa (zespoły bólowe w odcinku lędźwiowym i piersiowym) raz na 3 lata4) 0 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja obejmująca odcinek L-S kręgosłupa oraz co najmniej kręgi Th11 i Th12 kręgosłupa (zespoły bólowe w odcinku lędźwiowym i piersiowym) raz na 3 lata4) 0 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "L.03.03",
@@ -893,7 +1115,9 @@
     "osoby": "-krzyżowo-piersiowa, ze",
     "limit": "400 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja obejmująca odcinek L-S kręgosłupa oraz co najmniej kręgi Th11 i raz na 3 lata4) 0 zł Dziennik Ustaw – 34 – Poz. 2461 – 28 – typu sznurówka z systemem mocowań wokół ramion zapewniająca odciążenie niepełne FIZJO FIZJO SPEC NEURO NEUROCHI NEURO DZI ONKO KLIN ONKO HEMA DZI ORTO TRAUMA PALI HOSP REHA REUMA 10% dorośli Th12 kręgosłupa (zespoły bólowe w odcinku lędźwiowym i piersiowym)"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja obejmująca odcinek L-S kręgosłupa oraz co najmniej kręgi Th11 i raz na 3 lata4) 0 zł Dziennik Ustaw – 34 – Poz. 2461 – 28 – typu sznurówka z systemem mocowań wokół ramion zapewniająca odciążenie niepełne FIZJO FIZJO SPEC NEURO NEUROCHI NEURO DZI ONKO KLIN ONKO HEMA DZI ORTO TRAUMA PALI HOSP REHA REUMA 10% dorośli Th12 kręgosłupa (zespoły bólowe w odcinku lędźwiowym i piersiowym)",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "L.04.01",
@@ -901,7 +1125,9 @@
     "osoby": "kompresyjna typu SPIO",
     "limit": "800 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia porażenie mózgowe; z wyłączeniem jednoczesnego zaopatrzenia w K.02.01 raz na 3 lata4) 0 zł 10% dorośli 1600 zł za kamizelkę z termoplastycznym panelem tylnym 0% dzieci do ukończenia 18. roku życia 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia porażenie mózgowe; z wyłączeniem jednoczesnego zaopatrzenia w K.02.01 raz na 3 lata4) 0 zł 10% dorośli 1600 zł za kamizelkę z termoplastycznym panelem tylnym 0% dzieci do ukończenia 18. roku życia 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "L.05.01",
@@ -909,7 +1135,9 @@
     "osoby": "CHI DZI",
     "limit": "35 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia zespoły bólowe odcinka kręgosłupa szyjnego raz na 3 lata4) 0 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia zespoły bólowe odcinka kręgosłupa szyjnego raz na 3 lata4) 0 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "L.05.02",
@@ -917,7 +1145,9 @@
     "osoby": "CHI DZI",
     "limit": "80 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kręgosłupa szyjnego ze zmianami strukturalnymi raz na 3 lata4) 0 zł Dziennik Ustaw – 35 – Poz. 2461 – 29 – FIZJO FIZJO SPEC NEURO NEUROCHI NEURO DZI ONKO KLIN ONKO HEMA DZI ORTO TRAUMA PALI HOSP REHA REUMA 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kręgosłupa szyjnego ze zmianami strukturalnymi raz na 3 lata4) 0 zł Dziennik Ustaw – 35 – Poz. 2461 – 29 – FIZJO FIZJO SPEC NEURO NEUROCHI NEURO DZI ONKO KLIN ONKO HEMA DZI ORTO TRAUMA PALI HOSP REHA REUMA 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "L.06.01",
@@ -925,7 +1155,9 @@
     "osoby": "unieruchamiająca,",
     "limit": "350 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia rozległe i ciężkie urazy odcinka szyjnego kręgosłupa, złamania kompresyjne, stany pooperacyjne raz na 3 lata4) 0 zł 10% dorośli Grupa M – Obuwie ortopedyczne"
+    "kryteria": "dzieci do ukończenia 18. roku życia rozległe i ciężkie urazy odcinka szyjnego kręgosłupa, złamania kompresyjne, stany pooperacyjne raz na 3 lata4) 0 zł 10% dorośli Grupa M – Obuwie ortopedyczne",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "M.01.01",
@@ -933,7 +1165,9 @@
     "osoby": "zniekształceniu",
     "limit": "700 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia 1) wrodzone lub nabyte wady stopy i goleni zaburzające funkcję chodu; z wyłączeniem stopy płasko-koślawej statycznej: a) nieprawidłowe ustawienie stopy zmniejszające jej naturalną powierzchnię podparcia (np. stopa końsko-szpotawa, piętowa, koślawość palucha przekraczająca 45°), jeżeli powoduje to niewydolność statyczną nadmiernie obciążonych tkanek albo raz na 6 miesięcy, w przypadku osób dorosłych liczba butów podlegających refundacji nie może przekroczyć 2 sztuk w przedziale kolejnych 24 miesięcy kalendarzowych 230 zł 10% dorośli Dziennik Ustaw – 36 – Poz. 2461 – 30 –"
+    "kryteria": "dzieci do ukończenia 18. roku życia 1) wrodzone lub nabyte wady stopy i goleni zaburzające funkcję chodu; z wyłączeniem stopy płasko-koślawej statycznej: a) nieprawidłowe ustawienie stopy zmniejszające jej naturalną powierzchnię podparcia (np. stopa końsko-szpotawa, piętowa, koślawość palucha przekraczająca 45°), jeżeli powoduje to niewydolność statyczną nadmiernie obciążonych tkanek albo raz na 6 miesięcy, w przypadku osób dorosłych liczba butów podlegających refundacji nie może przekroczyć 2 sztuk w przedziale kolejnych 24 miesięcy kalendarzowych 230 zł 10% dorośli Dziennik Ustaw – 36 – Poz. 2461 – 30 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "M.02.01",
@@ -941,7 +1175,9 @@
     "osoby": "kończyny dolnej",
     "limit": "600 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia b) rozległe zniekształcenia tkanek miękkich i kości lub rozległe owrzodzenia na naturalnych płaszczyznach podparcia stopy (np. stopa cukrzycowa, stopa naczyniowa, stopa reumatoidalna), albo c) stopa olbrzymia wskutek rozrostu tkanek miękkich lub szkieletu (np. wrodzone połączenia tętniczo-żylne, słoniowacizna) oraz stopa krótsza o co najmniej 3 cm, wymagająca zaopatrzenia w obuwie różnej wielkości; 2) skrócenie kończyny dolnej: a) u osób dorosłych o co najmniej 3 cm albo b) u dzieci do 18. roku życia o co najmniej 2 cm; 3) amputacja części stopy, tj. ubytki szkieletu stopy ku tyłowi od głów kości śródstopia, a także inne ubytki, z wyjątkiem palców, utrudniające utrzymanie na stopie obuwia standardowego; 4) utrwalone przykurcze stawów kolanowych lub biodrowych wymagające wyrównania ustawieniem końskim stóp o co najmniej 4 cm (zgięcie podeszwowe); 5) niedowłady i porażania mięśni stabilizujących staw skokowy i stopę raz na 6 miesięcy, w przypadku osób dorosłych liczba butów podlegających refundacji nie może przekroczyć 2 sztuk w przedziale kolejnych 24 miesięcy kalendarzowych 250 zł 10% dorośli 1000 zł w przypadku skrócenia powyżej 10 cm 0% dzieci do ukończenia 18. roku życia 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia b) rozległe zniekształcenia tkanek miękkich i kości lub rozległe owrzodzenia na naturalnych płaszczyznach podparcia stopy (np. stopa cukrzycowa, stopa naczyniowa, stopa reumatoidalna), albo c) stopa olbrzymia wskutek rozrostu tkanek miękkich lub szkieletu (np. wrodzone połączenia tętniczo-żylne, słoniowacizna) oraz stopa krótsza o co najmniej 3 cm, wymagająca zaopatrzenia w obuwie różnej wielkości; 2) skrócenie kończyny dolnej: a) u osób dorosłych o co najmniej 3 cm albo b) u dzieci do 18. roku życia o co najmniej 2 cm; 3) amputacja części stopy, tj. ubytki szkieletu stopy ku tyłowi od głów kości śródstopia, a także inne ubytki, z wyjątkiem palców, utrudniające utrzymanie na stopie obuwia standardowego; 4) utrwalone przykurcze stawów kolanowych lub biodrowych wymagające wyrównania ustawieniem końskim stóp o co najmniej 4 cm (zgięcie podeszwowe); 5) niedowłady i porażania mięśni stabilizujących staw skokowy i stopę raz na 6 miesięcy, w przypadku osób dorosłych liczba butów podlegających refundacji nie może przekroczyć 2 sztuk w przedziale kolejnych 24 miesięcy kalendarzowych 250 zł 10% dorośli 1000 zł w przypadku skrócenia powyżej 10 cm 0% dzieci do ukończenia 18. roku życia 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "M.03.01",
@@ -949,7 +1185,9 @@
     "osoby": "obrębie stopy wykonywany",
     "limit": "500 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia raz na 6 miesięcy, w przypadku osób dorosłych liczba butów podlegających refundacji nie może przekroczyć 2 sztuk w przedziale kolejnych 24 miesięcy kalendarzowych 160 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia raz na 6 miesięcy, w przypadku osób dorosłych liczba butów podlegających refundacji nie może przekroczyć 2 sztuk w przedziale kolejnych 24 miesięcy kalendarzowych 160 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "M.04.01",
@@ -957,7 +1195,9 @@
     "osoby": "stopę wykonywany na",
     "limit": "500 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia raz na 6 miesięcy, w przypadku osób dorosłych liczba butów podlegających refundacji nie może przekroczyć 2 sztuk w przedziale kolejnych 24 miesięcy kalendarzowych 150 zł 10% dorośli 400 zł but produkowany seryjnie 0% dzieci do ukończenia 18. roku życia 10% dorośli Dziennik Ustaw – 37 – Poz. 2461 – 31 –"
+    "kryteria": "dzieci do ukończenia 18. roku życia raz na 6 miesięcy, w przypadku osób dorosłych liczba butów podlegających refundacji nie może przekroczyć 2 sztuk w przedziale kolejnych 24 miesięcy kalendarzowych 150 zł 10% dorośli 400 zł but produkowany seryjnie 0% dzieci do ukończenia 18. roku życia 10% dorośli Dziennik Ustaw – 37 – Poz. 2461 – 31 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "M.05.01",
@@ -965,7 +1205,9 @@
     "osoby": "zaopatrzeniu jednoczesnym",
     "limit": "300 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia zaopatrzenie w M.01.01 lub M.02.01, lub"
+    "kryteria": "dzieci do ukończenia 18. roku życia zaopatrzenie w M.01.01 lub M.02.01, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "M.06.01",
@@ -973,7 +1215,9 @@
     "osoby": "zamówienie wraz z",
     "limit": "250 zł",
     "udzial": "10%",
-    "kryteria": "pacjenci z cukrzycą: 1) z zespołem stopy niedokrwiennej lub neuropatycznej lub 2) z deformacjami stóp, lub 3) z występowaniem modzeli lub nagniotków w części podeszwowej stopy, lub 4) w profilaktyce rozwinięcia wtórnego zespołu stopy cukrzycowej – z wyłączeniem jednoczesnego zaopatrzenia w M.01.01 raz w roku 0 zł Grupa N – Wyroby kompresyjne wykonywane na zamówienie i produkowane seryjnie"
+    "kryteria": "pacjenci z cukrzycą: 1) z zespołem stopy niedokrwiennej lub neuropatycznej lub 2) z deformacjami stóp, lub 3) z występowaniem modzeli lub nagniotków w części podeszwowej stopy, lub 4) w profilaktyce rozwinięcia wtórnego zespołu stopy cukrzycowej – z wyłączeniem jednoczesnego zaopatrzenia w M.01.01 raz w roku 0 zł Grupa N – Wyroby kompresyjne wykonywane na zamówienie i produkowane seryjnie",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.01.01",
@@ -981,7 +1225,9 @@
     "osoby": "płaskodziana na",
     "limit": "400 zł",
     "udzial": "10%",
-    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego zaopatrzenia w N.01.02 lub N.03.01, lub"
+    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego zaopatrzenia w N.01.02 lub N.03.01, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.01.02",
@@ -989,7 +1235,9 @@
     "osoby": "płaskodziana na",
     "limit": "500 zł",
     "udzial": "10%",
-    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego raz na 6 miesięcy 0 zł Dziennik Ustaw – 38 – Poz. 2461 – 32 – uciskiem od 15 mmHg (w przypadku dzieci z uciskiem od 10 mmHg) z minimum 6-miesięczną gwarancją producenta na niezmienność wartości ucisku do 2 sztuk FIZJO FIZJO SPEC PALI HOSP ONKO KLIN REHA 30% dorośli zaopatrzenia w N.01.01 lub N.03.01, lub"
+    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego raz na 6 miesięcy 0 zł Dziennik Ustaw – 38 – Poz. 2461 – 32 – uciskiem od 15 mmHg (w przypadku dzieci z uciskiem od 10 mmHg) z minimum 6-miesięczną gwarancją producenta na niezmienność wartości ucisku do 2 sztuk FIZJO FIZJO SPEC PALI HOSP ONKO KLIN REHA 30% dorośli zaopatrzenia w N.01.01 lub N.03.01, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.09.01",
@@ -997,7 +1245,9 @@
     "osoby": "Rękaw uciskowy",
     "limit": "500 zł",
     "udzial": "10%",
-    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego zaopatrzenia w N.03.02 lub N.10.01 raz na 6 miesięcy 0 zł 30% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego zaopatrzenia w N.03.02 lub N.10.01 raz na 6 miesięcy 0 zł 30% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.03.01",
@@ -1005,7 +1255,9 @@
     "osoby": "płaskodziana na",
     "limit": "500 zł",
     "udzial": "30%",
-    "kryteria": "30% obrzęk limfatyczny wymagający operacji liposukcji metodą Brorsona do 15 miesięcy od zabiegu; z wyłączeniem jednoczesnego zaopatrzenia w N.01.01 lub N.01.02, lub"
+    "kryteria": "30% obrzęk limfatyczny wymagający operacji liposukcji metodą Brorsona do 15 miesięcy od zabiegu; z wyłączeniem jednoczesnego zaopatrzenia w N.01.01 lub N.01.02, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.03.02",
@@ -1013,7 +1265,9 @@
     "osoby": "płaskodziany na",
     "limit": "500 zł",
     "udzial": "30%",
-    "kryteria": "obrzęk limfatyczny wymagający operacji liposukcji metodą Brorsona do 15 miesięcy od zabiegu; z wyłączeniem jednoczesnego zaopatrzenia w N.01.01 lub N.01.02, lub"
+    "kryteria": "obrzęk limfatyczny wymagający operacji liposukcji metodą Brorsona do 15 miesięcy od zabiegu; z wyłączeniem jednoczesnego zaopatrzenia w N.01.01 lub N.01.02, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.04.01",
@@ -1021,7 +1275,9 @@
     "osoby": "płaskodziana na",
     "limit": "550 zł",
     "udzial": "10%",
-    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego raz na 6 miesięcy 0 zł Dziennik Ustaw – 39 – Poz. 2461 – 33 – przypadku dzieci z uciskiem od 10 mmHg) z minimum 6-miesięczną gwarancją producenta na niezmienność wartości ucisku do 2 sztuk FIZJO SPEC PALI HOSP ONKO KLIN REHA 30% dorośli zaopatrzenia w N.04.02 lub N.08.01, lub"
+    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego raz na 6 miesięcy 0 zł Dziennik Ustaw – 39 – Poz. 2461 – 33 – przypadku dzieci z uciskiem od 10 mmHg) z minimum 6-miesięczną gwarancją producenta na niezmienność wartości ucisku do 2 sztuk FIZJO SPEC PALI HOSP ONKO KLIN REHA 30% dorośli zaopatrzenia w N.04.02 lub N.08.01, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.11.01",
@@ -1029,7 +1285,9 @@
     "osoby": "Skarpeta uciskowa",
     "limit": "300 zł",
     "udzial": "10%",
-    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2. lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego zaopatrzenia w N.04.01 lub N.08.01, lub"
+    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2. lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego zaopatrzenia w N.04.01 lub N.08.01, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.08.03",
@@ -1037,7 +1295,9 @@
     "osoby": "0 zł",
     "limit": "",
     "udzial": "10%",
-    "kryteria": "dzieci do ukończenia 18. roku życia 30% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia 30% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.05.01",
@@ -1045,7 +1305,9 @@
     "osoby": "płaskodziana na",
     "limit": "500 zł",
     "udzial": "10%",
-    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego zaopatrzenia w N.06.01 lub N.07.01, lub"
+    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego zaopatrzenia w N.06.01 lub N.07.01, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.06.01",
@@ -1053,7 +1315,9 @@
     "osoby": "płaskodziana na",
     "limit": "700 zł",
     "udzial": "10%",
-    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego zaopatrzenia w N.04.02 lub N.05.01, lub"
+    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego zaopatrzenia w N.04.02 lub N.05.01, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.13.01",
@@ -1061,7 +1325,9 @@
     "osoby": "0 zł",
     "limit": "",
     "udzial": "",
-    "kryteria": "– 40 – Poz. 2461 – 34 –"
+    "kryteria": "– 40 – Poz. 2461 – 34 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.07.01",
@@ -1069,7 +1335,9 @@
     "osoby": "płaskodziane na",
     "limit": "1400 zł",
     "udzial": "10%",
-    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego zaopatrzenia w N.04.02 lub N.05.01, lub"
+    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego zaopatrzenia w N.04.02 lub N.05.01, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.08.01",
@@ -1077,7 +1345,9 @@
     "osoby": "płaskodziana na",
     "limit": "550 zł",
     "udzial": "30%",
-    "kryteria": "obrzęk limfatyczny wymagający operacji liposukcji metodą Brorsona do 15 miesięcy od zabiegu; z wyłączeniem jednoczesnego zaopatrzenia w N.04.01 lub N.04.02, lub"
+    "kryteria": "obrzęk limfatyczny wymagający operacji liposukcji metodą Brorsona do 15 miesięcy od zabiegu; z wyłączeniem jednoczesnego zaopatrzenia w N.04.01 lub N.04.02, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.08.02",
@@ -1085,7 +1355,9 @@
     "osoby": "płaskodziana na",
     "limit": "500 zł",
     "udzial": "30%",
-    "kryteria": "obrzęk limfatyczny wymagający operacji liposukcji metodą Brorsona do 15 miesięcy od zabiegu; z wyłączeniem jednoczesnego zaopatrzenia w N.04.01 lub N.04.02, lub"
+    "kryteria": "obrzęk limfatyczny wymagający operacji liposukcji metodą Brorsona do 15 miesięcy od zabiegu; z wyłączeniem jednoczesnego zaopatrzenia w N.04.01 lub N.04.02, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.08.03",
@@ -1093,7 +1365,9 @@
     "osoby": "płaskodziana na",
     "limit": "700 zł",
     "udzial": "30%",
-    "kryteria": "obrzęk limfatyczny wymagający operacji liposukcji metodą Brorsona do 15 miesięcy od zabiegu; z wyłączeniem jednoczesnego zaopatrzenia w N.04.01 lub N.04.02, lub"
+    "kryteria": "obrzęk limfatyczny wymagający operacji liposukcji metodą Brorsona do 15 miesięcy od zabiegu; z wyłączeniem jednoczesnego zaopatrzenia w N.04.01 lub N.04.02, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.09.01",
@@ -1101,7 +1375,9 @@
     "osoby": "płaskodziana produkowana",
     "limit": "200 zł",
     "udzial": "10%",
-    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego zaopatrzenia w N.01.01 lub N.01.02, lub"
+    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego zaopatrzenia w N.01.01 lub N.01.02, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.10.01",
@@ -1109,7 +1385,9 @@
     "osoby": "płaskodziany produkowany",
     "limit": "300 zł",
     "udzial": "10%",
-    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego zaopatrzenia w N.02.01 lub N.03.02 raz na 6 miesięcy 0 zł 30% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego zaopatrzenia w N.02.01 lub N.03.02 raz na 6 miesięcy 0 zł 30% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.11.01",
@@ -1117,7 +1395,9 @@
     "osoby": "płaskodziana produkowana",
     "limit": "200 zł",
     "udzial": "10%",
-    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego raz na 6 miesięcy 0 zł Dziennik Ustaw – 42 – Poz. 2461 – 36 – nieelastyczna regulowana odzież uciskowa typu wrap produkowana seryjnie na stopę z uciskiem od 15 mmHg (w przypadku dzieci z uciskiem od 10 mmHg) z minimum 6-miesięczną gwarancją producenta na niezmienność wartości ucisku do 2 sztuk FIZJO FIZJO SPEC PALI HOSP ONKO KLIN REHA 30% dorośli zaopatrzenia w N.04.01 lub N.04.02, lub"
+    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego raz na 6 miesięcy 0 zł Dziennik Ustaw – 42 – Poz. 2461 – 36 – nieelastyczna regulowana odzież uciskowa typu wrap produkowana seryjnie na stopę z uciskiem od 15 mmHg (w przypadku dzieci z uciskiem od 10 mmHg) z minimum 6-miesięczną gwarancją producenta na niezmienność wartości ucisku do 2 sztuk FIZJO FIZJO SPEC PALI HOSP ONKO KLIN REHA 30% dorośli zaopatrzenia w N.04.01 lub N.04.02, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.08.01",
@@ -1125,7 +1405,9 @@
     "osoby": "Odzież uciskowa",
     "limit": "300 zł",
     "udzial": "10%",
-    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego zaopatrzenia w N.05.01 lub N.06.01, lub"
+    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego zaopatrzenia w N.05.01 lub N.06.01, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.13.01",
@@ -1133,7 +1415,9 @@
     "osoby": "płaskodziana produkowana",
     "limit": "500 zł",
     "udzial": "10%",
-    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego zaopatrzenia w N.05.01 lub N.06.01, lub"
+    "kryteria": "dzieci do ukończenia 18. roku życia obrzęk limfatyczny 1. lub 2., lub 3. stopnia (według ISL) po redukcji obrzęku w fazie stabilizacji; z wyłączeniem jednoczesnego zaopatrzenia w N.05.01 lub N.06.01, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.14.03",
@@ -1141,7 +1425,9 @@
     "osoby": "0 zł",
     "limit": "120 zł",
     "udzial": "",
-    "kryteria": "mmHg 120 zł za parę klasa ucisku od 34 mmHg"
+    "kryteria": "mmHg 120 zł za parę klasa ucisku od 34 mmHg",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.14.02",
@@ -1149,7 +1435,9 @@
     "osoby": "okrągłodziane produkowane",
     "limit": "75 zł",
     "udzial": "10%",
-    "kryteria": "pacjenci z aktywnym owrzodzeniem żylnym goleni lub po przebytym owrzodzeniu żylnym goleni w zapobieganiu nawrotom, u których nie stwierdzono przeciwwskazań do kompresjoterapii oraz u których wskaźnik kostka-ramię (WKR) nie jest wyższy niż 1,3 oraz nie jest niższy niż 0,6; z wyłączeniem jednoczesnego zaopatrzenia w N.14.01 lub N.14.03 raz na 6 miesięcy 0 zł 95 zł za parę klasa ucisku do 32 mmHg 180 zł za parę klasa ucisku od 34 mmHg"
+    "kryteria": "pacjenci z aktywnym owrzodzeniem żylnym goleni lub po przebytym owrzodzeniu żylnym goleni w zapobieganiu nawrotom, u których nie stwierdzono przeciwwskazań do kompresjoterapii oraz u których wskaźnik kostka-ramię (WKR) nie jest wyższy niż 1,3 oraz nie jest niższy niż 0,6; z wyłączeniem jednoczesnego zaopatrzenia w N.14.01 lub N.14.03 raz na 6 miesięcy 0 zł 95 zł za parę klasa ucisku do 32 mmHg 180 zł za parę klasa ucisku od 34 mmHg",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.14.03",
@@ -1157,7 +1445,9 @@
     "osoby": "okrągłodziane produkowane",
     "limit": "90 zł",
     "udzial": "10%",
-    "kryteria": "pacjenci z aktywnym owrzodzeniem żylnym goleni lub po przebytym owrzodzeniu żylnym goleni w zapobieganiu nawrotom, u których nie stwierdzono przeciwwskazań do kompresjoterapii oraz u których wskaźnik kostka-ramię (WKR) nie jest wyższy niż 1,3 oraz nie jest niższy niż 0,6; z wyłączeniem jednoczesnego zaopatrzenia w N.14.01 lub N.14.02 raz na 6 miesięcy 0 zł 115 zł za sztukę klasa ucisku do 32 mmHg 170 zł za sztukę klasa ucisku od 34 mmHg"
+    "kryteria": "pacjenci z aktywnym owrzodzeniem żylnym goleni lub po przebytym owrzodzeniu żylnym goleni w zapobieganiu nawrotom, u których nie stwierdzono przeciwwskazań do kompresjoterapii oraz u których wskaźnik kostka-ramię (WKR) nie jest wyższy niż 1,3 oraz nie jest niższy niż 0,6; z wyłączeniem jednoczesnego zaopatrzenia w N.14.01 lub N.14.02 raz na 6 miesięcy 0 zł 115 zł za sztukę klasa ucisku do 32 mmHg 170 zł za sztukę klasa ucisku od 34 mmHg",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.15.01",
@@ -1165,7 +1455,9 @@
     "osoby": "okrągłodziany",
     "limit": "120 zł",
     "udzial": "10%",
-    "kryteria": "grupy wysokiego ryzyka po limfadenektomii pachowej ALND lub biopsji węzła wartowniczego SLNB wraz z późniejszą radioterapią raz na 6 miesięcy 0 zł Dziennik Ustaw – 44 – Poz. 2461 – 38 – gwarancją producenta na niezmienność wartości ucisku do 2 szt. PALI HOSP MED RODZ ONKO KLIN POZ REHA 150 zł za sztukę z półrękawiczką"
+    "kryteria": "grupy wysokiego ryzyka po limfadenektomii pachowej ALND lub biopsji węzła wartowniczego SLNB wraz z późniejszą radioterapią raz na 6 miesięcy 0 zł Dziennik Ustaw – 44 – Poz. 2461 – 38 – gwarancją producenta na niezmienność wartości ucisku do 2 szt. PALI HOSP MED RODZ ONKO KLIN POZ REHA 150 zł za sztukę z półrękawiczką",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.16.01",
@@ -1173,7 +1465,9 @@
     "osoby": "kompresyjny",
     "limit": "300 zł",
     "udzial": "10%",
-    "kryteria": "jednorazowo w przypadku rekonstrukcji piersi: 1) po mastektomii z zastosowaniem implantu lub ekspandera lub 2) w przypadku wad rozwojowych lub urazów jednorazowo 0 zł"
+    "kryteria": "jednorazowo w przypadku rekonstrukcji piersi: 1) po mastektomii z zastosowaniem implantu lub ekspandera lub 2) w przypadku wad rozwojowych lub urazów jednorazowo 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "N.16.02",
@@ -1181,7 +1475,9 @@
     "osoby": "ANGIO",
     "limit": "120 zł",
     "udzial": "10%",
-    "kryteria": "jednorazowo w przypadku rekonstrukcji piersi: 1) po mastektomii z zastosowaniem implantu lub ekspandera lub 2) w przypadku wad rozwojowych lub urazów jednorazowo 0 zł Grupa O – Wyroby optyczne wykonywane na zamówienie lub produkowane seryjnie"
+    "kryteria": "jednorazowo w przypadku rekonstrukcji piersi: 1) po mastektomii z zastosowaniem implantu lub ekspandera lub 2) w przypadku wad rozwojowych lub urazów jednorazowo 0 zł Grupa O – Wyroby optyczne wykonywane na zamówienie lub produkowane seryjnie",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "O.01.01",
@@ -1189,7 +1485,9 @@
     "osoby": "korekcyjna do bliży",
     "limit": "0 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia wady wzroku wymagające korekcji sfera do + 6,00 dptr i cylinder do ± 2,00 dptr, w tym soczewka z mocą pryzmatyczną według wskazań medycznych, nie częściej niż raz na 6 miesięcy 0 zł 30% dorośli raz na 2 lata 100 zł 0% dzieci do ukończenia 18. roku życia wady wzroku wymagające korekcji sfera od + 6,25 dptr i cylinder od 0,00 dptr; sfera do + 6,00 dptr i cylinder od ± 2,25 dptr, w tym soczewka z mocą pryzmatyczną według wskazań medycznych, nie częściej niż raz na 6 miesięcy 10% dorośli raz na 2 lata Dziennik Ustaw – 45 – Poz. 2461 – 39 – 350 zł 0% dzieci do ukończenia 18. roku życia wady wzroku wymagające korekcji sfera od + 10,00 dptr i cylinder od 0,00 dptr, w tym soczewka z mocą pryzmatyczną według wskazań medycznych, nie częściej niż raz na 6 miesięcy 10% dorośli raz na 2 lata"
+    "kryteria": "dzieci do ukończenia 18. roku życia wady wzroku wymagające korekcji sfera do + 6,00 dptr i cylinder do ± 2,00 dptr, w tym soczewka z mocą pryzmatyczną według wskazań medycznych, nie częściej niż raz na 6 miesięcy 0 zł 30% dorośli raz na 2 lata 100 zł 0% dzieci do ukończenia 18. roku życia wady wzroku wymagające korekcji sfera od + 6,25 dptr i cylinder od 0,00 dptr; sfera do + 6,00 dptr i cylinder od ± 2,25 dptr, w tym soczewka z mocą pryzmatyczną według wskazań medycznych, nie częściej niż raz na 6 miesięcy 10% dorośli raz na 2 lata Dziennik Ustaw – 45 – Poz. 2461 – 39 – 350 zł 0% dzieci do ukończenia 18. roku życia wady wzroku wymagające korekcji sfera od + 10,00 dptr i cylinder od 0,00 dptr, w tym soczewka z mocą pryzmatyczną według wskazań medycznych, nie częściej niż raz na 6 miesięcy 10% dorośli raz na 2 lata",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "O.01.02",
@@ -1197,7 +1495,9 @@
     "osoby": "korekcyjna do dali",
     "limit": "0 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia wady wzroku wymagające korekcji sfera do - 6,00 dptr i cylinder do ± 2,00 dptr, w tym soczewka z mocą pryzmatyczną według wskazań medycznych, nie częściej niż raz na 6 miesięcy 0 zł 30% dorośli raz na 2 lata 100 zł 0% dzieci do ukończenia 18. roku życia wady wzroku wymagające korekcji sfera od - 6,25 dptr i cylinder od 0,00 dptr; sfera do - 6,00 dptr i cylinder od ± 2,25 dptr, w tym soczewka z mocą pryzmatyczną według wskazań medycznych, nie częściej niż raz na 6 miesięcy 10% dorośli raz na 2 lata 350 zł 0% dzieci do ukończenia 18. roku życia wady wzroku wymagające korekcji sfera od - 10,00 dptr i cylinder od 0,00 dptr, w tym soczewka z mocą pryzmatyczną według wskazań medycznych, nie częściej niż raz na 6 miesięcy 10% dorośli raz na 2 lata"
+    "kryteria": "dzieci do ukończenia 18. roku życia wady wzroku wymagające korekcji sfera do - 6,00 dptr i cylinder do ± 2,00 dptr, w tym soczewka z mocą pryzmatyczną według wskazań medycznych, nie częściej niż raz na 6 miesięcy 0 zł 30% dorośli raz na 2 lata 100 zł 0% dzieci do ukończenia 18. roku życia wady wzroku wymagające korekcji sfera od - 6,25 dptr i cylinder od 0,00 dptr; sfera do - 6,00 dptr i cylinder od ± 2,25 dptr, w tym soczewka z mocą pryzmatyczną według wskazań medycznych, nie częściej niż raz na 6 miesięcy 10% dorośli raz na 2 lata 350 zł 0% dzieci do ukończenia 18. roku życia wady wzroku wymagające korekcji sfera od - 10,00 dptr i cylinder od 0,00 dptr, w tym soczewka z mocą pryzmatyczną według wskazań medycznych, nie częściej niż raz na 6 miesięcy 10% dorośli raz na 2 lata",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "O.02.01",
@@ -1205,7 +1505,9 @@
     "osoby": "twarda albo hybrydowa,",
     "limit": "600 zł",
     "udzial": "10%",
-    "kryteria": "stożek rogówki; anizometropia powyżej 4 dptr; afakia raz na rok 0 zł"
+    "kryteria": "stożek rogówki; anizometropia powyżej 4 dptr; afakia raz na rok 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "O.03.01",
@@ -1213,7 +1515,9 @@
     "osoby": "miękka",
     "limit": "0 zł",
     "udzial": "10%",
-    "kryteria": "stożek rogówki; anizometropia powyżej 4 dptr; afakia raz na rok 0 zł"
+    "kryteria": "stożek rogówki; anizometropia powyżej 4 dptr; afakia raz na rok 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "O.04.01",
@@ -1221,7 +1525,9 @@
     "osoby": "OKU",
     "limit": "0 zł",
     "udzial": "",
-    "kryteria": "zmiany wielkości i kształtu gałki ocznej wymagające uzupełnienia epiprotezą dzieci do ukończenia 18. roku życia według wskazań medycznych 0 zł dorośli raz na 5 lat"
+    "kryteria": "zmiany wielkości i kształtu gałki ocznej wymagające uzupełnienia epiprotezą dzieci do ukończenia 18. roku życia według wskazań medycznych 0 zł dorośli raz na 5 lat",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "O.05.01",
@@ -1229,7 +1535,9 @@
     "osoby": "OKU",
     "limit": "0 zł",
     "udzial": "",
-    "kryteria": "brak gałki ocznej dzieci do ukończenia 18. roku życia według wskazań medycznych 0 zł dorośli raz na 5 lat Dziennik Ustaw – 46 – Poz. 2461 – 40 –"
+    "kryteria": "brak gałki ocznej dzieci do ukończenia 18. roku życia według wskazań medycznych 0 zł dorośli raz na 5 lat Dziennik Ustaw – 46 – Poz. 2461 – 40 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "O.06.01",
@@ -1237,7 +1545,9 @@
     "osoby": "OKU",
     "limit": "0 zł",
     "udzial": "",
-    "kryteria": "umożliwienie obserwacji jednoocznej lub dwuocznej przedmiotów bliskich i dalekich osobom niedowidzącym przy chorobach siatkówki lub osobom niedowidzącym, gdy ostrość wzroku po korekcji w lepszym oku nie przekracza Vis 0,3 raz na 3 lata 0 zł"
+    "kryteria": "umożliwienie obserwacji jednoocznej lub dwuocznej przedmiotów bliskich i dalekich osobom niedowidzącym przy chorobach siatkówki lub osobom niedowidzącym, gdy ostrość wzroku po korekcji w lepszym oku nie przekracza Vis 0,3 raz na 3 lata 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "O.07.01",
@@ -1245,7 +1555,9 @@
     "osoby": "OKU",
     "limit": "0 zł",
     "udzial": "",
-    "kryteria": "umożliwienie obserwacji jednoocznej lub dwuocznej przedmiotów bliskich i dalekich osobom niedowidzącym przy chorobach siatkówki lub osobom niedowidzącym, gdy ostrość wzroku po korekcji w lepszym oku nie przekracza Vis 0,3 raz na 5 lat 0 zł"
+    "kryteria": "umożliwienie obserwacji jednoocznej lub dwuocznej przedmiotów bliskich i dalekich osobom niedowidzącym przy chorobach siatkówki lub osobom niedowidzącym, gdy ostrość wzroku po korekcji w lepszym oku nie przekracza Vis 0,3 raz na 5 lat 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "O.08.01",
@@ -1253,7 +1565,9 @@
     "osoby": "OKU",
     "limit": "0 zł",
     "udzial": "",
-    "kryteria": "umożliwienie obserwacji jednoocznej lub dwuocznej przedmiotów bliskich i dalekich osobom niedowidzącym przy chorobach siatkówki lub osobom niedowidzącym, gdy ostrość wzroku po korekcji w lepszym oku nie przekracza Vis 0,3 raz na 5 lat 0 zł"
+    "kryteria": "umożliwienie obserwacji jednoocznej lub dwuocznej przedmiotów bliskich i dalekich osobom niedowidzącym przy chorobach siatkówki lub osobom niedowidzącym, gdy ostrość wzroku po korekcji w lepszym oku nie przekracza Vis 0,3 raz na 5 lat 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "O.09.01",
@@ -1261,7 +1575,9 @@
     "osoby": "bliży lub do dali",
     "limit": "0 zł",
     "udzial": "0%",
-    "kryteria": "umożliwienie obserwacji jednoocznej lub dwuocznej przedmiotów bliskich i dalekich osobom niedowidzącym przy chorobach siatkówki lub osobom niedowidzącym, gdy ostrość wzroku po korekcji w lepszym oku nie przekracza Vis 0,3 raz na 5 lat 0 zł"
+    "kryteria": "umożliwienie obserwacji jednoocznej lub dwuocznej przedmiotów bliskich i dalekich osobom niedowidzącym przy chorobach siatkówki lub osobom niedowidzącym, gdy ostrość wzroku po korekcji w lepszym oku nie przekracza Vis 0,3 raz na 5 lat 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "O.10.01",
@@ -1269,7 +1585,9 @@
     "osoby": "krawędziowy powyżej 400",
     "limit": "100 zł",
     "udzial": "10%",
-    "kryteria": "achromatopsja; albinizm; aniridia; zwyrodnienie plamki żółtej w postaci wysiękowej raz na 3 lata 0 zł Grupa P – Wyroby wspomagające słyszenie na zamówienie lub produkowane seryjnie"
+    "kryteria": "achromatopsja; albinizm; aniridia; zwyrodnienie plamki żółtej w postaci wysiękowej raz na 3 lata 0 zł Grupa P – Wyroby wspomagające słyszenie na zamówienie lub produkowane seryjnie",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "P.01.01",
@@ -1277,7 +1595,9 @@
     "osoby": "przewodnictwo powietrzne",
     "limit": "3000 zł",
     "udzial": "0%",
-    "kryteria": "stopień uszkodzenia słuchu większy niż 30 dB HL dla pacjentów do ukończenia 26. roku życia, z zastrzeżeniem, że stopień uszkodzenia słuchu jest określany przez wyznaczenie średniej wartości progu słyszenia dla dwóch częstotliwości wybranych z zakresu 500, 1000, 2000 i 4000 Hz, dla których występują największe uszkodzenia słuchu raz na 3 lata 0 zł Dziennik Ustaw – 47 – Poz. 2461 – 41 – 1500 zł za sztukę 30% stopień ubytku słuchu przekraczający wartość 40 dB HL dla pacjentów powyżej 26. roku życia, z zastrzeżeniem, że stopień ubytku słuchu jest określany przez wyznaczenie średniej wartości progu słyszenia dla dwóch częstotliwości wybranych z zakresu 500, 1000, 2000 i 4000 Hz, dla których występują największe ubytki słuchu raz na 5 lat"
+    "kryteria": "stopień uszkodzenia słuchu większy niż 30 dB HL dla pacjentów do ukończenia 26. roku życia, z zastrzeżeniem, że stopień uszkodzenia słuchu jest określany przez wyznaczenie średniej wartości progu słyszenia dla dwóch częstotliwości wybranych z zakresu 500, 1000, 2000 i 4000 Hz, dla których występują największe uszkodzenia słuchu raz na 3 lata 0 zł Dziennik Ustaw – 47 – Poz. 2461 – 41 – 1500 zł za sztukę 30% stopień ubytku słuchu przekraczający wartość 40 dB HL dla pacjentów powyżej 26. roku życia, z zastrzeżeniem, że stopień ubytku słuchu jest określany przez wyznaczenie średniej wartości progu słyszenia dla dwóch częstotliwości wybranych z zakresu 500, 1000, 2000 i 4000 Hz, dla których występują największe ubytki słuchu raz na 5 lat",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "P.02.01",
@@ -1285,7 +1605,9 @@
     "osoby": "przewodnictwo kostne przy",
     "limit": "3000 zł",
     "udzial": "0%",
-    "kryteria": "stopień uszkodzenia słuchu większy niż 30 dB HL dla pacjentów do ukończenia 26. roku życia, z zastrzeżeniem, że stopień uszkodzenia słuchu jest określany przez wyznaczenie średniej wartości progu słyszenia dla dwóch częstotliwości wybranych z zakresu 500, 1000, 2000 i 4000 Hz, dla których występują największe uszkodzenia słuchu raz na 3 lata 0 zł 30% stopień ubytku słuchu przekraczający wartość 40 dB HL dla pacjentów powyżej 26. roku życia, z zastrzeżeniem, że stopień ubytku słuchu jest określany przez wyznaczenie średniej wartości progu słyszenia dla dwóch częstotliwości wybranych z zakresu 500, 1000, 2000 i 4000 Hz, dla których występują największe ubytki słuchu raz na 5 lat"
+    "kryteria": "stopień uszkodzenia słuchu większy niż 30 dB HL dla pacjentów do ukończenia 26. roku życia, z zastrzeżeniem, że stopień uszkodzenia słuchu jest określany przez wyznaczenie średniej wartości progu słyszenia dla dwóch częstotliwości wybranych z zakresu 500, 1000, 2000 i 4000 Hz, dla których występują największe uszkodzenia słuchu raz na 3 lata 0 zł 30% stopień ubytku słuchu przekraczający wartość 40 dB HL dla pacjentów powyżej 26. roku życia, z zastrzeżeniem, że stopień ubytku słuchu jest określany przez wyznaczenie średniej wartości progu słyszenia dla dwóch częstotliwości wybranych z zakresu 500, 1000, 2000 i 4000 Hz, dla których występują największe ubytki słuchu raz na 5 lat",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "P.03.01",
@@ -1293,7 +1615,9 @@
     "osoby": "na zamówienie",
     "limit": "60 zł",
     "udzial": "0%",
-    "kryteria": "pacjenci do ukończenia 26. roku życia wymagający zaopatrzenia w aparaty słuchowe, które dodatkowo wymagają używania wkładki usznej każdorazowo zgodnie z zaleceniami lekarza 0 zł 50 zł za sztukę pacjenci powyżej 26. roku życia wymagający zaopatrzenia w aparaty słuchowe, które dodatkowo wymagają używania wkładki usznej raz na 5 lat4) Dziennik Ustaw – 48 – Poz. 2461 – 42 –"
+    "kryteria": "pacjenci do ukończenia 26. roku życia wymagający zaopatrzenia w aparaty słuchowe, które dodatkowo wymagają używania wkładki usznej każdorazowo zgodnie z zaleceniami lekarza 0 zł 50 zł za sztukę pacjenci powyżej 26. roku życia wymagający zaopatrzenia w aparaty słuchowe, które dodatkowo wymagają używania wkładki usznej raz na 5 lat4) Dziennik Ustaw – 48 – Poz. 2461 – 42 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "P.04.01",
@@ -1301,7 +1625,9 @@
     "osoby": "słyszenie",
     "limit": "5500 zł",
     "udzial": "30%",
-    "kryteria": "wady słuchu utrudniające lub ograniczające zrozumienie mowy dla pacjentów do ukończenia 26. roku życia raz na 5 lat 0 zł Grupa R – Wyroby medyczne produkowane seryjnie wspomagające kontrolę glikemii"
+    "kryteria": "wady słuchu utrudniające lub ograniczające zrozumienie mowy dla pacjentów do ukończenia 26. roku życia raz na 5 lat 0 zł Grupa R – Wyroby medyczne produkowane seryjnie wspomagające kontrolę glikemii",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "R.05.02",
@@ -1309,7 +1635,9 @@
     "osoby": "0 zł",
     "limit": "",
     "udzial": "30%",
-    "kryteria": "pacjenci po ukończeniu 26. roku życia z: 1) cukrzycą typu 1 lub 3 wymagający intensywnej insulinoterapii, z nieświadomością hipoglikemii (brak objawów prodromalnych hipoglikemii, wykluczenie hipoglikemii poalkoholowej) albo 2) glikogenozą, 3) hiperinsulinizmem wrodzonym – z wyłączeniem jednoczesnego zaopatrzenia w R.03.03 lub R.04.02, lub"
+    "kryteria": "pacjenci po ukończeniu 26. roku życia z: 1) cukrzycą typu 1 lub 3 wymagający intensywnej insulinoterapii, z nieświadomością hipoglikemii (brak objawów prodromalnych hipoglikemii, wykluczenie hipoglikemii poalkoholowej) albo 2) glikogenozą, 3) hiperinsulinizmem wrodzonym – z wyłączeniem jednoczesnego zaopatrzenia w R.03.03 lub R.04.02, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "R.05.02",
@@ -1317,7 +1645,9 @@
     "osoby": "systemu ciągłego",
     "limit": "970 zł",
     "udzial": "30%",
-    "kryteria": "pacjenci do ukończenia 26. roku życia z: 1) cukrzycą typu 1 albo 3 wymagający intensywnej insulinoterapii, z nieświadomością hipoglikemii (brak objawów prodromalnych hipoglikemii, wykluczenie hipoglikemii poalkoholowej) albo 2) glikogenozą, albo 3) hiperinsulinizmem wrodzonym – z wyłączeniem jednoczesnego zaopatrzenia w R.04.01 lub R.05.01, lub"
+    "kryteria": "pacjenci do ukończenia 26. roku życia z: 1) cukrzycą typu 1 albo 3 wymagający intensywnej insulinoterapii, z nieświadomością hipoglikemii (brak objawów prodromalnych hipoglikemii, wykluczenie hipoglikemii poalkoholowej) albo 2) glikogenozą, albo 3) hiperinsulinizmem wrodzonym – z wyłączeniem jednoczesnego zaopatrzenia w R.04.01 lub R.05.01, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "R.05.02",
@@ -1325,7 +1655,9 @@
     "osoby": "0 zł",
     "limit": "",
     "udzial": "",
-    "kryteria": "intensywnej insulinoterapii, z nieświadomością hipoglikemii (brak objawów prodromalnych, hipoglikemii, wykluczenie hipoglikemii poalkoholowej) albo 2) glikogenozą, albo 3) hiperinsulinizmem wrodzonym – z wyłączeniem jednoczesnego zaopatrzenia w R.04.01 lub R.05.01, lub"
+    "kryteria": "intensywnej insulinoterapii, z nieświadomością hipoglikemii (brak objawów prodromalnych, hipoglikemii, wykluczenie hipoglikemii poalkoholowej) albo 2) glikogenozą, albo 3) hiperinsulinizmem wrodzonym – z wyłączeniem jednoczesnego zaopatrzenia w R.04.01 lub R.05.01, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "R.05.02",
@@ -1333,7 +1665,9 @@
     "osoby": "– 54 –",
     "limit": "",
     "udzial": "",
-    "kryteria": ""
+    "kryteria": "",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.01.01",
@@ -1341,7 +1675,9 @@
     "osoby": "pachwinowy jednostronny",
     "limit": "80 zł",
     "udzial": "30%",
-    "kryteria": "przepuklina pachwinowa jednostronna u pacjentów z przepukliną i przeciwwskazaniem do leczenia operacyjnego lub po zabiegu operacyjnym w celu zmniejszenia dolegliwości bólowych albo ryzyka wystąpienia przepukliny pooperacyjnej; z wyłączeniem jednoczesnego zaopatrzenia w S.01.02 lub"
+    "kryteria": "przepuklina pachwinowa jednostronna u pacjentów z przepukliną i przeciwwskazaniem do leczenia operacyjnego lub po zabiegu operacyjnym w celu zmniejszenia dolegliwości bólowych albo ryzyka wystąpienia przepukliny pooperacyjnej; z wyłączeniem jednoczesnego zaopatrzenia w S.01.02 lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.01.02",
@@ -1349,7 +1685,9 @@
     "osoby": "pachwinowy obustronny",
     "limit": "",
     "udzial": "",
-    "kryteria": "przepuklina pachwinowa obustronna u pacjentów z przepukliną i przeciwwskazaniem do leczenia operacyjnego lub po zabiegu operacyjnym w celu zmniejszenia dolegliwości bólowych albo ryzyka wystąpienia przepukliny pooperacyjnej; z wyłączeniem jednoczesnego zaopatrzenia w S.01.01 lub"
+    "kryteria": "przepuklina pachwinowa obustronna u pacjentów z przepukliną i przeciwwskazaniem do leczenia operacyjnego lub po zabiegu operacyjnym w celu zmniejszenia dolegliwości bólowych albo ryzyka wystąpienia przepukliny pooperacyjnej; z wyłączeniem jednoczesnego zaopatrzenia w S.01.01 lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.01.03",
@@ -1357,7 +1695,9 @@
     "osoby": "-suspensoryjne męskie",
     "limit": "100 zł",
     "udzial": "30%",
-    "kryteria": "przepuklina pachwinowa obustronna u pacjentów z przepukliną i przeciwwskazaniem do leczenia operacyjnego lub po zabiegu operacyjnym w celu zmniejszenia dolegliwości bólowych albo ryzyka wystąpienia przepukliny pooperacyjnej; z wyłączeniem jednoczesnego zaopatrzenia w S.01.01 lub"
+    "kryteria": "przepuklina pachwinowa obustronna u pacjentów z przepukliną i przeciwwskazaniem do leczenia operacyjnego lub po zabiegu operacyjnym w celu zmniejszenia dolegliwości bólowych albo ryzyka wystąpienia przepukliny pooperacyjnej; z wyłączeniem jednoczesnego zaopatrzenia w S.01.01 lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.02.01",
@@ -1365,7 +1705,9 @@
     "osoby": "100 zł",
     "limit": "0 zł",
     "udzial": "",
-    "kryteria": "braku przeciwwskazań do stosowania pasa brzusznego raz na rok 0 zł Dziennik Ustaw – 58 – Poz. 2461 – 52 –"
+    "kryteria": "braku przeciwwskazań do stosowania pasa brzusznego raz na rok 0 zł Dziennik Ustaw – 58 – Poz. 2461 – 52 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.05.01",
@@ -1373,7 +1715,9 @@
     "osoby": "stopniową regulacją",
     "limit": "30 zł",
     "udzial": "30%",
-    "kryteria": "trwała dysfunkcja chodu raz na 3 lata 0 zł"
+    "kryteria": "trwała dysfunkcja chodu raz na 3 lata 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.05.02",
@@ -1381,7 +1725,9 @@
     "osoby": "podparciem na",
     "limit": "0 zł",
     "udzial": "30%",
-    "kryteria": "trwała dysfunkcja chodu i zaburzenia czynności chwytnej ręki raz na 3 lata 0 zł"
+    "kryteria": "trwała dysfunkcja chodu i zaburzenia czynności chwytnej ręki raz na 3 lata 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.05.03",
@@ -1389,7 +1735,9 @@
     "osoby": "40 zł",
     "limit": "0 zł",
     "udzial": "",
-    "kryteria": "raz na 3 lata 0 zł"
+    "kryteria": "raz na 3 lata 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.06.01",
@@ -1397,7 +1745,9 @@
     "osoby": "75 zł",
     "limit": "0 zł",
     "udzial": "",
-    "kryteria": "raz na 3 lata 0 zł Dziennik Ustaw – 59 – Poz. 2461 – 53 –"
+    "kryteria": "raz na 3 lata 0 zł Dziennik Ustaw – 59 – Poz. 2461 – 53 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.07.01",
@@ -1405,7 +1755,9 @@
     "osoby": "ułatwiająca chodzenie",
     "limit": "150 zł",
     "udzial": "30%",
-    "kryteria": "trwała dysfunkcja chodu raz na 5 lat 0 zł 350 zł w przypadku chodzika albo podpórki z 3 lub 4 kołami wyposażonych w hamulec"
+    "kryteria": "trwała dysfunkcja chodu raz na 5 lat 0 zł 350 zł w przypadku chodzika albo podpórki z 3 lub 4 kołami wyposażonych w hamulec",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.09.01",
@@ -1413,7 +1765,9 @@
     "osoby": "dzieci z odciążeniem",
     "limit": "600 zł",
     "udzial": "0%",
-    "kryteria": "dzieci od rozpoczęcia 3. do ukończenia 18. roku życia wymagające wspomagania chodu z odciążeniem tułowia; z wyłączeniem jednoczesnego zaopatrzenia w S.10.01 raz na 3 lata 0 zł"
+    "kryteria": "dzieci od rozpoczęcia 3. do ukończenia 18. roku życia wymagające wspomagania chodu z odciążeniem tułowia; z wyłączeniem jednoczesnego zaopatrzenia w S.10.01 raz na 3 lata 0 zł",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.10.01",
@@ -1421,7 +1775,9 @@
     "osoby": "CHI DZI",
     "limit": "3000 zł",
     "udzial": "0%",
-    "kryteria": "schorzenia wymagające pionizacji ze stabilizacją tułowia, obręczy biodrowej i kończyn dolnych; z wyłączeniem jednoczesnego zaopatrzenia w S.09.01 lub"
+    "kryteria": "schorzenia wymagające pionizacji ze stabilizacją tułowia, obręczy biodrowej i kończyn dolnych; z wyłączeniem jednoczesnego zaopatrzenia w S.09.01 lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.11.01",
@@ -1429,7 +1785,9 @@
     "osoby": "multifunkcyjne: funkcja",
     "limit": "3200 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia – schorzenia wymagające pionizacji ze stabilizacją tułowia, obręczy biodrowej i kończyn dolnych; z wyłączeniem jednoczesnego zaopatrzenia w S.09.01 lub"
+    "kryteria": "dzieci do ukończenia 18. roku życia – schorzenia wymagające pionizacji ze stabilizacją tułowia, obręczy biodrowej i kończyn dolnych; z wyłączeniem jednoczesnego zaopatrzenia w S.09.01 lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.12.01",
@@ -1437,7 +1795,9 @@
     "osoby": "standardowy dla dorosłych",
     "limit": "650 zł",
     "udzial": "0%",
-    "kryteria": "trwała dysfunkcja ograniczająca samodzielne chodzenie; z wyłączeniem jednoczesnego zaopatrzenia w S.13.01 lub"
+    "kryteria": "trwała dysfunkcja ograniczająca samodzielne chodzenie; z wyłączeniem jednoczesnego zaopatrzenia w S.13.01 lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.13.01",
@@ -1445,7 +1805,9 @@
     "osoby": "stopów lekkich, z",
     "limit": "1700 zł",
     "udzial": "0%",
-    "kryteria": "trwała dysfunkcja uniemożliwiająca samodzielne chodzenie; z wyłączeniem jednoczesnego zaopatrzenia w S.12.01 lub"
+    "kryteria": "trwała dysfunkcja uniemożliwiająca samodzielne chodzenie; z wyłączeniem jednoczesnego zaopatrzenia w S.12.01 lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.19.01",
@@ -1453,7 +1815,9 @@
     "osoby": "510 zł",
     "limit": "",
     "udzial": "",
-    "kryteria": "Poz. 2461 – 55 –"
+    "kryteria": "Poz. 2461 – 55 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.14.01",
@@ -1461,7 +1825,9 @@
     "osoby": "dziecięcy",
     "limit": "600 zł",
     "udzial": "0%",
-    "kryteria": "dzieci od rozpoczęcia 3. do ukończenia 18. roku życia z trwałymi dysfunkcjami ograniczającymi samodzielne chodzenie; z wyłączeniem jednoczesnego zaopatrzenia w S.15.02 lub S.20.01, lub S.21.01, lub"
+    "kryteria": "dzieci od rozpoczęcia 3. do ukończenia 18. roku życia z trwałymi dysfunkcjami ograniczającymi samodzielne chodzenie; z wyłączeniem jednoczesnego zaopatrzenia w S.15.02 lub S.20.01, lub S.21.01, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.15.01",
@@ -1469,7 +1835,9 @@
     "osoby": "aktywny o napędzie",
     "limit": "4500 zł",
     "udzial": "0%",
-    "kryteria": "dorośli z trwałymi dysfunkcjami ograniczającymi samodzielne chodzenie, z zachowaniem sprawności w kończynach górnych umożliwiającej samodzielne poruszanie się na wózku; z wyłączeniem jednoczesnego zaopatrzenia w S.12.01 lub"
+    "kryteria": "dorośli z trwałymi dysfunkcjami ograniczającymi samodzielne chodzenie, z zachowaniem sprawności w kończynach górnych umożliwiającej samodzielne poruszanie się na wózku; z wyłączeniem jednoczesnego zaopatrzenia w S.12.01 lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.19.01",
@@ -1477,7 +1845,9 @@
     "osoby": "900 zł",
     "limit": "",
     "udzial": "",
-    "kryteria": "o wadze do 16 kg"
+    "kryteria": "o wadze do 16 kg",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.15.02",
@@ -1485,7 +1855,9 @@
     "osoby": "aktywny o napędzie",
     "limit": "4500 zł",
     "udzial": "0%",
-    "kryteria": "dzieci od rozpoczęcia 3. do ukończenia 18. roku życia z trwałymi dysfunkcjami ograniczającymi samodzielne chodzenie, z zachowaniem sprawności w kończynach górnych umożliwiającej samodzielne poruszanie się na wózku; z wyłączeniem jednoczesnego zaopatrzenia w S.14.01 lub"
+    "kryteria": "dzieci od rozpoczęcia 3. do ukończenia 18. roku życia z trwałymi dysfunkcjami ograniczającymi samodzielne chodzenie, z zachowaniem sprawności w kończynach górnych umożliwiającej samodzielne poruszanie się na wózku; z wyłączeniem jednoczesnego zaopatrzenia w S.14.01 lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.22.01",
@@ -1493,7 +1865,9 @@
     "osoby": "900 zł",
     "limit": "",
     "udzial": "",
-    "kryteria": "do 12 kg Dziennik Ustaw – 62 – Poz. 2461 – 56 –"
+    "kryteria": "do 12 kg Dziennik Ustaw – 62 – Poz. 2461 – 56 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.16.01",
@@ -1501,7 +1875,9 @@
     "osoby": "specjalny o napędzie",
     "limit": "3000 zł",
     "udzial": "0%",
-    "kryteria": "dysfunkcje narządu ruchu uniemożliwiające samodzielne chodzenie, z zachowaniem jednostronnej sprawności kończyny górnej umożliwiającej samodzielny napęd wózka; z wyłączeniem jednoczesnego zaopatrzenia w S.12.01 lub"
+    "kryteria": "dysfunkcje narządu ruchu uniemożliwiające samodzielne chodzenie, z zachowaniem jednostronnej sprawności kończyny górnej umożliwiającej samodzielny napęd wózka; z wyłączeniem jednoczesnego zaopatrzenia w S.12.01 lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.17.01",
@@ -1509,7 +1885,9 @@
     "osoby": "stabilizujący dla dorosłych",
     "limit": "2000 zł",
     "udzial": "0%",
-    "kryteria": "dysfunkcje narządu ruchu uniemożliwiające chodzenie oraz samodzielny napęd wózka inwalidzkiego; ograniczona zdolność do samodzielnego zachowania pozycji siedzącej, wymagająca stabilizacji głowy lub pleców; z wyłączeniem jednoczesnego zaopatrzenia w S.12.01 lub S.13.01, lub S.15.01, lub"
+    "kryteria": "dysfunkcje narządu ruchu uniemożliwiające chodzenie oraz samodzielny napęd wózka inwalidzkiego; ograniczona zdolność do samodzielnego zachowania pozycji siedzącej, wymagająca stabilizacji głowy lub pleców; z wyłączeniem jednoczesnego zaopatrzenia w S.12.01 lub S.13.01, lub S.15.01, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.18.01",
@@ -1517,7 +1895,9 @@
     "osoby": "spacerowy bierny dla",
     "limit": "4000 zł",
     "udzial": "0%",
-    "kryteria": "dysfunkcje narządu ruchu uniemożliwiające samodzielne chodzenie i wymagające stabilizacji ciała co najmniej w pozycji półleżącej i siedzącej oraz wymagające systemu podparcia wynikającego z indywidualnych dysfunkcji; brak zdolności do samodzielnego zachowania pozycji siedzącej; z wyłączeniem jednoczesnego zaopatrzenia w S.12.01 lub S.13.01, lub"
+    "kryteria": "dysfunkcje narządu ruchu uniemożliwiające samodzielne chodzenie i wymagające stabilizacji ciała co najmniej w pozycji półleżącej i siedzącej oraz wymagające systemu podparcia wynikającego z indywidualnych dysfunkcji; brak zdolności do samodzielnego zachowania pozycji siedzącej; z wyłączeniem jednoczesnego zaopatrzenia w S.12.01 lub S.13.01, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.19.01",
@@ -1525,7 +1905,9 @@
     "osoby": "elektryczny dla dorosłych",
     "limit": "5000 zł",
     "udzial": "0%",
-    "kryteria": "dysfunkcje narządu ruchu wykluczające chodzenie lub samodzielne poruszanie się na wózku z napędem ręcznym przy zachowaniu zdolności do samodzielnego sterowania wózkiem elektrycznym; z wyłączeniem wózka typu skuter; z wyłączeniem jednoczesnego zaopatrzenia w S.12.01 lub S.13.01, lub S.15.01, lub"
+    "kryteria": "dysfunkcje narządu ruchu wykluczające chodzenie lub samodzielne poruszanie się na wózku z napędem ręcznym przy zachowaniu zdolności do samodzielnego sterowania wózkiem elektrycznym; z wyłączeniem wózka typu skuter; z wyłączeniem jednoczesnego zaopatrzenia w S.12.01 lub S.13.01, lub S.15.01, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.18.01",
@@ -1533,7 +1915,9 @@
     "osoby": "1500 zł",
     "limit": "",
     "udzial": "",
-    "kryteria": "Poz. 2461 – 57 –"
+    "kryteria": "Poz. 2461 – 57 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.20.01",
@@ -1541,7 +1925,9 @@
     "osoby": "spacerowy dla dzieci",
     "limit": "3000 zł",
     "udzial": "0%",
-    "kryteria": "dzieci od rozpoczęcia 2. roku życia z dysfunkcjami kończyn dolnych i górnych uniemożliwiającymi chodzenie oraz samodzielny napęd wózka inwalidzkiego i wymagające częściowej stabilizacji co najmniej w pozycji siedzącej i półleżącej; z wyłączeniem przyczepki rowerowej lub wózka dziecięcego typu parasolka; z wyłączeniem jednoczesnego zaopatrzenia w S.14.01 lub S.15.02, lub S.21.01, lub"
+    "kryteria": "dzieci od rozpoczęcia 2. roku życia z dysfunkcjami kończyn dolnych i górnych uniemożliwiającymi chodzenie oraz samodzielny napęd wózka inwalidzkiego i wymagające częściowej stabilizacji co najmniej w pozycji siedzącej i półleżącej; z wyłączeniem przyczepki rowerowej lub wózka dziecięcego typu parasolka; z wyłączeniem jednoczesnego zaopatrzenia w S.14.01 lub S.15.02, lub S.21.01, lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.21.01",
@@ -1549,7 +1935,9 @@
     "osoby": "multipozycyjny dla dzieci",
     "limit": "3000 zł",
     "udzial": "0%",
-    "kryteria": "dzieci od rozpoczęcia 2. roku życia z dysfunkcjami narządu ruchu uniemożliwiającymi samodzielne chodzenie i wymagające stabilizacji ciała w pozycji leżącej, półleżącej i siedzącej oraz pozycjonowania; z wyłączeniem jednoczesnego zaopatrzenia w S.14.01 lub"
+    "kryteria": "dzieci od rozpoczęcia 2. roku życia z dysfunkcjami narządu ruchu uniemożliwiającymi samodzielne chodzenie i wymagające stabilizacji ciała w pozycji leżącej, półleżącej i siedzącej oraz pozycjonowania; z wyłączeniem jednoczesnego zaopatrzenia w S.14.01 lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.22.01",
@@ -1557,7 +1945,9 @@
     "osoby": "elektryczny dla dzieci",
     "limit": "5000 zł",
     "udzial": "0%",
-    "kryteria": "dzieci od rozpoczęcia 3. roku życia z dysfunkcjami narządu ruchu wykluczającymi chodzenie lub samodzielne poruszanie się na wózku z napędem ręcznym przy zachowaniu zdolności do samodzielnego sterowania wózkiem elektrycznym; z wyłączeniem wózka typu skuter; z wyłączeniem jednoczesnego zaopatrzenia w S.14.01 lub"
+    "kryteria": "dzieci od rozpoczęcia 3. roku życia z dysfunkcjami narządu ruchu wykluczającymi chodzenie lub samodzielne poruszanie się na wózku z napędem ręcznym przy zachowaniu zdolności do samodzielnego sterowania wózkiem elektrycznym; z wyłączeniem wózka typu skuter; z wyłączeniem jednoczesnego zaopatrzenia w S.14.01 lub",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.23.01",
@@ -1565,7 +1955,9 @@
     "osoby": "dla dzieci stabilizujące",
     "limit": "2000 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia – trwałe choroby uniemożliwiające samodzielne utrzymanie prawidłowej postawy ciała oraz stany wymagające stabilizacji pleców i głowy (pełnokontaktowego oparcia tułowia podczas siedzenia oraz stabilizacji głowy) raz na 2 lata 0 zł Dziennik Ustaw – 64 – Poz. 2461 – 58 –"
+    "kryteria": "dzieci do ukończenia 18. roku życia – trwałe choroby uniemożliwiające samodzielne utrzymanie prawidłowej postawy ciała oraz stany wymagające stabilizacji pleców i głowy (pełnokontaktowego oparcia tułowia podczas siedzenia oraz stabilizacji głowy) raz na 2 lata 0 zł Dziennik Ustaw – 64 – Poz. 2461 – 58 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "S.24.01",
@@ -1573,7 +1965,9 @@
     "osoby": "CHI DZI",
     "limit": "120 zł",
     "udzial": "0%",
-    "kryteria": "niedowłady mięśniowe u dzieci raz na 2 lata 0 zł Grupa T – Wyroby medyczne produkowane seryjnie tracheostomijne"
+    "kryteria": "niedowłady mięśniowe u dzieci raz na 2 lata 0 zł Grupa T – Wyroby medyczne produkowane seryjnie tracheostomijne",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "U.03.01",
@@ -1581,7 +1975,9 @@
     "osoby": "0 zł",
     "limit": "",
     "udzial": "",
-    "kryteria": "Poz. 2461 – 62 –"
+    "kryteria": "Poz. 2461 – 62 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "W.01.02",
@@ -1589,7 +1985,9 @@
     "osoby": "raz na miesiąc",
     "limit": "530 zł",
     "udzial": "",
-    "kryteria": "– 69 – Poz. 2461 – 63 – GERIA GIN ONKO MED RODZ ONKO HEMA DZI ONKO KLIN OTOLARYNGO OTOLARYNGO DZI PALI HOSP PEDIA PIEL POŁ POŁO GIN POZ REHA URO 530 zł stomia na układzie moczowym (urostomia); z wyłączeniem jednoczesnego zaopatrzenia w W.01.02 (dotyczy tej samej stomii lub przetoki)"
+    "kryteria": "– 69 – Poz. 2461 – 63 – GERIA GIN ONKO MED RODZ ONKO HEMA DZI ONKO KLIN OTOLARYNGO OTOLARYNGO DZI PALI HOSP PEDIA PIEL POŁ POŁO GIN POZ REHA URO 530 zł stomia na układzie moczowym (urostomia); z wyłączeniem jednoczesnego zaopatrzenia w W.01.02 (dotyczy tej samej stomii lub przetoki)",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "W.01.01",
@@ -1597,7 +1995,9 @@
     "osoby": "jednorazowo",
     "limit": "",
     "udzial": "",
-    "kryteria": "nowo wyłoniona stomia na układzie moczowym (urostomia); zlecenie może być wystawione tylko raz – jako pierwsze zlecenie po operacji wyłonienia stomii; z wyłączeniem jednoczesnego zaopatrzenia w W.01.01 (dotyczy tej samej stomii lub przetoki) Dziennik Ustaw – 70 – Poz. 2461 – 64 –"
+    "kryteria": "nowo wyłoniona stomia na układzie moczowym (urostomia); zlecenie może być wystawione tylko raz – jako pierwsze zlecenie po operacji wyłonienia stomii; z wyłączeniem jednoczesnego zaopatrzenia w W.01.01 (dotyczy tej samej stomii lub przetoki) Dziennik Ustaw – 70 – Poz. 2461 – 64 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "W.02.01",
@@ -1605,7 +2005,9 @@
     "osoby": "jednorazowo",
     "limit": "",
     "udzial": "",
-    "kryteria": "Dziennik Ustaw – 71 – Poz. 2461 – 65 – Grupa Y – Wyroby medyczne produkowane seryjnie przy inkontynencji moczu"
+    "kryteria": "Dziennik Ustaw – 71 – Poz. 2461 – 65 – Grupa Y – Wyroby medyczne produkowane seryjnie przy inkontynencji moczu",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "Y.02.02",
@@ -1613,7 +2015,9 @@
     "osoby": "0 zł",
     "limit": "",
     "udzial": "",
-    "kryteria": "silikonowego Dziennik Ustaw – 72 – Poz. 2461 – 66 –"
+    "kryteria": "silikonowego Dziennik Ustaw – 72 – Poz. 2461 – 66 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "Y.02.01",
@@ -1621,7 +2025,9 @@
     "osoby": "0 zł",
     "limit": "",
     "udzial": "",
-    "kryteria": "Poz. 2461 – 67 –"
+    "kryteria": "Poz. 2461 – 67 –",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "Z.01.01",
@@ -1629,7 +2035,9 @@
     "osoby": "CHI OGÓL",
     "limit": "350 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia operacyjne leczenie nowotworów piersi, wady rozwojowe, urazy raz na 2 lata4) 0 zł 10% dorośli Dziennik Ustaw – 75 – Poz. 2461 – 69 – GIN ONKO MED RODZ ONKO KLIN PEDIA POZ RADIO ONKO REHA 450 zł proteza wielowarstwowa 0% dzieci do ukończenia 18. roku życia 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia operacyjne leczenie nowotworów piersi, wady rozwojowe, urazy raz na 2 lata4) 0 zł 10% dorośli Dziennik Ustaw – 75 – Poz. 2461 – 69 – GIN ONKO MED RODZ ONKO KLIN PEDIA POZ RADIO ONKO REHA 450 zł proteza wielowarstwowa 0% dzieci do ukończenia 18. roku życia 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "Z.01.02",
@@ -1637,7 +2045,9 @@
     "osoby": "lub do protez piersi",
     "limit": "120 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia operacyjne leczenie nowotworów piersi, wady rozwojowe, urazy raz na rok 0 zł 10% dorośli"
+    "kryteria": "dzieci do ukończenia 18. roku życia operacyjne leczenie nowotworów piersi, wady rozwojowe, urazy raz na rok 0 zł 10% dorośli",
+    "okres": "",
+    "naprawa": ""
   },
   {
     "kod": "Z.02.01",
@@ -1645,6 +2055,8 @@
     "osoby": "CH PŁUC",
     "limit": "350 zł",
     "udzial": "0%",
-    "kryteria": "dzieci do ukończenia 18. roku życia w przebiegu leczenia chorób nowotworowych lub przy trwałym uszkodzeniu głowy w wyniku urazu lub oparzeń, lub choroby powodujące trwałą utratę włosów; z wyłączeniem łysienia androgenowego raz na rok 0 zł 10% dorośli Dziennik Ustaw – 76 – Poz. 2461 – 70 –"
+    "kryteria": "dzieci do ukończenia 18. roku życia w przebiegu leczenia chorób nowotworowych lub przy trwałym uszkodzeniu głowy w wyniku urazu lub oparzeń, lub choroby powodujące trwałą utratę włosów; z wyłączeniem łysienia androgenowego raz na rok 0 zł 10% dorośli Dziennik Ustaw – 76 – Poz. 2461 – 70 –",
+    "okres": "",
+    "naprawa": ""
   }
 ]
