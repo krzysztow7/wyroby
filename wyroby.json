@@ -1,7 +1,7 @@
 [
   {
     "kod": "F.01.01",
-    "nazwa": "Dziennik Ustaw – 3 –",
+    "nazwa": "Dziennik Ustaw",
     "osoby": "",
     "limit": "",
     "udzial": "",
@@ -11,7 +11,7 @@
   },
   {
     "kod": "N.06.01",
-    "nazwa": "Dziennik Ustaw – 4 –",
+    "nazwa": "Dziennik Ustaw",
     "osoby": "",
     "limit": "",
     "udzial": "",
@@ -21,7 +21,7 @@
   },
   {
     "kod": "U.03.01",
-    "nazwa": "Dziennik Ustaw – 5 –",
+    "nazwa": "Dziennik Ustaw",
     "osoby": "",
     "limit": "",
     "udzial": "",
@@ -31,7 +31,7 @@
   },
   {
     "kod": "S.24.01",
-    "nazwa": "Dziennik Ustaw – 6 –",
+    "nazwa": "Dziennik Ustaw",
     "osoby": "",
     "limit": "",
     "udzial": "",
@@ -41,7 +41,7 @@
   },
   {
     "kod": "W.02.02",
-    "nazwa": "3. Do okresu użytkowania i limitu cen naprawy wyrobu medycznego, który został wydany przed dniem wejścia w życie niniejszego rozporządzenia zgodnie z dotychczasowymi przepisami, użytkowanego po tym dniu, stosuje się przepisy rozpo-",
+    "nazwa": "3. Do okresu użytkowania i limitu cen naprawy wyrobu medycznego, który został wydany przed dniem wejścia w życie",
     "osoby": "",
     "limit": "",
     "udzial": "",
@@ -51,7 +51,7 @@
   },
   {
     "kod": "A.01.01",
-    "nazwa": "Protezowa wkładka do buta uzupełniająca stopę",
+    "nazwa": "Protezowa wkładka do buta",
     "osoby": "",
     "limit": "300 zł",
     "udzial": "0%",
@@ -61,7 +61,7 @@
   },
   {
     "kod": "A.01.02",
-    "nazwa": "Protezowa wkładka do buta uzupełniająca stopę",
+    "nazwa": "Protezowa wkładka do buta",
     "osoby": "",
     "limit": "600 zł",
     "udzial": "0%",
@@ -71,8 +71,8 @@
   },
   {
     "kod": "A.02.01",
-    "nazwa": "Proteza uzupełniająca stopę",
-    "osoby": "CHI DZI",
+    "nazwa": "Proteza uzupełniająca stopę",
+    "osoby": "CHI DZI",
     "limit": "8000 zł",
     "udzial": "0%",
     "kryteria": "amputacja lub wrodzony brak w obrębie stopy raz na 2 lata4) 0 zł Załącznik do rozporządzenia Ministra Zdrowia z dnia 13 października 2023 r. (Dz. U. poz. 2461) WYKAZ WYROBÓW MEDYCZNYCH WYDAWANYCH NA ZLECENIE Dziennik Ustaw – 8 – Poz. 2461 – 2 –",
@@ -81,7 +81,7 @@
   },
   {
     "kod": "A.03.01",
-    "nazwa": "Proteza ostateczna w obrębie stawu skokowego z",
+    "nazwa": "Proteza ostateczna w",
     "osoby": "",
     "limit": "4000 zł",
     "udzial": "0%",
@@ -91,7 +91,7 @@
   },
   {
     "kod": "A.03.02",
-    "nazwa": "Proteza ostateczna w obrębie stawu skokowego z",
+    "nazwa": "Proteza ostateczna w",
     "osoby": "",
     "limit": "7500 zł",
     "udzial": "0%",
@@ -101,7 +101,7 @@
   },
   {
     "kod": "A.03.03",
-    "nazwa": "Proteza ostateczna w obrębie stawu skokowego z",
+    "nazwa": "Proteza ostateczna w",
     "osoby": "",
     "limit": "000 zł",
     "udzial": "0%",
@@ -111,7 +111,7 @@
   },
   {
     "kod": "B.01.01",
-    "nazwa": "Proteza tymczasowa podudzia przy mobilności",
+    "nazwa": "Proteza tymczasowa",
     "osoby": "",
     "limit": "4000 zł",
     "udzial": "0%",
@@ -121,7 +121,7 @@
   },
   {
     "kod": "B.01.02",
-    "nazwa": "Proteza tymczasowa podudzia przy mobilności",
+    "nazwa": "Proteza tymczasowa",
     "osoby": "",
     "limit": "6000 zł",
     "udzial": "0%",
@@ -131,7 +131,7 @@
   },
   {
     "kod": "B.02.01",
-    "nazwa": "Proteza ostateczna skorupowa podudzia",
+    "nazwa": "Proteza ostateczna",
     "osoby": "",
     "limit": "5500 zł",
     "udzial": "0%",
@@ -141,7 +141,7 @@
   },
   {
     "kod": "B.03.01",
-    "nazwa": "Proteza ostateczna modularna podudzia przy",
+    "nazwa": "Proteza ostateczna",
     "osoby": "",
     "limit": "5000 zł",
     "udzial": "0%",
@@ -151,7 +151,7 @@
   },
   {
     "kod": "B.03.02",
-    "nazwa": "Proteza ostateczna modularna podudzia przy",
+    "nazwa": "Proteza ostateczna",
     "osoby": "",
     "limit": "7000 zł",
     "udzial": "0%",
@@ -161,7 +161,7 @@
   },
   {
     "kod": "B.03.03",
-    "nazwa": "Proteza ostateczna modularna podudzia przy",
+    "nazwa": "Proteza ostateczna",
     "osoby": "",
     "limit": "000 zł",
     "udzial": "0%",
@@ -171,7 +171,7 @@
   },
   {
     "kod": "B.04.01",
-    "nazwa": "Wymiana leja w protezie tymczasowej podudzia",
+    "nazwa": "Wymiana leja w protezie",
     "osoby": "",
     "limit": "2000 zł",
     "udzial": "0%",
@@ -181,7 +181,7 @@
   },
   {
     "kod": "B.05.01",
-    "nazwa": "Wymiana leja w protezie ostatecznej podudzia",
+    "nazwa": "Wymiana leja w protezie",
     "osoby": "",
     "limit": "2500 zł",
     "udzial": "0%",
@@ -191,7 +191,7 @@
   },
   {
     "kod": "B.06.01",
-    "nazwa": "Protezowe wyrównanie skrócenia kończyny dolnej",
+    "nazwa": "Protezowe wyrównanie",
     "osoby": "",
     "limit": "7000 zł",
     "udzial": "0%",
@@ -201,7 +201,7 @@
   },
   {
     "kod": "B.07.01",
-    "nazwa": "Wymiana linera w protezie tymczasowej lub",
+    "nazwa": "Wymiana linera w protezie",
     "osoby": "",
     "limit": "1500 zł",
     "udzial": "0%",
@@ -211,7 +211,7 @@
   },
   {
     "kod": "C.01.01",
-    "nazwa": "Proteza tymczasowa w obrębie uda przy",
+    "nazwa": "Proteza tymczasowa w",
     "osoby": "",
     "limit": "5000 zł",
     "udzial": "0%",
@@ -221,7 +221,7 @@
   },
   {
     "kod": "C.01.02",
-    "nazwa": "Proteza tymczasowa w obrębie uda przy",
+    "nazwa": "Proteza tymczasowa w",
     "osoby": "",
     "limit": "8000 zł",
     "udzial": "0%",
@@ -231,7 +231,7 @@
   },
   {
     "kod": "C.01.03",
-    "nazwa": "Proteza tymczasowa w obrębie uda przy",
+    "nazwa": "Proteza tymczasowa w",
     "osoby": "",
     "limit": "000 zł",
     "udzial": "0%",
@@ -241,7 +241,7 @@
   },
   {
     "kod": "C.02.01",
-    "nazwa": "Proteza ostateczna skorupowa",
+    "nazwa": "Proteza ostateczna",
     "osoby": "",
     "limit": "5500 zł",
     "udzial": "0%",
@@ -251,7 +251,7 @@
   },
   {
     "kod": "C.03.01",
-    "nazwa": "Proteza ostateczna modularna w obrębie uda",
+    "nazwa": "Proteza ostateczna",
     "osoby": "",
     "limit": "9000 zł",
     "udzial": "0%",
@@ -261,7 +261,7 @@
   },
   {
     "kod": "C.03.02",
-    "nazwa": "Proteza ostateczna modularna w obrębie uda",
+    "nazwa": "Proteza ostateczna",
     "osoby": "",
     "limit": "000 zł",
     "udzial": "0%",
@@ -271,7 +271,7 @@
   },
   {
     "kod": "C.03.03",
-    "nazwa": "Proteza ostateczna modularna w obrębie uda",
+    "nazwa": "Proteza ostateczna",
     "osoby": "",
     "limit": "000 zł",
     "udzial": "0%",
@@ -281,7 +281,7 @@
   },
   {
     "kod": "C.04.01",
-    "nazwa": "Protezowe wyrównanie skrócenia kończyny dolnej",
+    "nazwa": "Protezowe wyrównanie",
     "osoby": "",
     "limit": "000 zł",
     "udzial": "0%",
@@ -291,7 +291,7 @@
   },
   {
     "kod": "C.05.01",
-    "nazwa": "Wymiana leja w protezie tymczasowej uda",
+    "nazwa": "Wymiana leja w protezie",
     "osoby": "",
     "limit": "2000 zł",
     "udzial": "0%",
@@ -301,7 +301,7 @@
   },
   {
     "kod": "C.06.01",
-    "nazwa": "Wymiana leja w protezie ostatecznej uda",
+    "nazwa": "Wymiana leja w protezie",
     "osoby": "",
     "limit": "3500 zł",
     "udzial": "0%",
@@ -311,7 +311,7 @@
   },
   {
     "kod": "C.07.01",
-    "nazwa": "Wymiana linera w protezie tymczasowej lub",
+    "nazwa": "Wymiana linera w protezie",
     "osoby": "",
     "limit": "2500 zł",
     "udzial": "0%",
@@ -321,7 +321,7 @@
   },
   {
     "kod": "D.01.01",
-    "nazwa": "Proteza ostateczna modularna po",
+    "nazwa": "Proteza ostateczna",
     "osoby": "",
     "limit": "000 zł",
     "udzial": "0%",
@@ -331,7 +331,7 @@
   },
   {
     "kod": "D.01.02",
-    "nazwa": "Proteza ostateczna modularna po",
+    "nazwa": "Proteza ostateczna",
     "osoby": "",
     "limit": "000 zł",
     "udzial": "0%",
@@ -341,7 +341,7 @@
   },
   {
     "kod": "D.01.03",
-    "nazwa": "Proteza ostateczna modularna po",
+    "nazwa": "Proteza ostateczna",
     "osoby": "",
     "limit": "000 zł",
     "udzial": "0%",
@@ -351,7 +351,7 @@
   },
   {
     "kod": "D.02.01",
-    "nazwa": "Wymiana kosza biodrowego po",
+    "nazwa": "Wymiana kosza",
     "osoby": "",
     "limit": "4000 zł",
     "udzial": "0%",
@@ -361,7 +361,7 @@
   },
   {
     "kod": "E.01.01",
-    "nazwa": "Proteza bierna kosmetyczna w obrębie ręki",
+    "nazwa": "Proteza bierna kosmetyczna",
     "osoby": "",
     "limit": "500 zł",
     "udzial": "0%",
@@ -371,7 +371,7 @@
   },
   {
     "kod": "F.01.01",
-    "nazwa": "Proteza bierna kosmetyczna w obrębie przedramienia",
+    "nazwa": "Proteza bierna kosmetyczna",
     "osoby": "",
     "limit": "4500 zł",
     "udzial": "0%",
@@ -381,7 +381,7 @@
   },
   {
     "kod": "F.02.01",
-    "nazwa": "Proteza bierna robocza z końcówką roboczą w",
+    "nazwa": "Proteza bierna robocza z",
     "osoby": "",
     "limit": "7500 zł",
     "udzial": "0%",
@@ -391,7 +391,7 @@
   },
   {
     "kod": "F.03.01",
-    "nazwa": "Proteza czynna w obrębie przedramienia",
+    "nazwa": "Proteza czynna w obrębie",
     "osoby": "",
     "limit": "000 zł",
     "udzial": "0%",
@@ -401,7 +401,7 @@
   },
   {
     "kod": "F.04.01",
-    "nazwa": "Proteza bierna kosmetyczna w obrębie ramienia",
+    "nazwa": "Proteza bierna kosmetyczna",
     "osoby": "",
     "limit": "7500 zł",
     "udzial": "0%",
@@ -411,7 +411,7 @@
   },
   {
     "kod": "F.05.01",
-    "nazwa": "Proteza bierna robocza z końcówką roboczą w",
+    "nazwa": "Proteza bierna robocza z",
     "osoby": "",
     "limit": "000 zł",
     "udzial": "0%",
@@ -421,7 +421,7 @@
   },
   {
     "kod": "F.06.01",
-    "nazwa": "Proteza czynna z końcówką roboczą w obrębie ramienia",
+    "nazwa": "Proteza czynna z końcówką",
     "osoby": "",
     "limit": "500 zł",
     "udzial": "0%",
@@ -431,7 +431,7 @@
   },
   {
     "kod": "F.07.01",
-    "nazwa": "Proteza bierna kosmetyczna całej kończyny górnej po",
+    "nazwa": "Proteza bierna kosmetyczna",
     "osoby": "",
     "limit": "000 zł",
     "udzial": "0%",
@@ -441,7 +441,7 @@
   },
   {
     "kod": "F.08.01",
-    "nazwa": "Proteza bierna robocza z końcówką roboczą całej",
+    "nazwa": "Proteza bierna robocza z",
     "osoby": "",
     "limit": "000 zł",
     "udzial": "0%",
@@ -451,7 +451,7 @@
   },
   {
     "kod": "F.09.01",
-    "nazwa": "Proteza czynna z końcówką roboczą całej kończyny",
+    "nazwa": "Proteza czynna z końcówką",
     "osoby": "",
     "limit": "000 zł",
     "udzial": "0%",
@@ -462,7 +462,7 @@
   {
     "kod": "F.10.01",
     "nazwa": "Rękawica kosmetyczna",
-    "osoby": "CHI DZI",
+    "osoby": "CHI DZI",
     "limit": "1500 zł",
     "udzial": "0%",
     "kryteria": "zaopatrzenie w protezę czynną lub bierną przedramienia lub ramienia, lub całej kończyny górnej raz na rok 0 zł Dziennik Ustaw – 16 – Poz. 2461 – 10 –",
@@ -472,7 +472,7 @@
   {
     "kod": "F.11.01",
     "nazwa": "Ręka bierna kosmetyczna",
-    "osoby": "CHI DZI",
+    "osoby": "CHI DZI",
     "limit": "1700 zł",
     "udzial": "0%",
     "kryteria": "zaopatrzenie w protezę bierną przedramienia lub ramienia, lub całej kończyny górnej raz na rok 0 zł",
@@ -481,7 +481,7 @@
   },
   {
     "kod": "F.12.01",
-    "nazwa": "Końcówka chwytna bierna robocza",
+    "nazwa": "Końcówka chwytna bierna",
     "osoby": "",
     "limit": "3000 zł",
     "udzial": "0%",
@@ -491,7 +491,7 @@
   },
   {
     "kod": "F.13.01",
-    "nazwa": "Liner przedramienia lub ramienia",
+    "nazwa": "Liner przedramienia lub",
     "osoby": "",
     "limit": "2500 zł",
     "udzial": "0%",
@@ -501,7 +501,7 @@
   },
   {
     "kod": "F.14.01",
-    "nazwa": "Wymiana leja w protezie przedramienia lub ramienia",
+    "nazwa": "Wymiana leja w protezie",
     "osoby": "",
     "limit": "4000 zł",
     "udzial": "0%",
@@ -511,7 +511,7 @@
   },
   {
     "kod": "F.15.01",
-    "nazwa": "Wymiana kapy barkowej w całej protezie kończyny",
+    "nazwa": "Wymiana kapy barkowej w",
     "osoby": "",
     "limit": "4500 zł",
     "udzial": "0%",
@@ -521,7 +521,7 @@
   },
   {
     "kod": "F.16.01",
-    "nazwa": "Wymiana zawieszenia protezy czynnej",
+    "nazwa": "Wymiana zawieszenia",
     "osoby": "",
     "limit": "1000 zł",
     "udzial": "0%",
@@ -531,7 +531,7 @@
   },
   {
     "kod": "F.17.01",
-    "nazwa": "Wymiana zawieszenia protezy czynnej ramienia",
+    "nazwa": "Wymiana zawieszenia",
     "osoby": "",
     "limit": "2000 zł",
     "udzial": "0%",
@@ -541,7 +541,7 @@
   },
   {
     "kod": "G.01.01",
-    "nazwa": "Orteza obejmująca goleń i stopę typu AFO bez",
+    "nazwa": "Orteza obejmująca goleń i",
     "osoby": "",
     "limit": "1000 zł",
     "udzial": "0%",
@@ -551,7 +551,7 @@
   },
   {
     "kod": "G.01.02",
-    "nazwa": "Orteza obejmująca goleń i stopę typu AFO z",
+    "nazwa": "Orteza obejmująca goleń i",
     "osoby": "",
     "limit": "2200 zł",
     "udzial": "0%",
@@ -561,7 +561,7 @@
   },
   {
     "kod": "G.02.01",
-    "nazwa": "Orteza CROW na stopę Charcot-a lub po częściowej",
+    "nazwa": "Orteza CROW na stopę",
     "osoby": "",
     "limit": "2000 zł",
     "udzial": "0%",
@@ -571,7 +571,7 @@
   },
   {
     "kod": "G.03.01",
-    "nazwa": "Orteza korygująca zaburzenia osiowe w",
+    "nazwa": "Orteza korygująca",
     "osoby": "",
     "limit": "1250 zł",
     "udzial": "0%",
@@ -581,7 +581,7 @@
   },
   {
     "kod": "G.03.02",
-    "nazwa": "Orteza korygująca zaburzenia osiowe w",
+    "nazwa": "Orteza korygująca",
     "osoby": "",
     "limit": "1500 zł",
     "udzial": "0%",
@@ -591,7 +591,7 @@
   },
   {
     "kod": "G.03.03",
-    "nazwa": "Orteza GRAFO bez przegubów",
+    "nazwa": "Orteza GRAFO bez",
     "osoby": "",
     "limit": "1750 zł",
     "udzial": "0%",
@@ -601,7 +601,7 @@
   },
   {
     "kod": "G.03.04",
-    "nazwa": "Orteza GRAFO z przegubami",
+    "nazwa": "Orteza GRAFO z",
     "osoby": "",
     "limit": "2500 zł",
     "udzial": "0%",
@@ -611,7 +611,7 @@
   },
   {
     "kod": "G.04.01",
-    "nazwa": "Orteza z ujęciem uda, goleni i stopy typu KAFO",
+    "nazwa": "Orteza z ujęciem uda,",
     "osoby": "",
     "limit": "2000 zł",
     "udzial": "0%",
@@ -621,7 +621,7 @@
   },
   {
     "kod": "G.04.02",
-    "nazwa": "Orteza z ujęciem uda, goleni i stopy typu KAFO z",
+    "nazwa": "Orteza z ujęciem uda,",
     "osoby": "",
     "limit": "5000 zł",
     "udzial": "0%",
@@ -631,7 +631,7 @@
   },
   {
     "kod": "G.04.03",
-    "nazwa": "Orteza z ujęciem uda, goleni i stopy typu KAFO z",
+    "nazwa": "Orteza z ujęciem uda,",
     "osoby": "",
     "limit": "000 zł",
     "udzial": "0%",
@@ -641,7 +641,7 @@
   },
   {
     "kod": "G.05.01",
-    "nazwa": "Orteza stabilizująca HKAFO obejmująca obręcz",
+    "nazwa": "Orteza stabilizująca",
     "osoby": "",
     "limit": "5000 zł",
     "udzial": "0%",
@@ -651,7 +651,7 @@
   },
   {
     "kod": "G.05.02",
-    "nazwa": "Orteza stabilizująca HKAFO obejmująca obręcz",
+    "nazwa": "Orteza stabilizująca",
     "osoby": "",
     "limit": "000 zł",
     "udzial": "0%",
@@ -661,7 +661,7 @@
   },
   {
     "kod": "G.05.03",
-    "nazwa": "Orteza multifunkcyjna HKAFO obejmująca obręcz",
+    "nazwa": "Orteza multifunkcyjna",
     "osoby": "",
     "limit": "000 zł",
     "udzial": "0%",
@@ -671,7 +671,7 @@
   },
   {
     "kod": "G.06.01",
-    "nazwa": "Orteza odciążająca kończynę dolną",
+    "nazwa": "Orteza odciążająca",
     "osoby": "",
     "limit": "1500 zł",
     "udzial": "0%",
@@ -681,7 +681,7 @@
   },
   {
     "kod": "G.07.01",
-    "nazwa": "Orteza reciprokalna (wspomagająca sprzężony",
+    "nazwa": "Orteza reciprokalna",
     "osoby": "",
     "limit": "000 zł",
     "udzial": "0%",
@@ -691,7 +691,7 @@
   },
   {
     "kod": "H.01.01",
-    "nazwa": "Orteza stabilizująca staw skokowy",
+    "nazwa": "Orteza stabilizująca staw",
     "osoby": "",
     "limit": "200 zł",
     "udzial": "0%",
@@ -701,7 +701,7 @@
   },
   {
     "kod": "H.01.02",
-    "nazwa": "Orteza sztywna na goleń i stopę z komorą",
+    "nazwa": "Orteza sztywna na goleń i",
     "osoby": "",
     "limit": "300 zł",
     "udzial": "0%",
@@ -711,7 +711,7 @@
   },
   {
     "kod": "H.01.03",
-    "nazwa": "Orteza sztywna na goleń i stopę z minimum dwiema",
+    "nazwa": "Orteza sztywna na goleń i",
     "osoby": "",
     "limit": "350 zł",
     "udzial": "0%",
@@ -721,7 +721,7 @@
   },
   {
     "kod": "H.02.01",
-    "nazwa": "Orteza na opadającą stopę z usztywnieniem",
+    "nazwa": "Orteza na opadającą stopę z",
     "osoby": "",
     "limit": "250 zł",
     "udzial": "0%",
@@ -731,7 +731,7 @@
   },
   {
     "kod": "H.02.02",
-    "nazwa": "Orteza typu łuska na opadającą stopę wykonana",
+    "nazwa": "Orteza typu łuska na",
     "osoby": "",
     "limit": "250 zł",
     "udzial": "0%",
@@ -741,7 +741,7 @@
   },
   {
     "kod": "H.02.03",
-    "nazwa": "Dynamiczna orteza typu łuska na opadającą stopę",
+    "nazwa": "Dynamiczna orteza typu",
     "osoby": "",
     "limit": "1100 zł",
     "udzial": "0%",
@@ -751,7 +751,7 @@
   },
   {
     "kod": "H.03.01",
-    "nazwa": "Orteza stawu kolanowego z zawiasami",
+    "nazwa": "Orteza stawu kolanowego z",
     "osoby": "",
     "limit": "250 zł",
     "udzial": "0%",
@@ -761,7 +761,7 @@
   },
   {
     "kod": "H.03.02",
-    "nazwa": "Orteza stawu kolanowego z ruchomym stawem",
+    "nazwa": "Orteza stawu kolanowego z",
     "osoby": "",
     "limit": "350 zł",
     "udzial": "0%",
@@ -771,7 +771,7 @@
   },
   {
     "kod": "H.03.03",
-    "nazwa": "Orteza pooperacyjna (ROM) stawu kolanowego z",
+    "nazwa": "Orteza pooperacyjna",
     "osoby": "",
     "limit": "500 zł",
     "udzial": "0%",
@@ -781,7 +781,7 @@
   },
   {
     "kod": "H.03.04",
-    "nazwa": "Orteza funkcjonalna stawu kolanowego o konstrukcji",
+    "nazwa": "Orteza funkcjonalna stawu",
     "osoby": "",
     "limit": "1000 zł",
     "udzial": "0%",
@@ -791,7 +791,7 @@
   },
   {
     "kod": "H.03.05",
-    "nazwa": "Orteza odciążająca staw kolanowy typu OA",
+    "nazwa": "Orteza odciążająca staw",
     "osoby": "",
     "limit": "1000 zł",
     "udzial": "0%",
@@ -801,7 +801,7 @@
   },
   {
     "kod": "H.04.01",
-    "nazwa": "Tutor unieruchamiający stawu kolanowego",
+    "nazwa": "Tutor unieruchamiający",
     "osoby": "",
     "limit": "150 zł",
     "udzial": "0%",
@@ -811,7 +811,7 @@
   },
   {
     "kod": "H.05.01",
-    "nazwa": "Orteza stawu biodrowego ograniczająca odwodzenie",
+    "nazwa": "Orteza stawu biodrowego",
     "osoby": "",
     "limit": "1000 zł",
     "udzial": "0%",
@@ -821,7 +821,7 @@
   },
   {
     "kod": "H.05.02",
-    "nazwa": "Orteza stawu biodrowego unieruchamiająca z",
+    "nazwa": "Orteza stawu biodrowego",
     "osoby": "",
     "limit": "1450 zł",
     "udzial": "0%",
@@ -831,7 +831,7 @@
   },
   {
     "kod": "H.06.01",
-    "nazwa": "Orteza na całą kończynę dolną z ujęciem stopy z",
+    "nazwa": "Orteza na całą kończynę",
     "osoby": "",
     "limit": "800 zł",
     "udzial": "0%",
@@ -841,7 +841,7 @@
   },
   {
     "kod": "H.07.01",
-    "nazwa": "Szyna Denis-Browna lub inna szyna derotacyjna",
+    "nazwa": "Szyna Denis-Browna lub",
     "osoby": "",
     "limit": "250 zł",
     "udzial": "0%",
@@ -851,7 +851,7 @@
   },
   {
     "kod": "H.07.02",
-    "nazwa": "Obuwie lub orteza do szyny derotacyjnej",
+    "nazwa": "Obuwie lub orteza do szyny",
     "osoby": "",
     "limit": "350 zł",
     "udzial": "0%",
@@ -861,7 +861,7 @@
   },
   {
     "kod": "H.08.01",
-    "nazwa": "Orteza odwodząca do leczenia rozwojowej",
+    "nazwa": "Orteza odwodząca do",
     "osoby": "",
     "limit": "150 zł",
     "udzial": "0%",
@@ -871,7 +871,7 @@
   },
   {
     "kod": "I.01.01",
-    "nazwa": "Orteza na rękę i przedramię typu WHO bez przegubów",
+    "nazwa": "Orteza na rękę i przedramię",
     "osoby": "",
     "limit": "750 zł",
     "udzial": "0%",
@@ -881,7 +881,7 @@
   },
   {
     "kod": "I.01.02",
-    "nazwa": "Orteza na rękę i przedramię typu WHO z przegubami",
+    "nazwa": "Orteza na rękę i przedramię",
     "osoby": "",
     "limit": "1500 zł",
     "udzial": "0%",
@@ -891,7 +891,7 @@
   },
   {
     "kod": "I.02.01",
-    "nazwa": "Orteza na przedramię i ramię z ujęciem ręki typu",
+    "nazwa": "Orteza na przedramię i",
     "osoby": "",
     "limit": "2250 zł",
     "udzial": "0%",
@@ -901,7 +901,7 @@
   },
   {
     "kod": "J.01.01",
-    "nazwa": "Orteza ręki stabilizująca lub korygująca; z wyłączeniem",
+    "nazwa": "Orteza ręki stabilizująca lub",
     "osoby": "",
     "limit": "160 zł",
     "udzial": "0%",
@@ -912,7 +912,7 @@
   {
     "kod": "J.02.01",
     "nazwa": "Orteza na rękę i przedramię",
-    "osoby": "CHI DZI",
+    "osoby": "CHI DZI",
     "limit": "200 zł",
     "udzial": "0%",
     "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kończyny górnej raz na 3 lata4) 0 zł 10% dorośli Dziennik Ustaw – 28 – Poz. 2461 – 22 –",
@@ -922,7 +922,7 @@
   {
     "kod": "J.03.01",
     "nazwa": "Orteza stawu łokciowego",
-    "osoby": "CHI DZI",
+    "osoby": "CHI DZI",
     "limit": "200 zł",
     "udzial": "0%",
     "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja stawu łokciowego raz na 3 lata4) 0 zł 10% dorośli",
@@ -931,7 +931,7 @@
   },
   {
     "kod": "J.03.02",
-    "nazwa": "Orteza stawu łokciowego z ujęciem ręki",
+    "nazwa": "Orteza stawu łokciowego z",
     "osoby": "",
     "limit": "300 zł",
     "udzial": "0%",
@@ -941,7 +941,7 @@
   },
   {
     "kod": "J.04.01",
-    "nazwa": "Orteza stawu łokciowego z regulacją kąta zgięcia bez",
+    "nazwa": "Orteza stawu łokciowego z",
     "osoby": "",
     "limit": "350 zł",
     "udzial": "0%",
@@ -951,7 +951,7 @@
   },
   {
     "kod": "J.04.02",
-    "nazwa": "Orteza stawu łokciowego z regulacją kąta zgięcia z",
+    "nazwa": "Orteza stawu łokciowego z",
     "osoby": "",
     "limit": "500 zł",
     "udzial": "0%",
@@ -961,7 +961,7 @@
   },
   {
     "kod": "J.05.01",
-    "nazwa": "Orteza na ramię i bark; z wyłączeniem temblaków i",
+    "nazwa": "Orteza na ramię i bark; z",
     "osoby": "",
     "limit": "250 zł",
     "udzial": "0%",
@@ -971,7 +971,7 @@
   },
   {
     "kod": "J.06.01",
-    "nazwa": "Orteza na ramię i bark typu Dessault",
+    "nazwa": "Orteza na ramię i bark typu",
     "osoby": "",
     "limit": "130 zł",
     "udzial": "0%",
@@ -981,7 +981,7 @@
   },
   {
     "kod": "J.07.01",
-    "nazwa": "Orteza odwodząca stawu barkowego",
+    "nazwa": "Orteza odwodząca stawu",
     "osoby": "",
     "limit": "400 zł",
     "udzial": "0%",
@@ -991,7 +991,7 @@
   },
   {
     "kod": "J.07.02",
-    "nazwa": "Orteza odwodząca stawu barkowego z regulacją kąta",
+    "nazwa": "Orteza odwodząca stawu",
     "osoby": "",
     "limit": "600 zł",
     "udzial": "0%",
@@ -1001,7 +1001,7 @@
   },
   {
     "kod": "K.01.01",
-    "nazwa": "Gorset zapewniający niepełne odciążenie i",
+    "nazwa": "Gorset zapewniający",
     "osoby": "",
     "limit": "1000 zł",
     "udzial": "0%",
@@ -1011,7 +1011,7 @@
   },
   {
     "kod": "K.01.02",
-    "nazwa": "Gorset odciążająco- -stabilizujący, z",
+    "nazwa": "Gorset odciążająco-",
     "osoby": "",
     "limit": "1750 zł",
     "udzial": "0%",
@@ -1021,7 +1021,7 @@
   },
   {
     "kod": "K.02.01",
-    "nazwa": "Kamizelka stabilizująca kompresyjna typu SPIO",
+    "nazwa": "Kamizelka stabilizująca",
     "osoby": "",
     "limit": "2000 zł",
     "udzial": "0%",
@@ -1031,7 +1031,7 @@
   },
   {
     "kod": "K.03.01",
-    "nazwa": "Gorset korekcyjny do leczenia skolioz lub kyfoz z",
+    "nazwa": "Gorset korekcyjny do",
     "osoby": "",
     "limit": "2800 zł",
     "udzial": "0%",
@@ -1041,7 +1041,7 @@
   },
   {
     "kod": "K.04.01",
-    "nazwa": "Orteza tułowia lędźwiowo- -krzyżowa",
+    "nazwa": "Orteza tułowia lędźwiowo-",
     "osoby": "",
     "limit": "1500 zł",
     "udzial": "0%",
@@ -1051,7 +1051,7 @@
   },
   {
     "kod": "K.05.01",
-    "nazwa": "Orteza korekcyjna głowy wykonana na podstawie",
+    "nazwa": "Orteza korekcyjna głowy",
     "osoby": "",
     "limit": "5000 zł",
     "udzial": "30%",
@@ -1061,7 +1061,7 @@
   },
   {
     "kod": "L.01.01",
-    "nazwa": "Gorset sztywny stabilizująco-",
+    "nazwa": "Gorset sztywny",
     "osoby": "",
     "limit": "300 zł",
     "udzial": "0%",
@@ -1071,7 +1071,7 @@
   },
   {
     "kod": "L.01.02",
-    "nazwa": "Gorset sztywny stabilizująco-",
+    "nazwa": "Gorset sztywny",
     "osoby": "",
     "limit": "450 zł",
     "udzial": "0%",
@@ -1081,7 +1081,7 @@
   },
   {
     "kod": "L.02.01",
-    "nazwa": "Pas stabilizujący odcinek lędźwiowo-krzyżowy lub",
+    "nazwa": "Pas stabilizujący odcinek",
     "osoby": "",
     "limit": "100 zł",
     "udzial": "0%",
@@ -1091,7 +1091,7 @@
   },
   {
     "kod": "L.03.01",
-    "nazwa": "Orteza lędźwiowo- -krzyżowa, ze stalkami lub",
+    "nazwa": "Orteza lędźwiowo-",
     "osoby": "",
     "limit": "200 zł",
     "udzial": "0%",
@@ -1101,7 +1101,7 @@
   },
   {
     "kod": "L.03.02",
-    "nazwa": "Orteza lędźwiowo- -krzyżowo-piersiowa, ze",
+    "nazwa": "Orteza lędźwiowo-",
     "osoby": "",
     "limit": "300 zł",
     "udzial": "0%",
@@ -1111,7 +1111,7 @@
   },
   {
     "kod": "L.03.03",
-    "nazwa": "Orteza lędźwiowo- -krzyżowo-piersiowa, ze",
+    "nazwa": "Orteza lędźwiowo-",
     "osoby": "",
     "limit": "400 zł",
     "udzial": "0%",
@@ -1121,7 +1121,7 @@
   },
   {
     "kod": "L.04.01",
-    "nazwa": "Kamizelka stabilizująca kompresyjna typu SPIO",
+    "nazwa": "Kamizelka stabilizująca",
     "osoby": "",
     "limit": "800 zł",
     "udzial": "0%",
@@ -1132,7 +1132,7 @@
   {
     "kod": "L.05.01",
     "nazwa": "Kołnierz półsztywny",
-    "osoby": "CHI DZI",
+    "osoby": "CHI DZI",
     "limit": "35 zł",
     "udzial": "0%",
     "kryteria": "dzieci do ukończenia 18. roku życia zespoły bólowe odcinka kręgosłupa szyjnego raz na 3 lata4) 0 zł 10% dorośli",
@@ -1142,7 +1142,7 @@
   {
     "kod": "L.05.02",
     "nazwa": "Kołnierz sztywny",
-    "osoby": "CHI DZI",
+    "osoby": "CHI DZI",
     "limit": "80 zł",
     "udzial": "0%",
     "kryteria": "dzieci do ukończenia 18. roku życia dysfunkcja kręgosłupa szyjnego ze zmianami strukturalnymi raz na 3 lata4) 0 zł Dziennik Ustaw – 35 – Poz. 2461 – 29 – FIZJO FIZJO SPEC NEURO NEUROCHI NEURO DZI ONKO KLIN ONKO HEMA DZI ORTO TRAUMA PALI HOSP REHA REUMA 10% dorośli",
@@ -1151,7 +1151,7 @@
   },
   {
     "kod": "L.06.01",
-    "nazwa": "Półgorsetowa orteza szyjna, unieruchamiająca,",
+    "nazwa": "Półgorsetowa orteza szyjna,",
     "osoby": "",
     "limit": "350 zł",
     "udzial": "0%",
@@ -1161,7 +1161,7 @@
   },
   {
     "kod": "M.01.01",
-    "nazwa": "But na stopę o różnym zniekształceniu",
+    "nazwa": "But na stopę o różnym",
     "osoby": "",
     "limit": "700 zł",
     "udzial": "0%",
@@ -1171,7 +1171,7 @@
   },
   {
     "kod": "M.02.01",
-    "nazwa": "But wyrównujący skrócenie kończyny dolnej",
+    "nazwa": "But wyrównujący skrócenie",
     "osoby": "",
     "limit": "600 zł",
     "udzial": "0%",
@@ -1181,7 +1181,7 @@
   },
   {
     "kod": "M.03.01",
-    "nazwa": "But przy amputacji w obrębie stopy wykonywany",
+    "nazwa": "But przy amputacji w",
     "osoby": "",
     "limit": "500 zł",
     "udzial": "0%",
@@ -1191,7 +1191,7 @@
   },
   {
     "kod": "M.04.01",
-    "nazwa": "But do ortezy obejmującej stopę wykonywany na",
+    "nazwa": "But do ortezy obejmującej",
     "osoby": "",
     "limit": "500 zł",
     "udzial": "0%",
@@ -1201,7 +1201,7 @@
   },
   {
     "kod": "M.05.01",
-    "nazwa": "But do pary przy zaopatrzeniu jednoczesnym",
+    "nazwa": "But do pary przy",
     "osoby": "",
     "limit": "300 zł",
     "udzial": "0%",
@@ -1211,7 +1211,7 @@
   },
   {
     "kod": "M.06.01",
-    "nazwa": "Wkładki ortopedyczne na zamówienie wraz z",
+    "nazwa": "Wkładki ortopedyczne na",
     "osoby": "",
     "limit": "250 zł",
     "udzial": "10%",
@@ -1221,7 +1221,7 @@
   },
   {
     "kod": "N.01.01",
-    "nazwa": "Rękawiczka uciskowa płaskodziana na",
+    "nazwa": "Rękawiczka uciskowa",
     "osoby": "",
     "limit": "400 zł",
     "udzial": "10%",
@@ -1231,7 +1231,7 @@
   },
   {
     "kod": "N.01.02",
-    "nazwa": "Rękawiczka uciskowa płaskodziana na",
+    "nazwa": "Rękawiczka uciskowa",
     "osoby": "",
     "limit": "500 zł",
     "udzial": "10%",
@@ -1241,7 +1241,7 @@
   },
   {
     "kod": "N.09.01",
-    "nazwa": "N.02.01 Rękaw uciskowy",
+    "nazwa": "N.02.01",
     "osoby": "",
     "limit": "500 zł",
     "udzial": "10%",
@@ -1251,7 +1251,7 @@
   },
   {
     "kod": "N.03.01",
-    "nazwa": "Rękawiczka uciskowa płaskodziana na",
+    "nazwa": "Rękawiczka uciskowa",
     "osoby": "",
     "limit": "500 zł",
     "udzial": "30%",
@@ -1261,7 +1261,7 @@
   },
   {
     "kod": "N.03.02",
-    "nazwa": "Rękaw uciskowy płaskodziany na",
+    "nazwa": "Rękaw uciskowy",
     "osoby": "",
     "limit": "500 zł",
     "udzial": "30%",
@@ -1271,7 +1271,7 @@
   },
   {
     "kod": "N.04.01",
-    "nazwa": "Półskarpeta uciskowa płaskodziana na",
+    "nazwa": "Półskarpeta uciskowa",
     "osoby": "",
     "limit": "550 zł",
     "udzial": "10%",
@@ -1281,7 +1281,7 @@
   },
   {
     "kod": "N.11.01",
-    "nazwa": "N.04.02 Skarpeta uciskowa",
+    "nazwa": "N.04.02",
     "osoby": "",
     "limit": "300 zł",
     "udzial": "10%",
@@ -1291,7 +1291,7 @@
   },
   {
     "kod": "N.08.03",
-    "nazwa": "raz na 6 miesięcy 0 zł",
+    "nazwa": "raz na 6 miesięcy",
     "osoby": "",
     "limit": "",
     "udzial": "10%",
@@ -1301,7 +1301,7 @@
   },
   {
     "kod": "N.05.01",
-    "nazwa": "Podkolanówka uciskowa płaskodziana na",
+    "nazwa": "Podkolanówka uciskowa",
     "osoby": "",
     "limit": "500 zł",
     "udzial": "10%",
@@ -1311,7 +1311,7 @@
   },
   {
     "kod": "N.06.01",
-    "nazwa": "Pończocha uciskowa płaskodziana na",
+    "nazwa": "Pończocha uciskowa",
     "osoby": "",
     "limit": "700 zł",
     "udzial": "10%",
@@ -1321,7 +1321,7 @@
   },
   {
     "kod": "N.13.01",
-    "nazwa": "raz na 6 miesięcy 0 zł",
+    "nazwa": "raz na 6 miesięcy",
     "osoby": "",
     "limit": "",
     "udzial": "",
@@ -1331,7 +1331,7 @@
   },
   {
     "kod": "N.07.01",
-    "nazwa": "Rajstopy uciskowe płaskodziane na",
+    "nazwa": "Rajstopy uciskowe",
     "osoby": "",
     "limit": "1400 zł",
     "udzial": "10%",
@@ -1341,7 +1341,7 @@
   },
   {
     "kod": "N.08.01",
-    "nazwa": "Odzież uciskowa płaskodziana na",
+    "nazwa": "Odzież uciskowa",
     "osoby": "",
     "limit": "550 zł",
     "udzial": "30%",
@@ -1351,7 +1351,7 @@
   },
   {
     "kod": "N.08.02",
-    "nazwa": "Odzież uciskowa płaskodziana na",
+    "nazwa": "Odzież uciskowa",
     "osoby": "",
     "limit": "500 zł",
     "udzial": "30%",
@@ -1361,7 +1361,7 @@
   },
   {
     "kod": "N.08.03",
-    "nazwa": "Odzież uciskowa płaskodziana na",
+    "nazwa": "Odzież uciskowa",
     "osoby": "",
     "limit": "700 zł",
     "udzial": "30%",
@@ -1371,7 +1371,7 @@
   },
   {
     "kod": "N.09.01",
-    "nazwa": "Rękawiczka uciskowa płaskodziana produkowana",
+    "nazwa": "Rękawiczka uciskowa",
     "osoby": "",
     "limit": "200 zł",
     "udzial": "10%",
@@ -1381,7 +1381,7 @@
   },
   {
     "kod": "N.10.01",
-    "nazwa": "Rękaw uciskowy płaskodziany produkowany",
+    "nazwa": "Rękaw uciskowy",
     "osoby": "",
     "limit": "300 zł",
     "udzial": "10%",
@@ -1391,7 +1391,7 @@
   },
   {
     "kod": "N.11.01",
-    "nazwa": "Odzież uciskowa płaskodziana produkowana",
+    "nazwa": "Odzież uciskowa",
     "osoby": "",
     "limit": "200 zł",
     "udzial": "10%",
@@ -1401,7 +1401,7 @@
   },
   {
     "kod": "N.08.01",
-    "nazwa": "N.12.01 Odzież uciskowa",
+    "nazwa": "N.12.01",
     "osoby": "",
     "limit": "300 zł",
     "udzial": "10%",
@@ -1411,7 +1411,7 @@
   },
   {
     "kod": "N.13.01",
-    "nazwa": "Pończocha uciskowa płaskodziana produkowana",
+    "nazwa": "Pończocha uciskowa",
     "osoby": "",
     "limit": "500 zł",
     "udzial": "10%",
@@ -1421,7 +1421,7 @@
   },
   {
     "kod": "N.14.03",
-    "nazwa": "raz na 6 miesięcy 0 zł",
+    "nazwa": "raz na 6 miesięcy",
     "osoby": "",
     "limit": "120 zł",
     "udzial": "",
@@ -1431,7 +1431,7 @@
   },
   {
     "kod": "N.14.02",
-    "nazwa": "Pończochy uciskowe okrągłodziane produkowane",
+    "nazwa": "Pończochy uciskowe",
     "osoby": "",
     "limit": "75 zł",
     "udzial": "10%",
@@ -1441,7 +1441,7 @@
   },
   {
     "kod": "N.14.03",
-    "nazwa": "Rajstopy uciskowe okrągłodziane produkowane",
+    "nazwa": "Rajstopy uciskowe",
     "osoby": "",
     "limit": "90 zł",
     "udzial": "10%",
@@ -1451,7 +1451,7 @@
   },
   {
     "kod": "N.15.01",
-    "nazwa": "Rękaw kompresyjny okrągłodziany",
+    "nazwa": "Rękaw kompresyjny",
     "osoby": "",
     "limit": "120 zł",
     "udzial": "10%",
@@ -1461,7 +1461,7 @@
   },
   {
     "kod": "N.16.01",
-    "nazwa": "Gorset (biustonosz) kompresyjny",
+    "nazwa": "Gorset (biustonosz)",
     "osoby": "",
     "limit": "300 zł",
     "udzial": "10%",
@@ -1471,7 +1471,7 @@
   },
   {
     "kod": "N.16.02",
-    "nazwa": "Pas kompresyjny",
+    "nazwa": "Pas kompresyjny",
     "osoby": "ANGIO",
     "limit": "120 zł",
     "udzial": "10%",
@@ -1481,7 +1481,7 @@
   },
   {
     "kod": "O.01.01",
-    "nazwa": "Soczewka okularowa korekcyjna do bliży",
+    "nazwa": "Soczewka okularowa",
     "osoby": "",
     "limit": "0 zł",
     "udzial": "0%",
@@ -1491,7 +1491,7 @@
   },
   {
     "kod": "O.01.02",
-    "nazwa": "Soczewka okularowa korekcyjna do dali",
+    "nazwa": "Soczewka okularowa",
     "osoby": "",
     "limit": "0 zł",
     "udzial": "0%",
@@ -1501,7 +1501,7 @@
   },
   {
     "kod": "O.02.01",
-    "nazwa": "Soczewka kontaktowa twarda albo hybrydowa,",
+    "nazwa": "Soczewka kontaktowa",
     "osoby": "",
     "limit": "600 zł",
     "udzial": "10%",
@@ -1511,7 +1511,7 @@
   },
   {
     "kod": "O.03.01",
-    "nazwa": "Soczewka kontaktowa miękka",
+    "nazwa": "Soczewka kontaktowa",
     "osoby": "",
     "limit": "0 zł",
     "udzial": "10%",
@@ -1521,8 +1521,8 @@
   },
   {
     "kod": "O.04.01",
-    "nazwa": "Epiproteza oka",
-    "osoby": "OKU",
+    "nazwa": "Epiproteza oka",
+    "osoby": "",
     "limit": "0 zł",
     "udzial": "",
     "kryteria": "zmiany wielkości i kształtu gałki ocznej wymagające uzupełnienia epiprotezą dzieci do ukończenia 18. roku życia według wskazań medycznych 0 zł dorośli raz na 5 lat",
@@ -1531,8 +1531,8 @@
   },
   {
     "kod": "O.05.01",
-    "nazwa": "Proteza oka",
-    "osoby": "OKU",
+    "nazwa": "Proteza oka",
+    "osoby": "",
     "limit": "0 zł",
     "udzial": "",
     "kryteria": "brak gałki ocznej dzieci do ukończenia 18. roku życia według wskazań medycznych 0 zł dorośli raz na 5 lat Dziennik Ustaw – 46 – Poz. 2461 – 40 –",
@@ -1541,8 +1541,8 @@
   },
   {
     "kod": "O.06.01",
-    "nazwa": "Lupa produkowana seryjnie",
-    "osoby": "OKU",
+    "nazwa": "Lupa produkowana seryjnie",
+    "osoby": "",
     "limit": "0 zł",
     "udzial": "",
     "kryteria": "umożliwienie obserwacji jednoocznej lub dwuocznej przedmiotów bliskich i dalekich osobom niedowidzącym przy chorobach siatkówki lub osobom niedowidzącym, gdy ostrość wzroku po korekcji w lepszym oku nie przekracza Vis 0,3 raz na 3 lata 0 zł",
@@ -1552,7 +1552,7 @@
   {
     "kod": "O.07.01",
     "nazwa": "Monookular",
-    "osoby": "OKU",
+    "osoby": "",
     "limit": "0 zł",
     "udzial": "",
     "kryteria": "umożliwienie obserwacji jednoocznej lub dwuocznej przedmiotów bliskich i dalekich osobom niedowidzącym przy chorobach siatkówki lub osobom niedowidzącym, gdy ostrość wzroku po korekcji w lepszym oku nie przekracza Vis 0,3 raz na 5 lat 0 zł",
@@ -1561,8 +1561,8 @@
   },
   {
     "kod": "O.08.01",
-    "nazwa": "Okulary lupowe",
-    "osoby": "OKU",
+    "nazwa": "Okulary lupowe",
+    "osoby": "",
     "limit": "0 zł",
     "udzial": "",
     "kryteria": "umożliwienie obserwacji jednoocznej lub dwuocznej przedmiotów bliskich i dalekich osobom niedowidzącym przy chorobach siatkówki lub osobom niedowidzącym, gdy ostrość wzroku po korekcji w lepszym oku nie przekracza Vis 0,3 raz na 5 lat 0 zł",
@@ -1571,7 +1571,7 @@
   },
   {
     "kod": "O.09.01",
-    "nazwa": "Okulary lornetkowe do bliży lub do dali",
+    "nazwa": "Okulary lornetkowe do",
     "osoby": "",
     "limit": "0 zł",
     "udzial": "0%",
@@ -1581,7 +1581,7 @@
   },
   {
     "kod": "O.10.01",
-    "nazwa": "Filtr medyczny krawędziowy powyżej 400",
+    "nazwa": "Filtr medyczny",
     "osoby": "",
     "limit": "100 zł",
     "udzial": "10%",
@@ -1591,7 +1591,7 @@
   },
   {
     "kod": "P.01.01",
-    "nazwa": "Aparat słuchowy na przewodnictwo powietrzne",
+    "nazwa": "Aparat słuchowy na",
     "osoby": "",
     "limit": "3000 zł",
     "udzial": "0%",
@@ -1601,7 +1601,7 @@
   },
   {
     "kod": "P.02.01",
-    "nazwa": "Aparat słuchowy na przewodnictwo kostne przy",
+    "nazwa": "Aparat słuchowy na",
     "osoby": "",
     "limit": "3000 zł",
     "udzial": "0%",
@@ -1611,7 +1611,7 @@
   },
   {
     "kod": "P.03.01",
-    "nazwa": "Wkładka uszna wykonana na zamówienie",
+    "nazwa": "Wkładka uszna wykonana",
     "osoby": "",
     "limit": "60 zł",
     "udzial": "0%",
@@ -1621,7 +1621,7 @@
   },
   {
     "kod": "P.04.01",
-    "nazwa": "System wspomagający słyszenie",
+    "nazwa": "System wspomagający",
     "osoby": "",
     "limit": "5500 zł",
     "udzial": "30%",
@@ -1631,7 +1631,7 @@
   },
   {
     "kod": "R.05.02",
-    "nazwa": "raz na 3 miesiące 0 zł",
+    "nazwa": "raz na 3 miesiące",
     "osoby": "",
     "limit": "",
     "udzial": "30%",
@@ -1641,7 +1641,7 @@
   },
   {
     "kod": "R.05.02",
-    "nazwa": "R.04.026) Transmiter/ nadajnik do systemu ciągłego",
+    "nazwa": "R.04.026) Transmiter/ nadajnik do",
     "osoby": "",
     "limit": "970 zł",
     "udzial": "30%",
@@ -1651,7 +1651,7 @@
   },
   {
     "kod": "R.05.02",
-    "nazwa": "raz na rok 0 zł",
+    "nazwa": "raz na rok",
     "osoby": "",
     "limit": "",
     "udzial": "",
@@ -1661,7 +1661,7 @@
   },
   {
     "kod": "R.05.02",
-    "nazwa": "Dziennik Ustaw – 54 –",
+    "nazwa": "Dziennik Ustaw",
     "osoby": "",
     "limit": "",
     "udzial": "",
@@ -1671,7 +1671,7 @@
   },
   {
     "kod": "S.01.01",
-    "nazwa": "Pas przepuklinowy pachwinowy jednostronny",
+    "nazwa": "Pas przepuklinowy",
     "osoby": "",
     "limit": "80 zł",
     "udzial": "30%",
@@ -1681,7 +1681,7 @@
   },
   {
     "kod": "S.01.02",
-    "nazwa": "Pas przepuklinowy pachwinowy obustronny",
+    "nazwa": "Pas przepuklinowy",
     "osoby": "",
     "limit": "",
     "udzial": "",
@@ -1691,7 +1691,7 @@
   },
   {
     "kod": "S.01.03",
-    "nazwa": "Slipy przepuklinowo- -suspensoryjne męskie",
+    "nazwa": "Slipy przepuklinowo-",
     "osoby": "",
     "limit": "100 zł",
     "udzial": "30%",
@@ -1701,7 +1701,7 @@
   },
   {
     "kod": "S.02.01",
-    "nazwa": "Pas brzuszny 100 zł",
+    "nazwa": "Pas brzuszny",
     "osoby": "",
     "limit": "0 zł",
     "udzial": "",
@@ -1711,7 +1711,7 @@
   },
   {
     "kod": "S.05.01",
-    "nazwa": "Kula łokciowa ze stopniową regulacją",
+    "nazwa": "Kula łokciowa ze",
     "osoby": "",
     "limit": "30 zł",
     "udzial": "30%",
@@ -1721,7 +1721,7 @@
   },
   {
     "kod": "S.05.02",
-    "nazwa": "Kula łokciowa z podparciem na",
+    "nazwa": "Kula łokciowa z",
     "osoby": "",
     "limit": "0 zł",
     "udzial": "30%",
@@ -1731,7 +1731,7 @@
   },
   {
     "kod": "S.05.03",
-    "nazwa": "Kula pachowa 40 zł",
+    "nazwa": "Kula pachowa",
     "osoby": "",
     "limit": "0 zł",
     "udzial": "",
@@ -1741,7 +1741,7 @@
   },
   {
     "kod": "S.06.01",
-    "nazwa": "Trójnóg albo czwórnóg 75 zł",
+    "nazwa": "Trójnóg albo czwórnóg",
     "osoby": "",
     "limit": "0 zł",
     "udzial": "",
@@ -1751,7 +1751,7 @@
   },
   {
     "kod": "S.07.01",
-    "nazwa": "Balkonik albo podpórka ułatwiająca chodzenie",
+    "nazwa": "Balkonik albo podpórka",
     "osoby": "",
     "limit": "150 zł",
     "udzial": "30%",
@@ -1761,7 +1761,7 @@
   },
   {
     "kod": "S.09.01",
-    "nazwa": "Balkonik specjalny dla dzieci z odciążeniem",
+    "nazwa": "Balkonik specjalny dla",
     "osoby": "",
     "limit": "600 zł",
     "udzial": "0%",
@@ -1772,7 +1772,7 @@
   {
     "kod": "S.10.01",
     "nazwa": "Pionizator",
-    "osoby": "CHI DZI",
+    "osoby": "CHI DZI",
     "limit": "3000 zł",
     "udzial": "0%",
     "kryteria": "schorzenia wymagające pionizacji ze stabilizacją tułowia, obręczy biodrowej i kończyn dolnych; z wyłączeniem jednoczesnego zaopatrzenia w S.09.01 lub",
@@ -1781,7 +1781,7 @@
   },
   {
     "kod": "S.11.01",
-    "nazwa": "Urządzenie multifunkcyjne: funkcja",
+    "nazwa": "Urządzenie",
     "osoby": "",
     "limit": "3200 zł",
     "udzial": "0%",
@@ -1791,7 +1791,7 @@
   },
   {
     "kod": "S.12.01",
-    "nazwa": "Wózek inwalidzki standardowy dla dorosłych",
+    "nazwa": "Wózek inwalidzki",
     "osoby": "",
     "limit": "650 zł",
     "udzial": "0%",
@@ -1801,7 +1801,7 @@
   },
   {
     "kod": "S.13.01",
-    "nazwa": "Wózek inwalidzki ze stopów lekkich, z",
+    "nazwa": "Wózek inwalidzki ze",
     "osoby": "",
     "limit": "1700 zł",
     "udzial": "0%",
@@ -1811,7 +1811,7 @@
   },
   {
     "kod": "S.19.01",
-    "nazwa": "raz na 5 lat4) 510 zł",
+    "nazwa": "raz na 5 lat4)",
     "osoby": "",
     "limit": "",
     "udzial": "",
@@ -1821,7 +1821,7 @@
   },
   {
     "kod": "S.14.01",
-    "nazwa": "Wózek inwalidzki dziecięcy",
+    "nazwa": "Wózek inwalidzki",
     "osoby": "",
     "limit": "600 zł",
     "udzial": "0%",
@@ -1831,7 +1831,7 @@
   },
   {
     "kod": "S.15.01",
-    "nazwa": "Wózek inwalidzki aktywny o napędzie",
+    "nazwa": "Wózek inwalidzki",
     "osoby": "",
     "limit": "4500 zł",
     "udzial": "0%",
@@ -1841,7 +1841,7 @@
   },
   {
     "kod": "S.19.01",
-    "nazwa": "raz na 4 lata4) 900 zł",
+    "nazwa": "raz na 4 lata4)",
     "osoby": "",
     "limit": "",
     "udzial": "",
@@ -1851,7 +1851,7 @@
   },
   {
     "kod": "S.15.02",
-    "nazwa": "Wózek inwalidzki aktywny o napędzie",
+    "nazwa": "Wózek inwalidzki",
     "osoby": "",
     "limit": "4500 zł",
     "udzial": "0%",
@@ -1861,7 +1861,7 @@
   },
   {
     "kod": "S.22.01",
-    "nazwa": "raz na 3 lata4) 900 zł",
+    "nazwa": "raz na 3 lata4)",
     "osoby": "",
     "limit": "",
     "udzial": "",
@@ -1871,7 +1871,7 @@
   },
   {
     "kod": "S.16.01",
-    "nazwa": "Wózek inwalidzki specjalny o napędzie",
+    "nazwa": "Wózek inwalidzki",
     "osoby": "",
     "limit": "3000 zł",
     "udzial": "0%",
@@ -1881,7 +1881,7 @@
   },
   {
     "kod": "S.17.01",
-    "nazwa": "Wózek inwalidzki stabilizujący dla dorosłych",
+    "nazwa": "Wózek inwalidzki",
     "osoby": "",
     "limit": "2000 zł",
     "udzial": "0%",
@@ -1891,7 +1891,7 @@
   },
   {
     "kod": "S.18.01",
-    "nazwa": "Wózek inwalidzki spacerowy bierny dla",
+    "nazwa": "Wózek inwalidzki",
     "osoby": "",
     "limit": "4000 zł",
     "udzial": "0%",
@@ -1901,7 +1901,7 @@
   },
   {
     "kod": "S.19.01",
-    "nazwa": "Wózek inwalidzki elektryczny dla dorosłych",
+    "nazwa": "Wózek inwalidzki",
     "osoby": "",
     "limit": "5000 zł",
     "udzial": "0%",
@@ -1911,7 +1911,7 @@
   },
   {
     "kod": "S.18.01",
-    "nazwa": "raz na 4 lata4) 1500 zł",
+    "nazwa": "raz na 4 lata4)",
     "osoby": "",
     "limit": "",
     "udzial": "",
@@ -1921,7 +1921,7 @@
   },
   {
     "kod": "S.20.01",
-    "nazwa": "Wózek inwalidzki spacerowy dla dzieci",
+    "nazwa": "Wózek inwalidzki",
     "osoby": "",
     "limit": "3000 zł",
     "udzial": "0%",
@@ -1931,7 +1931,7 @@
   },
   {
     "kod": "S.21.01",
-    "nazwa": "Wózek inwalidzki multipozycyjny dla dzieci",
+    "nazwa": "Wózek inwalidzki",
     "osoby": "",
     "limit": "3000 zł",
     "udzial": "0%",
@@ -1941,7 +1941,7 @@
   },
   {
     "kod": "S.22.01",
-    "nazwa": "Wózek inwalidzki elektryczny dla dzieci",
+    "nazwa": "Wózek inwalidzki",
     "osoby": "",
     "limit": "5000 zł",
     "udzial": "0%",
@@ -1951,7 +1951,7 @@
   },
   {
     "kod": "S.23.01",
-    "nazwa": "Siedzisko ortopedyczne dla dzieci stabilizujące",
+    "nazwa": "Siedzisko ortopedyczne",
     "osoby": "",
     "limit": "2000 zł",
     "udzial": "0%",
@@ -1962,7 +1962,7 @@
   {
     "kod": "S.24.01",
     "nazwa": "Pełzak do raczkowania",
-    "osoby": "CHI DZI",
+    "osoby": "CHI DZI",
     "limit": "120 zł",
     "udzial": "0%",
     "kryteria": "niedowłady mięśniowe u dzieci raz na 2 lata 0 zł Grupa T – Wyroby medyczne produkowane seryjnie tracheostomijne",
@@ -1971,7 +1971,7 @@
   },
   {
     "kod": "U.03.01",
-    "nazwa": "raz na rok 0 zł",
+    "nazwa": "raz na rok",
     "osoby": "",
     "limit": "",
     "udzial": "",
@@ -1981,7 +1981,7 @@
   },
   {
     "kod": "W.01.02",
-    "nazwa": "(dotyczy tej samej stomii lub przetoki) raz na miesiąc",
+    "nazwa": "(dotyczy tej samej stomii lub przetoki)",
     "osoby": "",
     "limit": "530 zł",
     "udzial": "",
@@ -1991,7 +1991,7 @@
   },
   {
     "kod": "W.01.01",
-    "nazwa": "(dotyczy tej samej stomii lub przetoki) jednorazowo",
+    "nazwa": "(dotyczy tej samej stomii lub przetoki)",
     "osoby": "",
     "limit": "",
     "udzial": "",
@@ -2001,7 +2001,7 @@
   },
   {
     "kod": "W.02.01",
-    "nazwa": "(dotyczy tej samej stomii lub przetoki) jednorazowo",
+    "nazwa": "(dotyczy tej samej stomii lub przetoki)",
     "osoby": "",
     "limit": "",
     "udzial": "",
@@ -2011,7 +2011,7 @@
   },
   {
     "kod": "Y.02.02",
-    "nazwa": "raz na miesiąc 0 zł",
+    "nazwa": "raz na miesiąc",
     "osoby": "",
     "limit": "",
     "udzial": "",
@@ -2021,7 +2021,7 @@
   },
   {
     "kod": "Y.02.01",
-    "nazwa": "raz na 3 miesiące 0 zł",
+    "nazwa": "raz na 3 miesiące",
     "osoby": "",
     "limit": "",
     "udzial": "",
@@ -2031,7 +2031,7 @@
   },
   {
     "kod": "Z.01.01",
-    "nazwa": "Proteza piersi",
+    "nazwa": "Proteza piersi",
     "osoby": "CHI OGÓL",
     "limit": "350 zł",
     "udzial": "0%",
@@ -2041,7 +2041,7 @@
   },
   {
     "kod": "Z.01.02",
-    "nazwa": "Biustonosze pooperacyjne lub do protez piersi",
+    "nazwa": "Biustonosze pooperacyjne",
     "osoby": "",
     "limit": "120 zł",
     "udzial": "0%",
@@ -2052,7 +2052,7 @@
   {
     "kod": "Z.02.01",
     "nazwa": "Peruka",
-    "osoby": "CH PŁUC",
+    "osoby": "",
     "limit": "350 zł",
     "udzial": "0%",
     "kryteria": "dzieci do ukończenia 18. roku życia w przebiegu leczenia chorób nowotworowych lub przy trwałym uszkodzeniu głowy w wyniku urazu lub oparzeń, lub choroby powodujące trwałą utratę włosów; z wyłączeniem łysienia androgenowego raz na rok 0 zł 10% dorośli Dziennik Ustaw – 76 – Poz. 2461 – 70 –",
